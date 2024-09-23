@@ -1,0 +1,26 @@
+
+Table 1:
+INFORMATION OF FACTORY SETTING	INFORMATION OF FACTORY SETTING	INFORMATION OF FACTORY SETTING
+Sr	Details 	Disply Show
+	OK और CLEAN बटन दबाके रखना है और Milkolite मशीन की पावर स्विच चालू करे जब तक डिस्प्ले पर PASSWORD लिखा हुआ न आये |	
+	OK और CLEAN बटन दबाके रखना है और Milkolite मशीन की पावर स्विच चालू करे जब तक डिस्प्ले पर PASSWORD लिखा हुआ न आये |	
+	FACTORY पासवर्ड लगाये | पासवर्ड डिजिट ENTER करने के लिये DOWN-UP & OK बटन का उपयोग करे |	
+	गलत पासवर्ड लगाने पर डिस्प्ले पर WRONG PASWORD का मेसेज आयेगा 	
+सही पासवर्ड लगाने से डिस्प्ले पर MACHINE ID आयेगा 	सही पासवर्ड लगाने से डिस्प्ले पर MACHINE ID आयेगा 	
+	OK बटन प्रेस करने पर “ENTER MACHINE ID” आयेगी |	
+	मशीन आईडी ENTER करने के लिये DOWN-UP & OK बटन का उपयोग करे |	
+	OK बटन प्रेस करने पर “CHANGE DONE SUCCESSFULLY का मेसेज आयेगा 	
+UP बटन प्रेस करने पर FACTORY PASSWORD आयेगा |	UP बटन प्रेस करने पर FACTORY PASSWORD आयेगा |	
+	OK बटन प्रेस करने पर “NEW PASSWORD” आयेगा  |	
+	न्यू पासवर्ड  ENTER करने के लिये DOWN-UP & OK बटन का उपयोग करे |	
+	OK बटन प्रेस करने पर “CHANGE DONE SUCCESSFULLY का मेसेज आयेगा 	
+UP बटन प्रेस करने पर USER PASSWORD आयेगा |	UP बटन प्रेस करने पर USER PASSWORD आयेगा |	
+	OK बटन प्रेस करने पर “NEW PASSWORD” आयेगा  |	
+	न्यू पासवर्ड  ENTER करने के लिये DOWN-UP & OK बटन का उपयोग करे |	
+	OK बटन प्रेस करने पर “CHANGE DONE SUCCESSFULLY का मेसेज आयेगा 	
+UP बटन प्रेस करने पर SENSOR PIPE CAL आयेगा	UP बटन प्रेस करने पर SENSOR PIPE CAL आयेगा	
+	साफ और स्वच्छ पानी मिल्कोलाईट मशीन की पिपेट के निचे रखे |	
+	OK बटन प्रेस करने पर “WAITING FOR SYSTEM READY” का मेसेज आयेगा 	
+	PROGRAMME RUN	
+	ओटोमेटिक सेंसर पाईप का केलिब्रेसन होने के बाद “OFFSET CAL OK और OFFSET COUNT आयेगा |	
+	“OFFSET CAL OK “ आने के बाद मशीन की पावर स्विच बंध करके चालू करे | 	

@@ -1,0 +1,97 @@
+
+Table 1:
+Give the all the require permissions while installing the application as shown above. After
+giving all require permissions, MilkoCheck application will install in your Android phone.			
+In this page, User needs to
+enter the Mobile number and
+then click on send OTP.	For the login, User needs to
+ente r the OTP in this page
+and click on Verify OTP.		While login this App Setup
+page will appear.
+After Successful login, if no device is added in
+App then this page will open.
+User can add a device by click on plus button.		If device is already added in App then this
+page will open. Here on this page if a device
+is already synced with a server then a green
+symbol will appear beside the Device detail,
+and if not synced then a red symbol will
+appear beside the Device detail.	
+
+Table 2:
+To add a new device, User needs to click on
+the plus button available at the right bottom
+corner.
+The Device Registration page is shown here.
+1. Customer: Here a user needs to select the
+customer name from the drop-down menu.
+(Note: Customer details are already added in
+server)
+2. QR Serial No.: Click on the QR code scanner to
+scan the QR code of the device. The serial
+number of QR code will come automatically
+after successful scanning of device QR code.
+3. Device No.: User needs to enter the Machine
+serial number.
+4. Type: Here device type ultrasonic is selected
+by default.
+5. Make-Model: Here a user needs to select the
+Make-Model of Machine from the drop-down
+list.
+6. Under Warranty: If a machine is under
+warranty then select YES and also mention
+expiry date of the warranty.
+7. Under AMCS: If a machine is under AMCS then
+select YES otherwise No.
+8. Machine Front Photo: Using Take Photo option
+take a photo of a machine from the Front.
+9. Machine Back Photo: Using Take Photo option
+take a photo of a machine from the Back.
+After filling all the details click on the SAVE button
+to register the device.
+
+Table 3:
+To start the Calibration status check process,
+select the device from the available device list
+or scan the device QR code from the top right
+corner.	After selecting a device this page will open, in
+this page customer name and a Serial
+number of the machine is available.
+By clicking on the Start button on the Start
+Process page user can start the calibration
+check process.
+In this calibration check, the process page
+user needs to collect 10 samples of data from
+the device. 1 for sample A and 3 each for B, C
+& D Samples. First, click on the Take Photo
+option available at A sample.	On this page first, click the pic of the machine
+QR code. Device (Machine) QR code must be
+in between the green square. The application
+will capture the Device QR code
+automatically.
+
+Table 4:
+After successfully checking the Machine QR
+code by application, the app will ask for a
+Sample QR code.	On this page Sample, bottle QR code must be
+in between the Yellow square. The
+application will capture the Sample bottle QR
+code automatically.
+After successfully checking the Sample bottle
+QR code by application, the app will ask for a
+sample reading.	While taking a photo of a device after analysis
+user needs to aline device Display in a guided
+Red box then only an image will capture the
+reading automatically.
+
+Table 5:
+After Capturing a photo in App this page will
+open. Here on this page machine QR code,
+Sample bottle QR code number and value of
+FAT and SNF of analysis will appear. Click on
+the SAVE button to save this analysis data.	Repeat the same process for all types of
+Samples (B, C and D).
+After completing the all analysis, finish button
+will enable. Now click on the FINISH button.
+	
+Above message will appear when completing the analysis and sync of all samples data from
+the mobile application.	

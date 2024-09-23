@@ -1,0 +1,86 @@
+
+Table 1:
+Our unique offering, Prompt Milkolite
+Ultrasonic Milk Analyzer, is a fully
+indigenous and economical product that
+provides accurate readings of milk
+parameters such as Fat, SNF, added water,
+and milk density. It is robust and
+extremely easy to operate and suitable for
+analysing cow, buffalo, and mixed milk.
+
+
+
+Table 2:
+KEY FEATURES:
+Measures milk fat, SNF,
+Single curve calibration One-touch analysis
+added water, milk density
+Spare parts are easily
+Measuring time 40 Sec
+accessible
+TECHNICAL SPECIFICATIONS
+FAT: 0.0 to 15% with accuracy ±0.1%
+SNF: 3 to 15% with accuracy ±0.15%
+Measuring Parameters
+Added water to milk: 0 to 60% with accuracy ±5%
+Density: 1.0220 g/cm³ to 1.0360g/cm³ with accuracy ±0.0005 g/cm³
+Resolution: ±0.01% for Fat, ±0.01% for SNF, ±1% for added water,
+±0.0001 g/cm³ for density
+Repeatability: ±0.03% for Fat, ±0.05% for SNF, ±0.5% for added water,
+±0.0002 g/cm³ for density
+Measuring Time 40 seconds
+Milk Temperature 5°C ~ 40°C
+Cleaning, Single Curve Calibration, Error List, Suitable for
+Operating Facilities
+Cow/Buffalo/Mixed Milk
+Display 16 characters by 2 lines alphanumeric LCD display
+Keys Push-button keys
+Interface 1 RS232 Serial ports
+Calibration Manual
+AC Supply: 230V ±15%, 50Hz
+Power Input
+DC Supply: 12V to 14V DC, 10A
+Ambient Air temperature: 10°C ~ 50°C
+Environmental Conditions
+Relative Humidity: 30% to 80%
+Power Consumption Average 30 watts, peak 60 watts
+RS2 32 serial cable - 1 Qty.
+Battery power cable - 1 Qty.
+Monthly cleaning solution - 1 Qty.
+Loose Accessories Daily cleaning solution - 1 Qty.
+Measuring mug - 2 Qty.
+Operating manual- 1 Qty.
+Plunger - 1 Qty.
+
+4202
+enuJ
+
+
+Table 3:
+	SNF: 3 to 15% with accuracy ±0.15%
+	Added water to milk: 0 to 60% with accuracy ±5%
+	Density: 1.0220 g/cm³ to 1.0360g/cm³ with accuracy ±0.0005 g/cm³
+	Resolution: ±0.01% for Fat, ±0.01% for SNF, ±1% for added water,
+±0.0001 g/cm³ for density
+	Repeatability: ±0.03% for Fat, ±0.05% for SNF, ±0.5% for added water,
+±0.0002 g/cm³ for density
+Measuring Time	40 seconds
+Milk Temperature	5°C ~ 40°C
+Operating Facilities	Cleaning, Single Curve Calibration, Error List, Suitable for
+Cow/Buffalo/Mixed Milk
+Display	16 characters by 2 lines alphanumeric LCD display
+Keys	Push-button keys
+Interface	1 RS232 Serial ports
+Calibration	Manual
+Power Input	AC Supply: 230V ±15%, 50Hz
+	DC Supply: 12V to 14V DC, 10A
+Environmental Conditions	Ambient Air temperature: 10°C ~ 50°C
+	Relative Humidity: 30% to 80%
+Power Consumption	Average 30 watts, peak 60 watts
+	RS2 32 serial cable - 1 Qty.
+	Battery power cable - 1 Qty.
+	Monthly cleaning solution - 1 Qty.
+	Daily cleaning solution - 1 Qty.
+	Measuring mug - 2 Qty.
+	Operating manual- 1 Qty.

@@ -1,0 +1,137 @@
+
+Table 1:
+										(4 Buckets Fixed	
+				(Single Bucket)			(Double Bucket)				
+										Type)	
+											
+				10 - 12			20 - 24			40 - 44	
+	Cattle per hour										
+											
+	Milking cup										
+				1 Set			2 Set			4 Set	
+	group number										
+											
+				40 to 50 Kpa			40 to 50 Kpa			40 to 50 Kpa	
+	Working										
+	vacuum			(Adjustable)			(Adjustable)			(Adjustable)	
+											
+	Pulsation ratio			60 / 40			60 / 40			60 / 40	
+				60 times per			60 times per			60 times per	
+	Pulsation time										
+				minute			minute			minute	
+											
+	Vacuum pump										
+				0.55 KW			0.75 KW			1.1 KW	
+	power										
+											
+				200 LPM			240 LPM			430 LPM	
+	Pump Capacity										
+											
+
+Table 2:
+2) Milking Machine Kit and Parts
+2.1 Milking Machine Starter kit includes
+
+Table 3:
+	Sr.						PRM-1 (SBSC)			PRM-2 (DBDC)			PRM-1D (SBDC)	
+				Material										
+	no.						Trolley Type			Trolley Type			Trolley Type	
+														
+	1			Vacuum Pump			1 (200 LPM)			1 (240 LPM)			1 (240 LPM)	
+	2			Vacuum Gauge			1			1			1	
+	3			Vacuum Regulator			1			1			1	
+				Milk Can SS 304										
+	4						1			2			1	
+				(25 Ltr. with Lid)										
+														
+	5			Pulsator 60/40			1			2			2	
+	6			Milk Claw 240CC			1			2			2	
+	7			Liner MS390U			Total 4 in 1 set			Total 8 in 2 set			Total 8 in 2 set	
+	8			Teat Cup SS 304			4			8			8	
+	9			Dummy Teat			4			8			8	
+	10			Milk Tube			1 (2.5 Meter)			2 (5 Meter)			2 (5 Meter)	
+	11			Twin pulse Tube			1 (2.5 Meter)			2 (5 Meter)			2 (5 Meter)	
+	12			Tube Clip(S-Type)			3			6			6	
+	13			Hosepipe			1			1			1	
+				Trolley wheel										
+	14						2			2			2	
+				10x2 inch										
+														
+	15			Vacuum Tank			NA			1			1	
+	16			Tube Brush			1			1			1	
+	17			Liner Brush			1			1			1	
+				Cleaning solution										
+	18						1			1			1	
+				bottle										
+														
+
+Table 4:
+Sr.		PRM-1F (SBSC)	PRM-2F (DBDC)	PRM-2F (4B4C)
+	Material			
+no.		Fix Type	Fix Type	Fix Type
+				
+1	Vacuum Pump	1 (240 LPM)	1 (240 LPM)	1 (400 LPM)
+2	Vacuum Gauge	1	1	1
+3	Vacuum Regulator	1	1	1
+	Milk Can SS 304			
+4		1	2	4
+	(25 Ltr. with Lid)			
+				
+5	Pulsator 60/40	1	2	4
+6	Milk Claw 240CC	1	2	4
+7	Liner MS390U	Total 4 in 1 set	Total 8 in 2 set	Total 16 in 4 set
+8	Teat Cup SS 304	4	8	16
+9	Dummy Teat	4	8	16
+10	Milk Tube	1 (2.5 Meter)	2 (5 Meter)	4 (10 Meter)
+11	Twin pulse Tube	1 (2.5 Meter)	2 (5 Meter)	4 (10 Meter)
+12	Tube Clip (S-type)	3	6	12
+13	Hosepipe	1	1	1
+14	Vacuum Tank	18 Ltr.	18 Ltr.	NA
+	Tube cleaning			
+15		1	1	1
+	brush			
+				
+	Liner cleaning			
+16		1	1	1
+	brush			
+				
+	Cleaning solution			
+17		1	1	1
+	bottle			
+				
+
+Table 5:
+Note: Use Alkaline chemical solution for cleaning of milking machine twice a
+week.
+
+Table 6:
+Equipment Name		Frequency
+Vacuum Oils	Oil level in a plastic bottle	Every day before
+starting Milking
+Vacuum Pump	Check work Situation	Every Day
+Electrical Component	Check it’s safety, please cut off
+the power supply when
+checking	Once in a month
+Connection of all parts	Check the connection situation
+of parts	Once in six month
+
+Table 7:
+Sr. No.	Signs of Failure	Reason	Solution
+1	Abnormal Noises of
+Vacuum Pump	Oil Starvation	Add oil
+		Oil Impeded	Adjust discharge of
+oil volume
+		Bearing failure	Change bearing
+2	Point negative
+pressure < 50Kpa in
+vacuum gauge	Loosen of governing valve	Adjust
+		Opened drain valve	Close
+		Opened switch in milk claw	Close
+		If set the switch of milk
+above rubber is closed	Close
+3	Pressure > 50Kpa in
+vacuum gauge	Too tight of vacuum
+pressure regulating valve	Adjust
+4	Point Zero pressure
+in vacuum gauge	Vacuum gauge damage	Change
+		Vacuum pump damage	Maintain or change

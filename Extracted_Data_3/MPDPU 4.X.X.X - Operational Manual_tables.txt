@@ -1,0 +1,425 @@
+
+Table 1:
+Product version: 4.0.4.6	Document version: 1.0	Date: 19/09/2020
+
+Table 2:
+	Milk Collection 
+The DPU milk collection system allows fast and real-time milk collection along with configuration facility and milk type identification feature.
+	Milk Rate Chart
+Facilitates unlimited milk rate chart based on FAT, FAT & SNF, shift-wise, and milk type. Also, lets you generate personalized rate charts.
+	Farmer Payment
+The milk collection system generates a specific report based on transactions and payment made to the farmer by milk collection MPP.
+	Dispatch
+Provides milk type-wise and Can-wise Auto-dispatch. The values for Fat, SNF, Quantity, LR, and Solids are fetched automatically.
+	Reports
+The milk collection software generates different reports to track manual modifications in data, purchase summary, truck sheet, payment register, etc.
+	Data Transfer
+The milk collection software supports secure import and export of masters, milk collection data & edits history, and dispatch data transfer.
+
+Table 3:
+	Configurable 
+The MPDPU is configurable through web portal.
+	Security 
+Facilitates Role-based security and maintains an Audit trail.
+	External Interface/Connectivity
+Any RS-232 enabled Weighing Scale, Fat Measuring Machine, Milk Analyzer, and CLR Machine can be easily interfaced with MPDPU without changing the software.
+	Masters
+DPU allows various Masters (Society Master, User Master, Member Master, System Configuration, Rate Chart, Interfacing Hardware Setup, Account Master, CAN Master, Message Master) to be configured through GSM (Web Portal), USB Pen drive, or manually (Add, Edit, View).
+	Data Transfer
+Supports import and export of masters, milk collection data and edit history, and dispatch data transfer through USB Pen Drive and through GSM to web portal.
+	Data Storage
+Offers unlimited data storage on Micro SD Card and data backup facility with minimum configuration besides the provision of reusability.
+	Milk Rate Chart
+Provides unlimited milk rate chart based on Fat, LR and SNF combinations, milk type (cow, buffalo or mix), shift-wise, and effective date. Also, calculates a formula-based rate for private customers.
+	Dispatch
+Provides milk type-wise and Can-wise Auto-dispatch. During Auto-dispatch, weight, Fat, SNF, LR and Solid data are fetched automatically.
+	Message Master
+Custom messages can be printed for a specified date range and member wise.
+	Reports
+Reports that can be generated include Highlighting manual entry of weight, Fat, CLR, and SNF in slips, Milk Slip, Dispatch Report, Purchase Register, Truck Sheet, Payment Register, Member Milk Bill, Bonus Register, Purchase Summary, Member List, and System Setting Report.
+
+Table 4:
+
+
+	Milk Collection
+Fast and real-time milk collection
+Supports 9999 members per Society
+Supports both measurement units (Litre and Kilogram)
+Unique Member code generated across system
+Algorithm for auto-calculate SNF based on LR
+Milk collected from the same member in same shift more than once can be configured
+Multiple ways of milk type identification for e.g. Only Cow, Only Buffalo, or Mix
+Milk Can number is stored in milk collection data. It is used to know the member list in case of bad milk in Can
+Manual milk collection and Edit milk collection facility can be configured
+
+Table 5:
+	Milk Collection can be done in two units
+Kilogram
+Litre
+
+Table 6:
+	DPU collects the milk of three different types which are following.
+Cow
+Buffalo
+Mix
+
+Table 7:
+	DPU manages the identity of milk in manual or automatic way. Each milk type of milk has different rate for that. 
+Rate has been decided according to the following parameters of milk.
+FAT
+FAT & LRCLR
+FAT & SNF
+SOLID (FAT + SNF value)
+
+Table 8:
+Component name		Description	Quantity
+Paper Roll		Printer Page for Thermal Printer	4
+RS232 Link		Interface cable for Electronic Weigh Scale
+Interface cable for Remote Display unit
+Interface cable for FAT Machine/Milk Analyzer	3
+Power Lead
+ (For DC
+DPU)		1.5 M power cable with plug top	1
+Power Adapter 
+(For AC
+DPU)		12V DC 3Amp. 	1
+USB PC
+Keyboard		Keyboard 	1
+
+Table 9:
+
+After plugging in the DPU and powering it on, you will see screen like above.
+On top left, the power bar would show the Battery level
+Besides there will be Charging indicator, which would show the device is being charged
+Current Date and time would be shown besides, synchronized with the server
+GSM Network bar will come first and network bar shows the strength of the network
+G icon shows the connectivity of GSM network, if icon is in G green means  GSM network is connected and if icon is in G Red means GSM network is not connected
+Right side icon S with green background shows the data is successfully synchronized with the Web portal, if S has red background means the DPU is not synchronized with Web portal
+Below left side shows the manufecturer name
+Bottom right shows the version of the firmware installed in the system
+
+Table 10:
+	The username and password would be given to you by Portal Admin.
+You can login by the given username and password.
+
+Table 11:
+
+The Functions of DP-Pro are divided into 5 main menu,
+Masters: This menu includes all the masters of DPU
+Transaction: The menu contains all milk transaction 
+Transfer: This menu have the data transfer options with USB drive – both import and export
+Reports: Various reports of DPU for both serial and USB printers
+Setting: The setting will allow the user to manage the settings of DPU
+
+Table 12:
+	Member Code: Member code will automatically generated
+Society Code: Select the society code of particular member
+Member name: Enter the member name here
+Member Name (LL): Enter the member name in local language here
+Address: Enter the Address of the member here
+Date of Birth: Select the date of birth of member
+	Pin Code: Enter the pin code of member’s address
+Census Code: Enter the Census code given by Dairy’s format here
+Gender: Select the Gender of member
+Is Registered?: Select Yes if member is registered
+Milk Type: Select the Milk Type of member’s cattle
+	Mobile no: Enter the mobile No. here.
+Aadhar Card No:
+PAN Card No: 
+Date of Joining: Select the joining date of member to society
+After filling all the details press Enter button to save the data
+
+Table 13:
+	
+Mobile number is important for sending SMS and also for payment related updates. For that user need to go through Masters >> Member Mobile Mapping.
+From here user can map the mobile number of member.	Mobile number is important for sending SMS and also for payment related updates. For that user need to go through Masters >> Member Mobile Mapping.
+From here user can map the mobile number of member.
+
+Table 14:
+	
+Bank details is also important for payment of farmer. For that user need to go through Masters >> Member Bank Details.
+User need to fill the Bank Name, Branch Name, IFSC Code, Branch Code, and MICR Code.	Bank details is also important for payment of farmer. For that user need to go through Masters >> Member Bank Details.
+User need to fill the Bank Name, Branch Name, IFSC Code, Branch Code, and MICR Code.
+
+Table 15:
+	Rate Chart are sync from web portal directly in most of the cases when DPU in Online mode.
+User can view the Details of Rate Chart given by Web portal from here. 
+For that user need to go through Masters >> RateChart.
+	
+After selecting, as shown above, the user will see the list of all the available rate charts in DPU.
+The Rate chart has following properties:
+Rate ID: The unique ID given to the Rate chart by the system
+Effective Date: The date, from when the rate will be applied
+Shift: Whether the rate chart applied for Morning shift or Evening Shift
+Rate Type: On which parameter the rate is being calculated. FATSNF shows the rate chart is going to calculate rate based on FAT and SNF of collected milk	After selecting, as shown above, the user will see the list of all the available rate charts in DPU.
+The Rate chart has following properties:
+Rate ID: The unique ID given to the Rate chart by the system
+Effective Date: The date, from when the rate will be applied
+Shift: Whether the rate chart applied for Morning shift or Evening Shift
+Rate Type: On which parameter the rate is being calculated. FATSNF shows the rate chart is going to calculate rate based on FAT and SNF of collected milk
+	When you select the RateChart this popup page will open and that ask you to View or Edit?
+Note: At DPU level there is no rights for Edit RateChart.
+If you want to View the RateChart click on View Button.
+	
+RateChart will look like this. 
+From here you can see RateChart for Cow. Select the Buff then you can see the RateChart for Buff.	RateChart will look like this. 
+From here you can see RateChart for Cow. Select the Buff then you can see the RateChart for Buff.
+
+Table 16:
+
+The transaction menu is having following useful features
+Auto Milk Collection: Automatic Milk Collection process happening everyday twice at Society in morning shift and evening shift. 
+Edit Milk Collection: This option will help user to apply the request for Edit in Old Milk Collection data. (User need approval to use this option)
+Manual Milk Collection: This option will help user to apply the request for Manual Milk Collection. (User need approval to use this option)
+Simple Dispatch: After the collection, the milk is dispatched to the plant by using this option.
+Can wise Dispatch: After the collection, the milk is dispatched CAN wise to the plant by using this option.
+Date and Shift wise Dispatch: After the collection, the milk is dispatched Date & Shift wise to the plant by using this option.
+Rate Recalculation: Using this option user can apply to recalculate the Milk Rate.
+
+Table 17:
+	
+Date: Current date will come automatically
+Shift: Select the field, Evening or morning, default shift will be selected based on the current time
+Print: If you want to have automatic slip print, select option YES. If not, then select NO. 
+Press ENTER and you will see the milk collection screen.	Date: Current date will come automatically
+Shift: Select the field, Evening or morning, default shift will be selected based on the current time
+Print: If you want to have automatic slip print, select option YES. If not, then select NO. 
+Press ENTER and you will see the milk collection screen.
+
+Table 18:
+On top, you will see the Date and (shift). Besides, serial No. which show the numbers of the collection done in the shift.
+
+From USB Keyboard, enter the Code of member who come to collect milk, press ENTER
+Member’s Name will come automatically from the Member Master’s data
+Milk type whether it is cow or buffalo can be managed from keyboard by pressing F2 button
+Can No. is the number of can in which the milk is being poured, enter from keyboard
+Quantity of milk in litre will come from the Electronic Weigh Scale automatically
+FAT and SNF values of poured milk will come from the Milk Analyzer automatically
+Any Added Water in % and CLR value of poured milk will come from the Milk Analyzer automatically
+The Rate would come automatically from the Rate Chart installed in the device
+Amount based on the Rate and Quantity would be calculated and seen here
+This is sample/serial number of Member for milk collection in particular shift.
+By pressing ENTER the milk collection would be completed and printer would print the slip if enabled.
+Here, your milk collection process competes.
+
+Table 19:
+		There could be some cases like power cut or some external factor, which would cause milk edit needed due to wrong entries.
+For Edit Milk Collection user need to go through Transaction >> Edit Milk Collection.
+		
+Using Edit Milk Collection option user can edit data like Rate, FAT, SNF, Qty with difference than older data for selected date, shift and collection method. 
+Edit Milk Collection parameters are same as Auto Milk Collection, User can edit Qty, FAT & SNF value, CAN No. manually.
+NOTE: Here the system has been created that the milk edit would be requested from the Society by generating the ticket and reference to that the Milk Edit Permission can be enabled. 	Using Edit Milk Collection option user can edit data like Rate, FAT, SNF, Qty with difference than older data for selected date, shift and collection method. 
+Edit Milk Collection parameters are same as Auto Milk Collection, User can edit Qty, FAT & SNF value, CAN No. manually.
+NOTE: Here the system has been created that the milk edit would be requested from the Society by generating the ticket and reference to that the Milk Edit Permission can be enabled. 	Using Edit Milk Collection option user can edit data like Rate, FAT, SNF, Qty with difference than older data for selected date, shift and collection method. 
+Edit Milk Collection parameters are same as Auto Milk Collection, User can edit Qty, FAT & SNF value, CAN No. manually.
+NOTE: Here the system has been created that the milk edit would be requested from the Society by generating the ticket and reference to that the Milk Edit Permission can be enabled. 
+
+Table 20:
+	There could be some cases like the fault in the AMCU devices or DPU connected devices or power cut or some external factor, which would cause to make manual milk collection.
+To enable Manual Milk Collection, user go through Transaction >> Manual Milk Collection.
+	
+Using Manual Milk Collection option user can enter the Milk collection data like Rate, FAT, SNF, Qty for selected date, shift. 
+Milk Collection parameters are same as Auto Milk Collection, User need to enter Member code, Milk Type, Qty, FAT & SNF value, CAN No. manually.
+NOTE: Here the system has been created that the manual milk collection would be requested from the Society by generating the ticket and reference to that the Manual Milk Permission can be enabled from here. 	Using Manual Milk Collection option user can enter the Milk collection data like Rate, FAT, SNF, Qty for selected date, shift. 
+Milk Collection parameters are same as Auto Milk Collection, User need to enter Member code, Milk Type, Qty, FAT & SNF value, CAN No. manually.
+NOTE: Here the system has been created that the manual milk collection would be requested from the Society by generating the ticket and reference to that the Manual Milk Permission can be enabled from here. 
+
+Table 21:
+	Society can use Simple Dispatch to send collected milk to BMC/MCC or plant with Milk Quantity and other parameters. 
+For this user go through Transaction >> Simple Dispatch.
+	Select the Date & Shift for which you want to add the data for the dispatch.
+Press Enter and you would see Simple Dispatch screen.
+	
+Add the following parameters, 
+Milk Type: Cow and Buffalo, both milk types are given. The parameters to be added for both
+Total Can: Add no. of cans filled for the milk in the shift
+Total Qty: Add the total quantity of milk in litre for both Cow and Buffalo separately
+FAT: Add the FAT value of both milk one by one
+SNF: Add the SNF value of both milk one by one
+Tanker Number: Add the tanker number in which the milk is being dispatched	Add the following parameters, 
+Milk Type: Cow and Buffalo, both milk types are given. The parameters to be added for both
+Total Can: Add no. of cans filled for the milk in the shift
+Total Qty: Add the total quantity of milk in litre for both Cow and Buffalo separately
+FAT: Add the FAT value of both milk one by one
+SNF: Add the SNF value of both milk one by one
+Tanker Number: Add the tanker number in which the milk is being dispatched
+
+Table 22:
+	Society can use Date and Shift wise Dispatch to send collected milk to BMC/MCC or plant with Milk Quantity and other parameters. 
+For that user go through Transaction >> Date and Shift wise Dispatch.
+	For Date & Shift Wise Dispatch following parameters are require. 
+Dispatch Date: Here enter the Dispatch date
+From Date: The date from which Dispatch has been start
+To Date: The date up-to which Dispatch has been end
+From Shift: The Shift from which Dispatch has been start
+To Shift: The Shift up-to which Dispatch has been end
+
+Table 23:
+	After selecting that, you will get the printer selection option.
+Serial Printer (Thermal Printer)
+USB Printer (Dot Matrix Printer)
+Here you need to Select USB Printer.
+All the reports are listed below and explained one by one.
+Milk Slip: Milk slip is given to individual member after their milk collection completed
+Duplicate Slip: If a duplicate slip is needed to be given to any member
+Purchase Register: To see the Purchase Register of the selected date
+Dispatch Slip:  To see the Dispatch Slip of the selected Date
+Truck Sheet: To see the Truck sheet of the selected date
+Purchase Summary: To see the Purchase Summary of the selected days
+Member Milk Bill: The selected member’s Milk Bill can be seen and printed
+Payment Register: To see the payment register of the selected days
+Member List: A report which would give the list of selected or all members of Society
+System Settings: All the settings of DPU like Rate Parameters, Range Parameters, Rate Calculations, Hardware Settings, Security Settings, Print Settings, Language Settings and all other Default Settings will be printed from here	All the reports are listed below and explained one by one.
+Milk Slip: Milk slip is given to individual member after their milk collection completed
+Duplicate Slip: If a duplicate slip is needed to be given to any member
+Purchase Register: To see the Purchase Register of the selected date
+Dispatch Slip:  To see the Dispatch Slip of the selected Date
+Truck Sheet: To see the Truck sheet of the selected date
+Purchase Summary: To see the Purchase Summary of the selected days
+Member Milk Bill: The selected member’s Milk Bill can be seen and printed
+Payment Register: To see the payment register of the selected days
+Member List: A report which would give the list of selected or all members of Society
+System Settings: All the settings of DPU like Rate Parameters, Range Parameters, Rate Calculations, Hardware Settings, Security Settings, Print Settings, Language Settings and all other Default Settings will be printed from here
+
+Table 24:
+	
+For Mill Bill Report user need to go through Reports >> Serial Printer Reports >> Milk Slip.
+While selecting the Milk Slip from the screen, first the user would see the screen to select the parameters.
+Here, select the Date, shift From member code and To Member Code (Range of member of whom milk slip needed to see) to see the report as requirement.
+Note: If the user want to see a specific person’s slip (i.e. member code 0001), have the From and To member code value as 0001 only.	For Mill Bill Report user need to go through Reports >> Serial Printer Reports >> Milk Slip.
+While selecting the Milk Slip from the screen, first the user would see the screen to select the parameters.
+Here, select the Date, shift From member code and To Member Code (Range of member of whom milk slip needed to see) to see the report as requirement.
+Note: If the user want to see a specific person’s slip (i.e. member code 0001), have the From and To member code value as 0001 only.
+	This type of Milk Slip will be printed.
+
+Table 25:
+	
+For Duplicate Milk Bill Report user need to go through Reports >> Serial Printer Reports >> Duplicate Slip.
+While selecting the Duplicate Milk Slip from the screen, first the user would see the screen to select the parameters.
+Here, select the Date, shift From member code and To Member Code (Range of member of whom milk slip needed to see) to see the report as requirement.
+Note: If the user want to see a specific person’s slip (i.e. member code 0001), have the From and To member code value as 0001 only.	For Duplicate Milk Bill Report user need to go through Reports >> Serial Printer Reports >> Duplicate Slip.
+While selecting the Duplicate Milk Slip from the screen, first the user would see the screen to select the parameters.
+Here, select the Date, shift From member code and To Member Code (Range of member of whom milk slip needed to see) to see the report as requirement.
+Note: If the user want to see a specific person’s slip (i.e. member code 0001), have the From and To member code value as 0001 only.
+	This type of Duplicate Slip will be printed.
+
+Table 26:
+	
+For Purchase Register Report user need to go through Reports >> Serial Printer Reports >> Purchase Register.
+While selecting the Purchase register from the screen, first the user would see the screen to select the parameters.
+Here, select the Date, shift and milk type (Cow/Buff/All) to see the report as requirement.	For Purchase Register Report user need to go through Reports >> Serial Printer Reports >> Purchase Register.
+While selecting the Purchase register from the screen, first the user would see the screen to select the parameters.
+Here, select the Date, shift and milk type (Cow/Buff/All) to see the report as requirement.
+	This type of Purchase Register will be printed.
+
+Table 27:
+	
+For Dispatch Slip user need to go through Reports >> Serial Printer Reports >> Dispatch Slip.
+While selecting the Dispatch Slip from the screen, first the user would see the screen to select the parameters.
+Here, select the Date and Dispatch Type to see the report as requirement.	For Dispatch Slip user need to go through Reports >> Serial Printer Reports >> Dispatch Slip.
+While selecting the Dispatch Slip from the screen, first the user would see the screen to select the parameters.
+Here, select the Date and Dispatch Type to see the report as requirement.
+	This type of Dispatch Slip will be printed.
+
+Table 28:
+	
+For Truck Sheet Report user need to go through Reports >> Serial Printer Reports >> Truck Sheet.
+While selecting the Truck Sheet from the screen, first the user would see the screen to select the parameters.
+Here, select the Date, shift and milk type (Cow/Buff/All) to see the report as requirement.	For Truck Sheet Report user need to go through Reports >> Serial Printer Reports >> Truck Sheet.
+While selecting the Truck Sheet from the screen, first the user would see the screen to select the parameters.
+Here, select the Date, shift and milk type (Cow/Buff/All) to see the report as requirement.
+	This type of Truck Sheet will be printed.
+
+Table 29:
+	
+For Purchase Summary Report user need to go through Reports >> Serial Printer Reports >> Purchase Summary.
+While selecting the Purchase Summary from the screen, first the user would see the screen to select the parameters. Here, select the From and To Date, for which the user wants to see the report
+Same way, select From and To Shift. At last, select milk type (Cow/Buff/All) to see the report as requirement.	For Purchase Summary Report user need to go through Reports >> Serial Printer Reports >> Purchase Summary.
+While selecting the Purchase Summary from the screen, first the user would see the screen to select the parameters. Here, select the From and To Date, for which the user wants to see the report
+Same way, select From and To Shift. At last, select milk type (Cow/Buff/All) to see the report as requirement.
+	This type of Purchase Summary will be printed.
+
+Table 30:
+	
+For Member Milk Bill Report user need to go through Reports >> Serial Printer Reports >> Member Milk Bill.
+While selecting the Member Milk Bill from the screen, first the user would see the screen to select the parameters. Here, select the From and To Date, for which the user wants to see the report
+Same way, select Milk Type (Cow/Buff/All) to see the report as requirement. At last, select From and To Member (The range of member whose passbook is to be shown)
+Note: If the user want to see a specific person’s passbook (i.e. member code 0001), have the From and To member code value as 0001 only.	For Member Milk Bill Report user need to go through Reports >> Serial Printer Reports >> Member Milk Bill.
+While selecting the Member Milk Bill from the screen, first the user would see the screen to select the parameters. Here, select the From and To Date, for which the user wants to see the report
+Same way, select Milk Type (Cow/Buff/All) to see the report as requirement. At last, select From and To Member (The range of member whose passbook is to be shown)
+Note: If the user want to see a specific person’s passbook (i.e. member code 0001), have the From and To member code value as 0001 only.
+	This type of Member Milk Bill will be printed.
+
+Table 31:
+	
+For Payment Register Report user need to go through Reports >> Serial Printer Reports >> Payment Register.
+While selecting the Payment Register from the screen, first the user would see the screen to select the parameters.
+Here, select the From Date, To date (Date Range to see the data for) and milk type (Cow/Buff/All) to see the report as requirement.	For Payment Register Report user need to go through Reports >> Serial Printer Reports >> Payment Register.
+While selecting the Payment Register from the screen, first the user would see the screen to select the parameters.
+Here, select the From Date, To date (Date Range to see the data for) and milk type (Cow/Buff/All) to see the report as requirement.
+	This type of Purchase Register will be printed.
+
+Table 32:
+	
+For Total Member List User need to go through Reports >> Serial Printer Reports >> Member List.
+The member list would have all the members listed with their code, name and gender.
+The search bar gives the facility to search for a specific member by name or code.
+The bottom side shows the pagination, pages would be automatically managed as per the no. of members.
+Also, the user can take the print out of the list by pressing F12 from the keyboard.	For Total Member List User need to go through Reports >> Serial Printer Reports >> Member List.
+The member list would have all the members listed with their code, name and gender.
+The search bar gives the facility to search for a specific member by name or code.
+The bottom side shows the pagination, pages would be automatically managed as per the no. of members.
+Also, the user can take the print out of the list by pressing F12 from the keyboard.
+	This type of Member List will be printed.
+
+Table 33:
+	To View all System Setting in print User need to go through Reports >> Serial Printer Reports >> System Settings.
+While selecting the System Settings from the screen, all the system settings parameters are printed.
+
+Table 34:
+	
+For Purchase Register user need to go through Reports >> USB Printer Reports >> Bonus Register.
+While selecting the Bonus Register from the screen, first the user would see the screen to select the parameters.
+Here, select the From Date, To date (Date Range to see the data for), Base on (Amount or Liter), Amount and Discount to see the report as requirement.	For Purchase Register user need to go through Reports >> USB Printer Reports >> Bonus Register.
+While selecting the Bonus Register from the screen, first the user would see the screen to select the parameters.
+Here, select the From Date, To date (Date Range to see the data for), Base on (Amount or Liter), Amount and Discount to see the report as requirement.
+	This type of Bonus Register will be printed.
+
+Table 35:
+	The first option under the transfer menu is Import. Sometimes, when there is no network connectivity and the data transfer is not happening online, this option will be useful for the engineer to import data or settings. Also, this option is used to import the new rate chart.
+	While selecting the option, you would see the menu. Select the respective option.
+Note: To use any of the option, you would need to attach the USB drive (Pen Drive) first.
+Mostly you have to select the Masters option, the settings will be automatically added in the system.
+Master: User can Import the Master related functionality from here using USB pen drive.
+Rate Chart: From here user can Import the Rate Chart in Offline mode using USB pen drive.
+Same process for Rate Chart Update, attach the pen drive and select Masters, new rate chart will be automatically updated. 	Rate Chart: From here user can Import the Rate Chart in Offline mode using USB pen drive.
+Same process for Rate Chart Update, attach the pen drive and select Masters, new rate chart will be automatically updated. 
+
+Table 36:
+	The second option under the transfer menu is Export. Sometimes, when there is no network connectivity and the data transfer is not happening online, this option will be useful for the engineer to export data or settings.
+User can Export the Milk Collection related data from here via USB Pen drive.
+	While selecting the option, you would see the menu. Select the respective option.
+Note: To use any of the option, you would need to attach the USB drive (Pen Drive) first.
+Mostly, you have to select the Masters option; the settings will be automatically exported from the system.
+Also, the transaction logs can be exported from the system by using the next option.
+	Here, the screen is shown after the Export is done. 
+
+After attaching the pen drive and selecting the export option, the data will be automatically exported to the system and they will be updated. Progress can be seen.
+
+Table 37:
+	
+User can export the configuration logs from here using USB pen drive. 	User can export the configuration logs from here using USB pen drive. 
+
+Table 38:
+	Normally Firmware will automatically update by sync with Web portal. 
+From this function user can upgrade the firmware using USB Pen drive also. For that User need to put the new firmware version file at Import Master – Active inside the pen drive.
+	When you select Firmware Upgrade first this popup page will open and it will show 0% at Starting.
+	After completion of Firmware Upgrade popup page will show 100% Firmware Upgrade.
+
+Table 39:
+HELPLINE	Phone:  +91 8980816000
+HELPLINE	Monday to Friday – Time: 10.00 AM to 06.00 PM 
+Saturday – Time: 10.00 AM to 04.00 PM
+
+Table 40:
+Thank you

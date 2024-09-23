@@ -1,0 +1,328 @@
+
+Table 1:
+Operating Instructions:
+1. How to Adjust the Set Temperature: Temperature will be set
+from Cloud.
+2.How to Adjust Set Duration (Time): Duration will be set
+from Cloud.
+3.How to Initiate Thawing:
+Powering On:
+Place "ThawEasy Smart Pro" on a stable, flat surface.
+Switch on the machine using the power button located
+at the back.
+The machine's display will show information about the
+firmware version.
+Connect the Thawing machine with the mobile app
+through Bluetooth.
+Machine Setup:
+Fill/top up the water bath pipe with 50ml of clean RO water at
+room temperature (Between 25°C to Set Temp.)
+Ensure the water level is at the top.
+Mobile app will show you error notification if water is
+less then 40ml.
+Water Heating:
+Press the "Start Thawing" button from Mobile app. to initiate
+water heating.
+The display of Machine and Mobile app. will indicate the
+water temperature, which will gradually rise.
+After some time the machine will automatically activate the
+vibrator for even heating.
+Once it reaches the set temperature the machine will hold
+the set temperature for 30 seconds to ensure set temperature
+stability.
+Once the water temperature reaches desired temperature
+LED lite of machine ready will be On, Machine buzzer will ring
+& Also on the mobile app a animation of inserting the straw
+will displayed.
+Once the machine is ready for thawing proceed for thawing.
+4.How to Initiate Thawing:
+Thawing Process:
+Put the straw in side the device.
+The machine will commence a countdown for the pre-set
+thawing duration.
+When the countdown concludes, the buzzer will sound again,
+signaling animation in the mobile app to removal of the straw.
+Completing the Process:
+Remove the straw from the machine.
+The machine will cease heating of water and enter in sleep
+mode, also display will be in off mode.
+Automatically next screen will come to complete the AI
+process in the mobile app.	Start Thawing Process Wait till water
+temperature achieved
+Alarm for Alarm for removing AI Worker
+inserting straw straw, records Completes
+start-end time of AI request
+thawing process
+To be produced at the time of referring warranty
+Device Type:
+Device ID:
+Cash Memo/ Bill no.:
+Date of Purchase:
+Customer Name:
+Address:
+Delar’s
+Signature
+Delar Name:
+Prompt Equipments Pvt. Ltd.
+7th Floor, Shaligram Corporates, C. J. Road, Iskon - Ambli
+Road, Ahmedabad Gujarat - 380058 (India)
+info@promptdairytech.com | www.promptdairytech.com
+Ph: 02717 45 1111/6111 |Follow us on			
+				
+			User Manual	
+		Prompt THAWEASY with a Bluetooth
+enabled Mobile App is a digital solution
+which automates the entire thawing
+process and ensures that the correct
+SOP of thawing is followed.
+The regulatory sensors and controls have
+been crafted with high mechanical
+precision to ensure correct thawing
+of the semen sample.
+It is possible to program the equipment
+with different combinations of time and
+temperature for various kinds of semen
+samples for different types of animals.
+All the data related to thawing
+processes are stored in real-time
+enabling decision making.	Prompt THAWEASY with a Bluetooth
+enabled Mobile App is a digital solution
+which automates the entire thawing
+process and ensures that the correct
+SOP of thawing is followed.
+The regulatory sensors and controls have
+been crafted with high mechanical
+precision to ensure correct thawing
+of the semen sample.
+It is possible to program the equipment
+with different combinations of time and
+temperature for various kinds of semen
+samples for different types of animals.
+All the data related to thawing
+processes are stored in real-time
+enabling decision making.	
+
+Table 2:
+Product Specification: ThawEasy Smart Pro
+Parameter Specification
+Controller 16-bits
+Keys 3 Push buttons
+3 digits, 7 Segment display
+Display for temperature (°C) & time
+set-point indication
+for thawing
+LEDs 6 LEDs Indicator
+Bluetooth (BLE) In-built
+Power supply Adapter
+Input: 110-280VAC; 50/60 Hz;
+Output : 14VDC 4A
+DC Input: 12-14VDC 4A
+Temperature Sensor PT100
+Temperature
+0.1°C
+Resolution
+Thawing temperature
+accuracy +/- 0.1°C
+Thawing Medium Volume approx. 50 ml
+(water)
+Thawing temperature22 to 40°C
+Vibrator In-built
+Enclosure ABS
+Operating ~ 5 to 50 °C
+temperature
+Heating & Thawing cycle
+Buzzer completion
+Tweezer Metal tweezer for handling
+of semen straw
+Straw per thawing 1 straw at at time
+In-built 12V(Nominal: 10.8V)
+5700mAh Li-Ion;
+Battery Battery backup: 40+
+number of thawing
+Water level sensor Conductive type
+30 to 120 second
+Thawing time
+(cloud control)
+Fully operational through
+Operation
+mobile app
+Equipment weight ~ 800 gm	Front and Back panel:
+Display Water
+Bath
+Operation
+Button
+LED
+Indication
+Inbuilt
+Battery
+LED Indication Operation Button
+IndB ica at tt ie or ny T B Me l aum ie np t soe ora thtur
+Up EnterBack
+Power On/Off Battery
+Switch Charging Point
+Precaution & Warning:
+Do not try to Avoid using machine Do not fill water
+open machine directly in rain directly from Tap
+1. Avoid Overfilling: Do not exceed the recommended water
+quantity when filling the water bath pipe.
+2. Do not fill water directly below the tap or flowing water, this
+is electronic device and exposure to the flowing water may
+case damaged to the device.
+3. Do not submerged the device in water for cleaning or filling
+water in the water bath pipe.
+4. Do not use any harsh chemical such as caustic, Detergent or
+soap or acid to clean the machine.
+5. Unstable Placement: Avoid placing the machine on an
+unstable or tilted surface to prevent accidents.	6. Abrasive Cleaning: Do not use abrasive materials for cleaning
+to avoid damage to the machine’s internal & external surfaces.
+7. Forceful Button Pressing: Avoid forceful or excessive pressing
+of buttons, especially during temperature and duration
+adjustments.
+8. Power Interruption: Do not turn off the power abruptly during
+operation, as it may affect the machine's functionality.
+9. Buzzer Signals: Pay attention to buzzer signals and promptly
+respond to them, especially when the machine indicates
+readiness for thawing or completion of a process.
+10. Heating media “Clean RO Water” Use only water as thawing
+media, do not used any other material.
+11. Thawing 1 straw at a time:- The machine is designed to thaw
+1 straw at a time, do not thaw more than 1 straw at a time for
+desired results.
+12. Do not start heating without filling water.
+13. Do not use heating water bath to heat something else such
+incident will be considered as unintended use and will void
+the warranty.
+14. Any kind of physical damage, Water damage and machine
+opening outside service center will also void the warranty.
+Features:
+Water sensor to measure the accurate volume
+of water
+Straw detector to indicate right time to dip the
+straw at right temperature
+Built-in vibrator for uniform warming of water
+Temperature controllers to ensure consistent
+temperature of water bath with minimal
+fluctuation up to 0.1ºC
+Alarm indication for completion of thawing cycle
+Durable, lightweight, and portable table-top
+device designed to withstand any weather
+conditions
+Data can seamlessly integrate with the customer’s
+any existing data platform or server
+20.3° Digital display to showcase temperature and time
+Bluetooth based Mobile App to fetch all the data
+and send to cloud. Web portal for user roles
+Unique software PLC logic for gradual water
+AI heating and avoid major temperature fluctuation
+during heating & thawing
+User based data analytics and data intelligence for
+past performance monitoring and predictive
+modelling, enabling better decision making
+Power supply and battery charger
+Programmable settings allow customers to
+customize time-temperature combinations for
+different semen samples
+EGHNUINGJDAL IRISAHTI M ano db Hile A dp p i ns a uv aa gil ea sble in English, Gujarati,
+in i la g
+
+Table 3:
+Product Specification: ThawEasy Smart Pro	
+Parameter	Specification
+Controller	16-bits
+Keys	3 Push buttons
+Display	3 digits, 7 Segment display
+for temperature (°C) & time
+set-point indication
+for thawing
+LEDs	6 LEDs Indicator
+Bluetooth (BLE)	In-built
+Power supply	Adapter
+Input: 110-280VAC; 50/60 Hz;
+Output : 14VDC 4A
+	DC Input: 12-14VDC 4A
+Temperature Sensor	PT100
+Temperature
+Resolution	0.1°C
+Thawing temperature
+accuracy	+/- 0.1°C
+Thawing Medium
+(water)	Volume approx. 50 ml
+Thawing temperature	22 to 40°C
+Vibrator	In-built
+Enclosure	ABS
+Operating
+temperature	~ 5 to 50 °C
+Buzzer	Heating & Thawing cycle
+completion
+Tweezer
+Straw per thawing	Metal tweezer for handling
+of semen straw
+1 straw at at time
+Battery	In-built 12V(Nominal: 10.8V)
+5700mAh Li-Ion;
+Battery backup: 40+
+Water level sensor	number of thawing
+Conductive type
+Thawing time	30 to 120 second
+(cloud control)
+Operation	Fully operational through
+mobile app
+Equipment weight	~ 800 gm
+	
+
+Table 4:
+6. Abrasive Cleaning: Do not use abrasive materials for cleaning
+to avoid damage to the machine’s internal & external surfaces.
+7. Forceful Button Pressing: Avoid forceful or excessive pressing
+of buttons, especially during temperature and duration
+adjustments.
+8. Power Interruption: Do not turn off the power abruptly during
+operation, as it may affect the machine's functionality.
+9. Buzzer Signals: Pay attention to buzzer signals and promptly
+respond to them, especially when the machine indicates
+readiness for thawing or completion of a process.
+10. Heating media “Clean RO Water” Use only water as thawing
+media, do not used any other material.
+11. Thawing 1 straw at a time:- The machine is designed to thaw
+1 straw at a time, do not thaw more than 1 straw at a time for
+desired results.
+12. Do not start heating without filling water.
+13. Do not use heating water bath to heat something else such
+incident will be considered as unintended use and will void
+the warranty.
+14. Any kind of physical damage, Water damage and machine
+opening outside service center will also void the warranty.
+Features:		
+		Water sensor to measure the accurate volume
+of water
+		Straw detector to indicate right time to dip the
+straw at right temperature
+		Built-in vibrator for uniform warming of water
+		Temperature controllers to ensure consistent
+temperature of water bath with minimal
+fluctuation up to 0.1ºC
+		Alarm indication for completion of thawing cycle
+		Durable, lightweight, and portable table-top
+device designed to withstand any weather
+conditions
+		Data can seamlessly integrate with the customer’s
+any existing data platform or server
+20.3°		Digital display to showcase temperature and time
+AI		Bluetooth based Mobile App to fetch all the data
+and send to cloud. Web portal for user roles
+Unique software PLC logic for gradual water
+heating and avoid major temperature fluctuation
+during heating & thawing
+		User based data analytics and data intelligence for
+past performance monitoring and predictive
+modelling, enabling better decision making
+		Power supply and battery charger
+		Programmable settings allow customers to
+customize time-temperature combinations for
+different semen samples
+EGHNUINGJDAL IRIS	AHTI	Mobile App is available in English, Gujarati,
+and Hindi languages
+
+Table 5:
+
+

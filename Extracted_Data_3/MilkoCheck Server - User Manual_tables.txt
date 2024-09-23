@@ -1,0 +1,96 @@
+
+Table 1:
+User need to create Lab first, for that User need to go Master – Lab. In this page
+user can see list of already created Lab details. User can edit the lab details or
+delete the created lab also from here.
+To create new lab click on the Add button.
+In this page lab code will generate automatically, user need to mention the below
+details.
+Lab Name, State, District, Sub District, Village, Lab address, In charge person name
+and Mobile number. After filling the mandatory details Submit button will enable,
+click on the Submit button to save the details.
+
+Table 2:
+After creating Labs, user need to create Client (Society), for that user need to go
+Master – Client. In this page user can see list of already created client details. User
+can edit the client details or delete the created client also from here.
+To create new Client click on the Add button.
+In this page Client code will generate automatically, user need to mention the
+below details.
+Client Name, State, District, Sub District, Village, Lab, Client address, Incharge person
+name and Mobile number. After filling the mandatory details Submit button will
+enable, click on the Submit button to save the details.
+
+Table 3:
+Users who are going to use or manage the portal as well as use the mobile application. As
+per the requirement, the users can be made by given different roles. To create the User, you
+need to go to User Registration.
+In this page user can see list of already created Users details. To create new User click on
+the Add button.
+In this page user need to mention the below details.
+User Role, Name, Mobile number, User’s Reporting to, Max. Offline Days, How do you want
+to map? And Client / Lab mapping. After filling the mandatory details Submit button will
+enable, click on the Submit button to save the details.
+
+Table 4:
+Once Batch is received to customer, user need to dispatch each set box to individual
+created client. In this page user can see list of already dispatched set box details. To
+dispatch new set box click on the Add button.
+In this page transaction number will generate automatically, user need to mention
+the below details to dispatch the Set box.
+Transaction date, Client Name, Batch number, and Set Quantity. After filling the
+mandatory details Submit button will enable, click on the Submit button to save the
+details.
+
+Table 5:
+Once set is dispatched to client, user can return that dispatch also. In this page user
+can see list of return dispatch set box details. To Return Dispatch click on the Add
+button.
+For return dispatch user need to mention the Dispatched Date and Transaction
+number of Dispatch and press the Process button. After filling the details Submit
+button will enable, click on the Submit button to save the details.
+
+Table 6:
+User can set the tolerance limit of reference sample reading to match with Client’s
+device result. To set the tolerance limit press the edit icon.
+From this page user can set the tolerance limit for FAT & SNF of each samples. After
+mentioning the tolerance limit press the Submit button to save the details.
+
+Table 7:
+From this page User can view average value of FAT & SNF for each liquid type for
+particular Lab. If user want to see each individual result for liquid B, C & D then click
+on 3 number.
+Individual result for each liquid is shown as above image.
+
+Table 8:
+
+List of client results are shown here. Here in this list user can see Client name, QR code of
+device, Batch number, Set number, Calibration checked by & checked Date, Result and
+Remark. User can view the same result by filtering the details by client details also.
+To view the individual client result click on the view option.
+From this page User can view average value of FAT & SNF for each liquid type for particular
+client. If user want to see each individual result for liquid B, C & D then click on 3 number.
+
+Table 9:
+The report has been created for viewing the Milk Collection edited data like Rate, FAT,
+Qty with difference than older data for selected MPP, selected date range, shift and
+sabhasad range. It can be found under the Milk Reports.
+You can find in two different Milk Edit reports. One is Region wise and another one is
+Society wise.
+
+Table 10:
+The report has been created for viewing the edit requests seen so far from the MPPs.
+It can be found under the Milk Reports. It also provide summarized data of milk edit
+for milk collection amount society wise according to selected parameters. It bifurcate
+data according to difference between final milk edit amount and initial milk collection
+amount.
+
+Table 11:
+								
+							Toll Free Numbers	
+								
+	Helpline							
+							1800-833-1985	
+								
+								
+								

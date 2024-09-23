@@ -1,0 +1,496 @@
+
+Table 1:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 2:
+Product version: 1.2.X.X	Document version: 1.1	Date: 21/04/2020
+
+Table 3:
+		
+	Page	
+	1	
+		
+
+Table 4:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 5:
+		
+	Page	
+	2	
+		
+
+Table 6:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 7:
+		
+	Page	
+	3	
+		
+
+Table 8:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 9:
+		
+	Page	
+	4	
+		
+
+Table 10:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 11:
+		
+	Page	
+	5	
+		
+
+Table 12:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 13:
+		
+	Page	
+	6	
+		
+
+Table 14:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 15:
+		
+	Page	
+	7	
+		
+
+Table 16:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 17:
+		અહીં વણડવેિ કેલિબ્રશે ન પ્રક્રિયા વઝડન
+1.2.2.1 અન ે તેનાથી ઉપરના વઝડનના
+સ્માટડ મમલ્ક એનાિાઇઝર માટે છે.
+પ્રક્રિયા મમલ્ક એનાિાઇઝરના અન્ય
+કોઈપણ વઝડન માટે સમાન રહશે ે નહીં.
+
+Table 18:
+		
+	Page	
+	8	
+		
+
+Table 19:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 20:
+સેમ્પિ	FAT	SNF
+1	3.0 % - 4.5 %	SNF
+5 સેમ્પિ કે જેમા ાં ની રેન્જ 8%
+થી 12% હોવી જોઈએ.
+2	5.0 % - 6.0 %	
+3	6.5 % - 7.5 %	
+4	8.0 % - 9.0 %	
+5	9.0 % - 10.0 %	
+
+Table 21:
+બ્લટૂ થૂ ડોંગિખાસકરીનેમોબાઇિ
+એપ્લિકેશનદ્વારાદૂધમવશ્િેષકનેકેલિબ્રેટ
+.
+કરવામાટે બનાવવામાાંઆવ્ુાંછે તેમમલ્ક
+.
+એનાિાઇઝરસાથેઆપવામાાંઆવેછે	PROMPT EMT
+એએકમવશેષમોબાઇિ
+,
+એપ્લિકેશનછે જેકેલિબ્રેશનમાટે
+બનાવવામાાંઆવેિછે અનેતેનેસ્માટડ ફોનમાાં
+.
+ઇન્સ્ટોિકરવામાટેઆપવામાાંઆવેછે
+
+Table 22:
+		
+	Page	
+	9	
+		
+
+Table 23:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 24:
+સેમ્પિ 1	સેમ્પિ 2	સેમ્પિ 3	સેમ્પિ 4	સેમ્પિ 5
+				
+FAT: 4.72%
+SNF: 8.59%	FAT: 5.23%
+SNF: 10.68%	FAT: 6.82%
+SNF: 9.99%	FAT: 8.54%
+SNF: 11.10%	FAT: 9.58%
+SNF: 10.60%
+
+Table 25:
+	
+	Page
+10
+	
+
+Table 26:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 27:
+સ્માટડ મમલ્કએનાિાઇઝરનોલિગિોઅનેસ્વીચ
+AC .
+બોડડમાભરાવી સલિાયચાલુકરો	“INDIZ MILK ANALYZER”
+પ્રથમ ક્રડસ્લિેઆવશે
+આગામી ક્રડસ્લિ ે આવશે
+“FAT, SNF ADDED WATER TEST”
+અને	પછી ક્રડસ્લિે પર વસડન
+“1.2.3.1”
+આવશે.
+“FILE SYSTEM OK”
+પછી ક્રડસ્લિેપર
+નોમેસેજ આવશે.	“MACHINE ID”
+પછી આવશે.
+
+Table 28:
+		
+	Page	
+	11	
+		
+
+Table 29:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 30:
+“SWITCH TYPE”
+પછી ક્રડસ્લિેપર
+નોમેસેજ આવશે.	તે પછી વતમડ ાન તારીખ અને સમય બતાવશે.જે
+DATE TIME
+તમારા વતડમાન અને મજુ બ હોવો
+.
+જોઈએ
+“WARM UP”
+જ્યારે ચાલ ુ હોયત્યારે તમે આ
+.
+માટેનો મેસેજઆવશે	“READY”
+તે પછી નો મેસજે આવશે.
+આ બતાવે છે કે સ્માટડ મમલ્કએનાિાઇઝર હવે કામ
+કરવા માટે તૈયાર છે.
+
+Table 31:
+		
+	Page	
+	12	
+		
+
+Table 32:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 33:
+/
+સેમ્પિની બોટિમા ાં શધ્ુ ધ પાણી
+/ RO
+મમનરિ પાણી ન ુાં પાણી િો.	પીપેટ હઠે ળ સેમ્પિની બોટિ
+મકૂ ો.	CLEAN 25
+દબાવો અને પ્ક્િનીંગ
+સાયકિ આવશે.
+∆▼
+તમે બટન દ્વારા પ્ક્િનીંગ
+સાયકિમા ાં વધારોઘટાડો કરી શકો
+છો.	OK ,
+ત્યારબાદ બટન દબાવો
+અહી પ્ક્િનીંગની પ્રક્રિયા
+આપમેળે શરૂ થશ ે અને પણૂ ડ થશે.	પ્ક્િનીંગની પ્રક્રિયાસમાલત થયા
+“CLEAING OVER”
+પછીતમને
+નો મેસેજ પ્રાલત થશે.
+
+Table 34:
+		
+	Page	
+	13	
+		
+
+Table 35:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 36:
+∆ ▼
+.
+સૌપ્રથમ અને બટનએકસાથેદબાવો	ENTER POSSWORD
+હવે પછીની સ્ક્સ્િન
+∆
+માટેની આવશે, પાસવડડન ુાં દાખિ કરવા માટે
+▼ OK
+અથવા બટન દબાવો. પછી દબાવો.
+OK .
+દબાવયા પછી કસડર બીજા અક્ષર પર જશે	આજ રીતે 4 અંકનો પાસવડડ દાખિ કરો અને
+OK
+પછી બટન દબાવો.
+SELECT MENU SYSTEM
+હવે સ્ક્સ્િન પર
+SETTINGS OK
+આવશે. પછી બટન દબાવો.	SELECT MENU
+હવે સ્ક્સ્િન પર
+CALIBRATION OK
+આવશે. પછી બટન
+દબાવો.
+
+Table 37:
+		
+	Page	
+	14	
+		
+
+Table 38:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 39:
+CONTINUE…
+પછી સ્ક્સ્િન પર આવશે.
+▼
+પછી બટન દબાવો.		NEW CALIBRATION
+હવે સ્ક્સ્િન પર આવશે.
+OK
+પછી બટન દબાવો.
+SAMPLING OK
+હવે સ્ક્સ્િન પર આવશે. પછી
+બટન દબાવો.		READY
+છેલ્િે સ્ક્સ્િન પર સાથે 00 િખાઈન ે
+આવશે.
+
+Table 40:
+		
+	Page	
+	15	
+		
+
+Table 41:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 42:
+દૂધન ુાં પહલે ુાં સેમ્પિ એનાલિમસસ માટે િો.	OK
+દૂધનાસેમ્પિનેસ્ટરરમાાંમકુ ોઅને બટન
+દબાવો.
+હવ ે દૂધનાસેમ્પિનેમમલ્ક એનાિાઇઝરમાાંમકુ ો
+OK
+અને બટન દબાવો.	,
+હવેસ્િીનપરપેહિાસેમ્પિનુાંરીઝલ્ટઆવશે
+,
+જેમાાંજમણીબાજુ નીચે01િખાઈનેઆવશે જે
+બતાવેછે કેપેહિાસેમ્પિનુાંરીઝલ્ટ
+એનાિાઇઝરમાાંરેકોડડ થઇગ્.ુાં
+
+Table 43:
+	
+	Page
+16
+	
+
+Table 44:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 45:
+,
+બધાસમ્પિનુાંએનાલિમસસકયાડપછી ઉપરની
+.
+જેમસ્િીનમળશે જેમાાંનીચેજમણીબાજુએછેલ્િે
+.
+િીધેિાસેમ્પિનુાંમલ્ૂ યિખેલુાંજોવામળશે	CLEAN
+હવે બટન દબાવો, જે બેક બટન તરીકે
+પણ કામ કરે છે. આ તમને પાછિા મેનમૂ ા ાં િઈ
+જશે.
+∆
+SAMPLING
+હવે સ્ક્સ્િન પર આવશે. પછી
+બટન દબાવો.	CALCULATION
+હવે સ્ક્સ્િન પર આવશે. પછી
+OK
+બટન દબાવો.
+READY FOR
+હવ ે સ્ક્સ્િન પર
+CALIBRATION…
+આવશે.	.
+હવેપછીનીપ્રક્રિયામાટે બ્લટૂ થૂ ડોંગિિો
+
+Table 46:
+		
+	Page	
+	17	
+		
+
+Table 47:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 48:
+બ્લટૂ થૂ ડોંગિને
+RS
+એનાિાઇઝરની પાછળ
+232 પોટડ સાથે જોડો. િાિ
+િાઈટ ઝબકવા િાગશ,ે જેનો
+અથડ છે કે ડોંગિ યોગ્ય રીતે
+જોડાયેિ છે.	PROMPT
+હવે સ્માટડ ફોનમા ાં
+EMT
+એપ્લિકેશન શરૂ કરો.
+ઉપર બતાવયા પ્રમાણ ે સ્િીન
+જોવા મળશે.	આ સ્િીન મા ાં તમને આપેિ
+્ઝુ ર નામ અને પાસવડડ
+દાખિ કરીને નીચે આપેિ
+Sign-in
+બટન દબાવો.
+હવે સ્િીન પર ઓલશન જોવા
+MILK
+મળશ,ે તેમાથાં ી
+ANALYZER
+મસિેક્ટ કરો.	એનાિાઇઝર ન ુાં વઝડન પસદાં
+SAVE
+કરીને બટન દબાવો.	હવે સ્િીન પર
+CALIBRATION
+ઓલશન
+મસિેક્ટ કરો.
+
+Table 49:
+		
+	Page	
+	18	
+		
+
+Table 50:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 51:
+એપ્લિકેશન તમન ે જુના ડટે ા િોડ
+, NO
+કરવાન ુાં પછૂ સે મસિેક્ટ કરો.	હવેતમનેઉપરનીજેમસ્િીન
+,
+જોવામળશે આસ્િીનમાાંનીચે
+"+" .
+જમણીબાજુ સાઇનદબાવો	ગબડરઅનેિેક્ટોમીટરદ્વારા
+પ્રાલતસદાં ભડરેફરન્સસેમ્પિના
+.
+મલ્ૂ યદાખિકરો
+“+” ,
+બટનદબાવો અનેબધાાં
+રેફરન્સસેમ્પિનામલ્ૂ યોએક
+.
+પછીએકદાખિકરો પછી નીચે
+NEXT
+આપેિ બટન દબાવો.	હવેબ્લટૂ થૂ પરવાનગીનીસ્િીન
+, ALLOW .
+દેખાશે તેમાાં દબાવો	પછીબ્લટૂ થૂ સાથેકનેક્ટ
+.
+સાધનોનુાંિીસ્ટદેખાશે તેમાાં
+MA_Config .
+સીિેક્ટ કરો
+
+Table 52:
+		
+	Page	
+	19	
+		
+
+Table 53:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 54:
+		
+	Page	
+	20	
+		
+
+Table 55:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 56:
+
+
+
+
+Table 57:
+		
+	Page	
+	21	
+		
+
+Table 58:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 59:
+ S I BIAS
+તમે / મવકલ્પની નીચ ે સેક્રટિંગ્સ
+દેખાશે.
+
+કેલિબ્રેશન માટેની આ બીજી ગણતરી પદ્મત
+છે.
+ FAT SNF FAT
+આ અને નો નવા સ્િોપ, અને
+SNF FAT
+નો નવો ઇન્ટરસેલટ અને અને
+SNF
+ની ચોકસાઈ બતાવશે.
+ APPLY
+તેની નીચ ે બટન ઇનેબિ થયેિ છે.
+ APPLY
+હવે બટન દબાવો..
+APPLY
+બટન દબાવયા પછી તમને
+CALIBRATION SUCCESSFULLY
+CALIBRATED SUCCESSFULLY સદાં ેશ પ્રાલત
+થશે, જે દશાડવે છે કે કેલિબ્રેશન સફળતાપવૂ ડક
+થઈ ગ્ ુાં છે.
+
+Table 60:
+
+
+
+Table 61:
+		
+	Page	
+	22	
+		
+
+Table 62:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 63:
+દૂધન ુાં સેમ્પિ એનાલિમસસ માટે િો.	OK
+દૂધનાસેમ્પિનેસ્ટરરમાાંમકુ ોઅને બટન
+દબાવો.
+READY .
+સ્િીનપર નોમેસેજમળશે એનાલિમસસ
+OK .
+માટે બટનદબાવો	તમનેસેમ્પિનાએનાલિમસસનામલ્ૂ યોસ્િીન
+.
+પરજોવામળશે
+
+Table 64:
+	
+Page	
+23	
+	
+
+Table 65:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.0
+
+Table 66:
+				
+			Phone: +91 8980816000	
+				
+	PROMPT
+Helpline			
+				
+			– : 10.00 AM to 06.00 PM
+સોમવાર થી શિુ વાર સમય	
+				
+			– : 10.00 AM to 04.00 PM
+શમનવાર સમય	
+				
+
+Table 67:
+	આભાર	
+
+Table 68:
+		
+	Page	
+	24	
+		

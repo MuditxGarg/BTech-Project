@@ -1,0 +1,19 @@
+
+Table 1:
+	MOBILE MILKING MACHINE		FIXED MI	
+Model	(Single Bucket
+PRM 1
+Single Cluster)	(Single Bucket
+PRM 1D
+Double Cluster)	(Single Bucket
+PRM 1F
+Single Cluster)	(Double Bucket
+PRM 2F
+Double Cluster)
+Cattle per hour	8-10	20-24	10-12	20-24
+Milking cup group number	1 set	2 sets	1 set	2 sets
+Working vacuum	40-50 kpa (adjustable)	40-50 kpa (adjustable)	40-50 kpa (adjustable)	40-50 kpa (adjustable)
+Pulsation ratio	60:40	60:40	60:40	60:40
+Pulsation time	60-80 times per minute	60-80 times per minute	60-80 times per minute	60-80 times per minute
+Vacuum pump power	0.5 hp	1hp	1 hp	1 hp
+Pump Capacity	200 LPM	240 LPM	240 LPM	240 LPM

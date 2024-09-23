@@ -1,0 +1,47 @@
+
+Table 1:
+Parameter	Specification
+Controller	16-bits
+Keys	3 Push Buttons
+Display	3 digits, 7-Segment Display for temperature(⁰C) and time set-point indication for thawing
+LEDs	6 LEDs Indicator
+Bluetooth	In-built
+Power Supply	Adapter, Input: 110-280VAC; 50/60 Hz; Output: 14VDC 4A
+DC Input: 12-14VDC 4A
+Temperature Sensor	PT100
+Temperature Resolution	0.1 ⁰C
+Thawing Temperature Accuracy	+/- 0.1 ⁰C
+Thawing Medium (Water)	Volume approx. 50 ml
+Thawing Temperature	35 to 42 °C (Cloud Control)
+Vibrator	In-built
+Enclosure	ABS 
+Operating Temperature	~ 5 to 50 ⁰C
+Buzzer	Heating and Thawing cycle completion
+Tweezer	Metal tweezer for handling of semen straw 
+Straw Per Thawing  	1 Straw at a time 
+Battery	In-built 12 V (Nominal: 10-8V) 5700mAh Li-Ion; 
+Battery backup: 40+ number of thawing
+IR and Water level Sensor	Not Included
+Thawing Time	30 to 120 second (Cloud control)
+Operation	Use of mobile app and push button for operation
+Equipment Weight	~ 550 gm 
+
+Table 2:
+	Built-in Vibrator for uniform warming of water
+	Temperature Controllers to ensure consistent temperature of water bath with minimal fluctuation up to +/- 0.1 ºC
+	Alarm Indication for completion of thawing Cycle
+	Durable, lightweight, and portable table-top device designed to withstand any weather conditions
+	Data can seamlessly integrate with the customer’s any existing data platform or server
+	Digital Display to showcase temperature and time
+	Bluetooth based Mobile App to fetch all the data and send to Cloud. Web Portal for user roles
+	Unique software PLC logic for gradual water heating and avoid sudden variations in water temperature
+	User based data analytics and Data Intelligence for past performance monitoring and predictive modelling, enabling better decision making
+	Power Supply and Battery Charger
+	Programmable settings allow customers to customize time-temperature combinations for different semen samples
+	Mobile App is available in English, Gujarati, and Hindi languages
+
+Table 3:
+		
+Start Thawing Process	Wait till water temperature achieved	Alarm for inserting straw
+		
+Alarm for removing straw, records start-end time of thawing process	AI Worker Completes AI request	

@@ -1,0 +1,180 @@
+
+Table 1:
+ There are the special system settings made for the DPUs used in the project.
+They can be seen and changed from here.
+ To manage the system, you can select DPU System Setting option in the
+Settings >> DPU under the Masters menu.
+ After selecting the option, you would see the screen as shown below.
+1. + New: The button to add new setting.
+2. Edit: If any entry is needed to be changed, by clicking this button the user can
+make it.
+3. Code: The 4-digit code for the settings.
+4. Description: Description of the settings would be seen here.
+5. Remarks: If there are any remarks, then they would be seen here.
+6. Search: User can search the settings by code, description etc.
+7. Status: If you want to see the settings based on their status like active or
+inactive, you can select the type from here.
+8. Delete: If you want to delete the selected settings, you can use this button.
+9. Close: This button will allow the user closing the form.
+After selecting edit or + New option, you would see a screen like shown below,
+explained ahead in detail.
+
+Table 2:
+
+
+
+Table 3:
+1. + New: The button to add new setting.
+2. Edit: If any entry is needed to be changed, by clicking this button the user can
+make it.
+3. Society: The 4-digit code for the MPP, where the settings are applied.
+4. Settings: The name of the settings, which has been applied on this MPP.
+5. Published On: The date on which the new settings was published.
+6. Pending: Whether the proposed setting sending is pending for application or not
+can be seen here.
+7. Search: User can search the settings by society, setting name etc.
+8. Close: This button will allow the user closing the form.
+When you select option all MPPs and click to Publish then DPU Settings will publish
+to all the MPPs of Union at a time.
+
+Table 4:
+ After creating BMC MCC setting, we need to publish these settings for the
+process at BMC Center.
+ To manage the system, you can select BMC MCC Setting Publish option in the
+BMC MCC Setting submenu under the Masters menu.
+ After selecting the option, you would see the screen as shown below.
+1. + New: The button to add new setting.
+2. Edit: If any entry is needed to be changed, by clicking this button the user can
+make it.
+3. Society: The 4-digit code for the BMC/MCC, where the settings are applied.
+4. Settings: The name of the settings, which has been applied on this BMC/MCC.
+5. Published On: The date on which the new settings was published.
+6. Pending: Whether the proposed setting sending is pending for application or not
+can be seen here.
+7. Search: User can search the settings by society, setting name etc.
+8. Close: This button will allow the user closing the form.
+
+Table 5:
+When you select option All MPPs and click to Publish then BMC MCC Settings will
+publish to all the MPPs of Union at a time.
+ The next option is to apply on the individual MPP. Here, you can make the
+selection in different manner and they are explained one by one in details
+below. Select individual MPP in the Publish option.
+ When you select option Individual MPP for BMC MCC Settings publish, three
+options will be enable.
+ Search by Region: In this option you can publish BMC MCC Settings region
+wise.
+ Search by MPP: In this option you can publish System settings by selecting
+particular one MPP wise. Here you can publish BMC MCC Settings in one MPP
+only at a time.
+ Search by Interval: In this option you can publish BMC MCC Settings by
+selecting number of MPPs at a time. Here you can publish BMC MCC Settings
+in more than one MPP.
+
+Table 6:
+ MPP users are the people who are
+going to access the MPP based on
+AMCU or DPU.
+ New users can be created by the
+administrator as per the
+requirement by giving the
+designated roles.
+ To manage the MPP users, you can
+go through Master Menu - MPP
+User.
+ After selecting the option, you
+would see the screen as shown
+below.
+To create new MPP User you first need to Select the society by searching the society
+code or name and then add the user for selected society by clicking on + New button.
+
+Table 7:
+ MPP Mapping is the service created
+to move the MPP from one BMC
+another BMC.
+ To move the MPP, you can select
+BMC/MPP Mapping option under
+the Transaction menu.
+ After selecting the option, you
+would see the screen as shown
+below.
+1. + New: The button to add new mapping.
+2. Edit: If any entry is needed to be changed, by clicking this button the user can make
+the change.
+3. Effective Date: The date from which the mapping has been enabled.
+4. BMC: New Mapping of MPP with which BMC is seen here.
+5. Search: From here user can search the mapping by BMC.
+6. Delete: If you want to delete any selected mapping then this option is used.
+7. Export: If you want to Export the MPP mapping details, you can use this button.
+8. Close: This button will allow the user closing the form.
+
+Table 8:
+To enable Manual Milk Collection,
+you can select Manual Milk
+Request option under the
+Transaction menu.
+The next screen will show the list of Manual Milk Request. Details explained below. Here
+in this page, you can see the list of Manual Milk Request with Society Code, Society Name,
+From Date, From Shift, To Date, To Shift, Manual Entry in Fat, Manual Entry in Weight.
+The user can approve or Reject the respective request by clicking the Edit option present in
+every row. By clicking, the user will see the entire form and can make any desired changes.
+
+
+Table 9:
+To enable Milk Edit, you can
+select Milk Edit Request option
+under the Transaction menu.
+The next screen will show the list of milk edit request. Details explained below.
+ Here in this page, you can see the list of milk edit request with Society Code,
+Society Name, Farmer Code, Date, Sample No., Milk Type and Shift.
+ The user can approve or Reject the respective request by clicking the Edit option
+present in every row. By clicking, the user will see the entire form and can make
+any desired changes.
+
+Table 10:
+There are several reports created in the Portal,
+they are been divided in different categories.
+1. Milk Reports: Reports related to Milk
+Transaction.
+2. MPP Reports: Reports based on MPPs.
+3. Special Reports: Reports created specifically
+for client.
+4. Other Reports: Miscellaneous reports can be
+seen here.
+Different reports are explained ahead.
+To view the different reports user need to select some parameters like
+From Date and To Date, From Shift and To Shift, From Member and To Member,
+Milk type and Society etc.
+When you open any reports at that time above shown tabs are available on top.
+With Refresh Button user can refresh the report.
+From Parameter button user can change the report parameters.
+From Export button user can export the report to PDF or in Excel sheet.
+
+Table 11:
+Refresh
+Parameter
+Export
+
+Table 12:
+The report has been created for viewing the Milk Collection edited data like Rate, FAT,
+Qty with difference than older data for selected MPP, selected date range, shift and
+sabhasad range. It can be found under the Milk Reports.
+You can find in two different Milk Edit reports. One is Region wise and another one is
+Society wise.
+
+Table 13:
+The report has been created for viewing the edit requests seen so far from the MPPs. It
+can be found under the Milk Reports. It also provide summarized data of milk edit for
+milk collection amount society wise according to selected parameters. It bifurcate data
+according to difference between final milk edit amount and initial milk collection
+amount.
+
+Table 14:
+								
+							Toll Free Numbers	
+								
+	Helpline							
+							1800-833-1985	
+								
+								
+								

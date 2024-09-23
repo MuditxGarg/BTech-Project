@@ -1,0 +1,114 @@
+
+Table 1:
+	Model Number			MC500V1A	
+	Input supply			230 Volt (± 10%), 50 Hz, Single Phase	
+	Total Milk Cooling Capacity per Day		500 Ltr. (250 Ltr. per session)		
+	Rate of Milk Cooling			40 Ltr. of Milk in 10 Min.	
+	Rated inlet Milk Temperature		35oC		
+Rated outlet Milk Temperature				Average Temperature 7oC	
+				(Accuracy ± 1oC)	
+	Quantity of hot water Generation per		100 Ltr. (50 Ltr. per session)		
+	Day				
+	Outlet Temperature for hot water			Up to 60oC	
+	Rated Thermal bank charging hours		6 hours		
+	per session				
+	Rated compressor Power consumption			<1 KW	
+	Rated Total Energy consumption per		6 kWh		
+	session				
+	Net Energy recovered in HRU per		1.5 kWh		
+	session				
+	Net Energy consumption per session			4.5 kWh	
+	Condenser type			Air Cooled	
+	Refrigerant			R22	
+	Unit Dimensions (L x W x H)			1358mm x 822mm x 1718mm	
+	Net Unit Weight			350 kgs	
+	CIP Module Dimensions (L x W x H)			830mm x 540mm x 650mm	
+
+Table 2:
+2) Installation
+2.1 Things to remember for Operation
+
+Table 3:
+3 Pin Socket having Current Capacity 15A and 5A	
+	
+
+Table 4:
+Turn ON the Main MCB Switch	Mains LED will glow if AC mains is ON
+	
+
+Table 5:
+	BACK/ESC KEY - back and escape operations from existing page. To
+access customer page view
+	UP KEY – Tank Cleaning Mode and Selection in menu and to increase
+parameter in selected menu.
+	DOWN KEY – For Cleaning in Place (CIP) Operation and to decrease
+parameter in selected menu.
+	NEXT/ENTER KEY – Entering into menu level and selection of next
+parameter.
+
+Table 6:
+MAINS	LED will glow if AC mains is available from 180V to 260V
+COMPRESSOR	LED will glow if compressor is running
+CHILLER READY	LED will glow if chiller is ready for its full capacity (250 Litres)
+CIP	LED will blink during CIP process. LED will glow for 5 minutes
+if CIP is done then turnoff automatically.
+
+Table 7:
+	 Go to CIP menu by pressing CIP key
+of keypad. Following page will be
+displayed on LCD.
+	 Press ENT key to start CIP cycle. Hot
+water cycle will start. CIP pump will
+turn ON and SOV1 will open.
+	 CIP LED will blink during process.
+Remaining time will be shown in the
+display.
+	 After completion of hot water cycle,
+CIP pump will turn OFF.
+ Press ENT to start chemical cycle.
+	 CIP pump will turn ON and SOV1 will
+open. CIP LED will blink during
+process. Remaining time will be
+shown in the display.
+	 Similarly, complete flush cycle.
+	 CIP LED will glow and remain ON for
+5 minutes indicating process is
+completed.
+ CIP process is now completed.
+
+Table 8:
+Note: Once CIP function is started, it can only be paused/resumed and cannot
+be stopped.
+
+Table 9:
+Acid cleaning is required to do in MilkoChill once in a month to ensure proper milk
+tube cleaning and hence maintaining high milk quality. Procedure for acid cleaning
+is as follows:
+
+Table 10:
+After completion of above process, pour 20 liters of clean water in the funnel to flush
+any residual chemical present in the milk tubes.
+5.3 CIP Tank Clean Function
+
+Table 11:
+	 Press UP/PAUSE key to enter tank
+clean mode menu.
+ Press ENT key to make selection of
+SOV. After selection, go to START
+CLEANING and press ENT key.
+	 Selected SOVs will remain open for 5
+minutes (300 seconds). During this
+time, cleaning process can be done
+by using clean water. After 5 minutes
+selected SOVs will close
+automatically.
+
+Table 12:
+PROMPT
+HELPLINE	Phone: 1800 833 1985		
+		Monday to Saturday	
+		Time: 06.00 AM to 10.00 PM	
+
+Table 13:
+PROMPT
+HELPLINE

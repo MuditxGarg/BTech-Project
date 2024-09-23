@@ -1,0 +1,104 @@
+
+Table 1:
+Product version:	Document version: 1.0	Date: 06/01/2021
+
+Table 2:
+	Model Number			MC500V1A	
+	Input supply			230 Volt (± 10%), 50 Hz, Single Phase	
+	Total Milk Cooling Capacity per Day				
+				500 Ltr. (250 Ltr. per session)	
+					
+	Rate of Milk Cooling			40 Ltr. of Milk in 10 Min.	
+	Rated inlet Milk Temperature				
+				35oC	
+					
+				Average Temperature 7oC	
+	Rated outlet Milk Temperature				
+				(Accuracy ± 1oC)	
+					
+	Quantity of hot water Generation per				
+				100 Ltr. (50 Ltr. per session)	
+	Day				
+					
+	Outlet Temperature for hot water			Up to 60oC	
+	Rated Thermal bank charging hours				
+				6 hours	
+	per session				
+					
+	Rated compressor Power consumption			<1 KW	
+	Rated Total Energy consumption per				
+				6 kWh	
+	session				
+					
+	Net Energy recovered in HRU per				
+				1.5 kWh	
+	session				
+					
+	Net Energy consumption per session			4.5 kWh	
+	Condenser type			Air Cooled	
+	Refrigerant			R22	
+	Unit Dimensions (L x W x H)			1358mm x 822mm x 1718mm	
+	Net Unit Weight			350 kgs	
+	CIP Module Dimensions (L x W x H)			830mm x 540mm x 650mm	
+
+Table 3:
+2) Installation
+2.1 Things to remember for Installation
+
+Table 4:
+3 Pin Socket having Current Capacity 15A and 5A	
+	
+
+Table 5:
+	 For cooling unit: 160 Ltr. and HRU: 140 Ltr,
+Filtered or Mineral water. Total 300 Ltr. (One-
+time requirement)
+ Tap water supply: 130 Ltr. / day for CIP
+(cleaning of MilkoChill)
+ For HRU Inlet/Outlet water: Minimum flow
+rate: 80 LPH with overhead water tank (at
+least 3-4 feet above ground level or
+Submersible water pump 30/40 Watt Single
+Phase (Optional) and outlet pipe.
+
+Table 6:
+Turn ON the Main MCB Switch	Mains LED will glow if AC mains is ON
+	
+
+Table 7:
+2.3 Pressure Switch Setting (DOTECH DPX 200HL-R4-MPa)
+Following are the recommended settings for the present unit, KCJ511HAE, R22:
+
+Table 8:
+HPS = 2.35 MPa
+HPH = A
+HPF = 1.4 MPa
+HPC = 1.30 MPa
+HCF = 1.25 MPa
+LPS = 0.25 MPa
+LPH = A
+LPF = 0.35MPa
+LPD = 180 sec
+rfy = R22
+Ld = 1
+Bdr = 192
+PAR = NON
+LOF = 0.0
+HOF = 0.0
+
+Table 9:
+	BACK/ESC KEY - back and escape operations from existing page. To
+access customer page view
+	UP KEY – Tank Cleaning Mode and Selection in menu and to increase
+parameter in selected menu.
+	DOWN KEY – For Cleaning in Place (CIP) Operation and to decrease
+parameter in selected menu.
+	NEXT/ENTER KEY – Entering into menu level and selection of next
+parameter.
+
+Table 10:
+MAINS	LED will glow if AC mains is available from 180V to 260V
+COMPRESSOR	LED will glow if compressor is running
+CHILLER READY	LED will glow if chiller is ready for its full capacity (250 Litres)
+CIP	LED will blink during CIP process. LED will glow for 5 minutes
+if CIP is done then turnoff automatically.

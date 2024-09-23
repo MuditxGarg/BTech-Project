@@ -1,0 +1,335 @@
+
+Table 1:
+	Confidentiality Notice
+Copyright (c) 2000-2019 Prompt Equipments - All rights reserved
+This document is authored by Prompt and is Prompt intellectual property, including the copyrights in all countries in the
+world. This document is provided under a license to use only with all other rights, including ownership rights, being
+retained by Prompt.
+This file must not be distributed, copied, or reproduced in any manner, electronic or otherwise, without the express
+written consent of Prompt.	
+
+Table 2:
+	Smart Milk Analyzer 1.1.1.3 – SOP	Document Version 1.0
+
+Table 3:
+Product version: 1.1.1.3	Document version: 1.0
+
+Table 4:
+Prepared By & Date	Reviewed By & Date	Approved By & Date		Page	
+Siddharth 20/12/2019	Bhautik Kothadia /12/2019	Shridhar Mehta /12/2019		1	
+
+Table 5:
+	Smart Milk Analyzer 1.1.1.3 – SOP	Document Version 1.0
+
+Table 6:
+Prepared By & Date	Reviewed By & Date	Approved By & Date		Page	
+Siddharth 20/12/2019	Bhautik Kothadia /12/2019	Shridhar Mehta /12/2019		2	
+
+Table 7:
+	Smart Milk Analyzer 1.1.1.3 – SOP	Document Version 1.0
+
+Table 8:
+Prepared By & Date	Reviewed By & Date	Approved By & Date		Page	
+Siddharth 20/12/2019	Bhautik Kothadia /12/2019	Shridhar Mehta /12/2019		3	
+
+Table 9:
+	Smart Milk Analyzer 1.1.1.3 – SOP	Document Version 1.0
+
+Table 10:
+	The front panel will show the screen and four buttons.
+They are explained below:
+1. Clean: Button which is used to clean the analyzer on
+regular basis. Also, it can be used as ESC button from
+any menu.
+2. : Up button which can be used to increase the
+cleaning cycle. Also, can be used by the engineers
+while entering the password to configure the analyzer.
+3. ▼ : Down button which can be used to decrease the
+cleaning cycle. Also, can be used by the engineers
+while entering the password to configure the analyzer.
+4. OK : The button by w–which the selection for any
+operation can be made and also it is the main button
+which will start the analyzer’s main function to start the
+analysis.
+
+Table 11:
+USB: A USB port is given
+to get the logs of the
+milk analyzer for
+cleaning and
+calibration or other
+system logs.		RS232 O/P: A port for the RS232 cable is
+given by which the analyzer can be
+connect to and milk collecting data
+processing unit or a computer system.
+DC Power Switch: The milk analyzer is
+designed such a way that it can be run on
+both AC and DC power supply. The DC
+power switch for the Milk analyzer is also
+given if it is connected to DC power supply.
+DC Fuse: A DC fuse has been given for
+safety of the milk analyzer. The user can
+change the fuse here. Spare fuse can be
+found in the milk analyzer box.
+Battery connecting port: If the user wants to
+connect the battery, the terminals can be
+connected here.
+AC Power Switch: The
+power switch for the
+Milk analyzer.		
+AC Fuse: An AC fuse
+has been given for
+safety of the milk
+analyzer. The user can
+change the fuse here.
+Spare fuse can be
+found in the milk
+analyzer box.		
+
+Table 12:
+Prepared By & Date	Reviewed By & Date	Approved By & Date		Page
+Siddharth 20/12/2019	Bhautik Kothadia /12/2019	Shridhar Mehta /12/2019		4
+
+Table 13:
+	Smart Milk Analyzer 1.1.1.3 – SOP	Document Version 1.0
+
+Table 14:
+Prepared By & Date	Reviewed By & Date	Approved By & Date		Page	
+Siddharth 20/12/2019	Bhautik Kothadia /12/2019	Shridhar Mehta /12/2019		5	
+
+Table 15:
+	Smart Milk Analyzer 1.1.1.3 – SOP	Document Version 1.0
+
+Table 16:
+	
+Take the plug of the milk analyzer and plug in	Switch on the AC Power switch
+	
+First instruction will be for
+INDIZ MILK ANALYZER	Next instruction will be for
+FAT, SNF AND ADDED WATER TEST
+	
+Then the version will come
+which is 1.2.1.1	Next message: FILE SYSTEM OK
+is an important message
+
+Table 17:
+Prepared By & Date	Reviewed By & Date	Approved By & Date		Page	
+Siddharth 20/12/2019	Bhautik Kothadia /12/2019	Shridhar Mehta /12/2019		6	
+
+Table 18:
+	Smart Milk Analyzer 1.1.1.3 – SOP	Document Version 1.0
+
+Table 19:
+	
+A 9 digit unique MACHINE ID will be seen later on.	The Real Time Clock will show
+Current DATE AND TIME.
+	
+While power on, you will see the message for
+WARM UP for around a minute.	After that, the last message will come for READY.
+This shows the analyzer is ready to work now.
+
+Table 20:
+Prepared By & Date	Reviewed By & Date	Approved By & Date		Page
+Siddharth 20/12/2019	Bhautik Kothadia /12/2019	Shridhar Mehta /12/2019		7
+
+Table 21:
+	Smart Milk Analyzer 1.1.1.3 – SOP	Document Version 1.0
+
+Table 22:
+		
+Take water in sample bottle	Put sample under pipette	Press CLEAN and 25 cleaning
+cycles will be seen
+.		
+You can increase the cleaning
+cycle by button.	The cleaning process will start
+and complete automatically	After finishing, you will receive
+the READY message.
+		
+
+Table 23:
+						
+						TWICE WITH
+NEW WATER
+EACH TIME
+	5.1					
+	WATER TEST					
+						
+			Take water in sample bottle
+and put it in analyzer and
+press OK	The result should come like:
+FAT%: 0 | SNF%: 0 |
+Added Water%: 100 | Density: 0		
+						
+
+Table 24:
+Prepared By & Date	Reviewed By & Date	Approved By & Date		Page
+Siddharth 20/12/2019	Bhautik Kothadia /12/2019	Shridhar Mehta /12/2019		8
+
+Table 25:
+	Smart Milk Analyzer 1.1.1.3 – SOP	Document Version 1.0
+
+Table 26:
+	
+Take the 40ml sample bottle given along with
+the Milk analyzer and stir the milk properly.	An Ultrasonic stirrer has been given
+alongside the Milk Analyzer package.
+This is a very important device for milk analysis.
+	
+Take the milk sample and put it in the stirrer.
+You will see the timer; there should be min 10
+seconds stirring time for the sample.
+Afterwards, Press OK.	This is a very important step.
+The ignorance will NOT give you the real FAT and SNF of
+the sample milk.
+
+Table 27:
+Prepared By & Date	Reviewed By & Date	Approved By & Date		Page
+Siddharth 20/12/2019	Bhautik Kothadia /12/2019	Shridhar Mehta /12/2019		9
+
+Table 28:
+	Smart Milk Analyzer 1.1.1.3 – SOP	Document Version 1.0
+
+Table 29:
+		
+Take the sample bottle and put it on the holder
+under the pipette of Analyzer.
+Press OK. Milk will be absorbed from the pipette.	After pressing OK, the machine will start the milk
+analysis of the sample.
+You will see WORKING… message on screen
+with blocks showing progress.	
+		
+The result will show the FAT%, SNF%, Added water
+and Density of the milk. This is your desired result. If
+a DPU or system connected with the analyzer, the
+readings will be transferred there automatically.	After the sampling is over, the milk will automatically
+come into the sample bottle.
+Till then do not move the bottle from the pipette.	
+NOTE: DO NOT USE THE SAME SAMPLE AGAIN FOR ANALYSIS.		
+
+Table 30:
+	Take the next sample and start with stirring the sample
+
+Table 31:
+Prepared By & Date	Reviewed By & Date	Approved By & Date		Page	
+Siddharth 20/12/2019	Bhautik Kothadia /12/2019	Shridhar Mehta /12/2019		10	
+
+Table 32:
+	Smart Milk Analyzer 1.1.1.3 – SOP	Document Version 1.0
+
+Table 33:
+		
+Take water in sample bottle	Put sample under pipette	Press CLEAN and 25 cleaning
+cycles will be seen
+.		
+You can increase the cleaning
+cycle by button.	The cleaning process will start
+and complete automatically	After finishing, you will receive
+the READY message.
+		
+
+Table 34:
+Prepared By & Date	Reviewed By & Date	Approved By & Date		Page
+Siddharth 20/12/2019	Bhautik Kothadia /12/2019	Shridhar Mehta /12/2019		11
+
+Table 35:
+	Smart Milk Analyzer 1.1.1.3 – SOP	Document Version 1.0
+
+Table 36:
+	
+The solution will be added in the water to
+create final cleaning and it is necessary to
+clean the analyzer with this solution daily.	The sample bottle is of 40ml.
+Fill it to the neck and you will get 40ml of water in
+the sample bottle.
+	
+ With the help of syringe given in the
+toolkit of the milk analyzer, take 2ml water
+out of the sample bottle.
+ This will be the 5% amount of the total
+sample bottle quantity.
+ This is the amount of the cleaning solution to
+be used for the cleaning.	 Now, take the Daily cleaning solution and fill the
+sample bottle till the neck again.
+ This will make a mixture of 5% cleaning solution
+and 95% of water.
+ Now the solution is ready for cleaning.
+
+Table 37:
+Prepared By & Date	Reviewed By & Date	Approved By & Date		Page	
+Siddharth 20/12/2019	Bhautik Kothadia /12/2019	Shridhar Mehta /12/2019		12	
+
+Table 38:
+	Smart Milk Analyzer 1.1.1.3 – SOP	Document Version 1.0
+
+Table 39:
+		
+Now put this sample bottle to
+analyzer holder & press on CLEAN.
+Set minimum 25 cycles.	You can increase cycles
+by using button.	Press on OK button.
+Cleaning will continue
+automatically.
+
+Table 40:
+				WARNING:	
+				DO NOT USE THE CLEANING SOLUTION MORE THAN	
+				RECOMMANDED QUANTITY.	
+				IT IS HAZARDEOUS TO THE PARTS OF THE ANALAYZER.	
+
+Table 41:
+Prepared By & Date	Reviewed By & Date	Approved By & Date		Page	
+Siddharth 20/12/2019	Bhautik Kothadia /12/2019	Shridhar Mehta /12/2019		13	
+
+Table 42:
+	Smart Milk Analyzer 1.1.1.3 – SOP	Document Version 1.0
+
+Table 43:
+		
+After cleaning is done, screen will
+show CLEANING OVER message.
+Then, take the Plug Plunging
+Rubber from top of the analyzer.	Now, take the plunger which is given
+with the toolkit and stuck it in the
+hole on the top.	Now as shown in the image,
+keep pressing the plunger up
+and down forcefully.
+Repeat this process 20-25
+times.
+		
+Now take clean water in sample
+bottle and put it on the holder,
+under the pipette.	Now as shown in the image, keep
+pressing the plunger up and down
+forcefully.
+Repeat this process 15-20 times.	Attach the plug plunging
+rubber back on the top.
+
+Table 44:
+Prepared By & Date	Reviewed By & Date	Approved By & Date		Page	
+Siddharth 20/12/2019	Bhautik Kothadia /12/2019	Shridhar Mehta /12/2019		14	
+
+Table 45:
+	Smart Milk Analyzer 1.1.1.3 – SOP	Document Version 1.0
+
+Table 46:
+		
+Take water in sample bottle	Put sample under pipette	Press CLEAN and 25 cleaning
+cycles will be seen
+.		
+You can increase the cleaning
+cycle by button.	The cleaning process will start
+and complete automatically	After finishing, you will receive
+the READY message.
+
+Table 47:
+				Phone: +91 9825801658	
+	Bhautik Kothadia				
+				Emai:bk@promptsoftech.com	
+					
+
+Table 48:
+	Thank you
+
+Table 49:
+Prepared By & Date	Reviewed By & Date	Approved By & Date		Page
+Siddharth 20/12/2019	Bhautik Kothadia /12/2019	Shridhar Mehta /12/2019		15

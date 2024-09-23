@@ -1,0 +1,292 @@
+
+Table 1:
+	Processor		32-bits ARM Controller
+			2 LEDs
+1 for Battery Indication
+1 for Bluetooth connectivity of Interface hardware and Mobile
+	Display		
+			
+			2 Keys
+1 Key for Feed Button for Android Printer
+1 Key for Configuration of Interface hardware with Mobile App
+	Key		
+			
+	Bluetooth		4.2
+			3 RS232 Ports
+To connect external devices like Weighing Scale, Fat machine or
+Milk Analyzer, Extra Display.
+	RS232 Port		
+			
+	USB Host Port		1 USB Port to connect USB Dot Matrix Printer
+	Printer		Inbuilt 2” Thermal Printer
+	Body		ABS Plastic
+	Power Supply		180-260 Volts, 50 Hz
+	Battery		2600 mAh
+
+Table 2:
+	
+	
+
+Table 3:
+After successful
+installation, open the
+app. On this page click
+on the Register button
+to start the registration
+process.	Now registration page
+will open, in this page
+mention the correct
+mobile number and
+society details.
+At the bottom click on
+submit button.	After the submitting
+register details OTP will
+come on the mentioned
+mobile number.
+Enter the OTP and click
+on Verify button.
+After OTP verification
+next page is to create a
+PIN to open the
+application. Here enter
+the 4 digit PIN.	The next page is for
+Confirm PIN. Here on
+this page re-enter the
+Opt PIN.	After that home page
+will open automatically
+as shown above.
+
+Table 4:
+Go to the Hardware settings and click on the
+Bluetooth symbol to establish a connection
+between the Milk Sangrah App and Easy-5
+Printer.
+
+Permit them to access the device location first and then to connect Milk Sangrah App
+and Easy-5 Printer user needs to select Bluetooth option then this page will open.
+
+Table 5:
+
+On this page just click on the Bluetooth Available Bluetooth enables devices
+symbol. will appear on this page, select Easy-5.
+Bluetooth number is displayed on the
+screen and also Bluetooth symbol
+appears in red.
+Now click on SUBMIT button to save
+the settings.
+Here on the Hardware settings page
+users need to mention yes against the
+available machine and also need to
+mention yes if want to Tare the
+machine. Available Types of hardware
+are as below.
+1. Weighing Scale
+2. FAT Machine
+3. Milk Analyzer
+4. LR Machine
+5. Big Display
+Now click on SUBMIT button to save
+the settings.
+
+Table 6:
+When you click on the Rate Chart function in
+the Master menu this page will open. Here on
+this page users can see added Rate Chart list.
+To add a new CSV/Excel based Rate Chart click
+on the plus button beside the search bar.
+In a new Rate Chart creation page, the user needs
+to fill following details.
+ Effective Date: Mention the effective date from
+when this Rate Chart will apply.
+ Effective Shift: Mention the effective shift either
+morning or evening from when this Rate Chart
+will apply.
+ Rate Code: The rate code will come
+automatically.
+After filling details click on the IMPORT from CSV
+button and select CSV/Excel file from the mobile
+storage.
+
+Table 7:
+When you click on the Rate Chart function in
+the Master menu this page will open. Here on
+this page users can see added Rate Chart list.
+To create new incremental type Rate Chart
+click on the plus button beside the search
+bar.
+In a new Rate Chart creation page, the
+user needs to fill Effective Date, Effective
+Shift and Rate Code.
+After filling details click on the NEXT
+button.
+Milk Type: Select the Milk Type for Rate chart
+preparation.
+From & To FAT: Mention the lowest FATF
+range in From FAT and maximum FAT range
+in To FAT tab.
+From & To SNF: Mention the lowest SNF
+range in From SNF and maximum SNF range
+in To SNF tab.
+Starting Range: Mention the Starting value in
+INR for lowest FAT and Lowest SNF.
+To add the increment step range of FAT
+and SNF click on the plus button.
+
+FAT Step: Mention the Stating FAT step to create FAT step.
+Step Rate: Mention the incremental range for FAT step you have created.
+
+Table 8:
+Press the SAVE & NEXT button to
+create a Rate chart for Buffalo Milk.
+Press the SAVE & NEXT button to
+create a Rate chart for Cow Milk.
+Press the finish button to create Rate
+Chart.
+
+Table 9:
+The user needs to mention the general
+bank detail which is available in the
+village or region. To insert general bank
+details click on the plus button beside
+the search bar.	On the farmer bank detail page user need
+to mention Bank name, Bank name in a
+local language, Bank branch name, Bank
+IFSC and bank branch code.
+After filling in all details click on submit
+button to save the Bank details.
+
+Table 10:
+
+Users can create different accounts for Deduction, Addition, Commission, and
+Incentive from here.
+Account code will come automatically, just mention the name for the account and
+Group of Account.
+
+Table 11:
+Local Sale Rate is used to enter the sale rate of
+milk in local by the milk society.
+When you click on the Local Sale Rate function
+in the Master menu this page will open. Here on
+this page users can see added Rates to sale cow
+milk, buff milk and mix milk locally.
+To add a new Local Sale Rate click on the plus
+button beside the search bar.
+In a new Local Sale Rate, creation page users
+need to fill following details.
+ Effective Date: Mention the effective date
+from when this milk Rate will apply to sale
+locally.
+ Description: Enter the description if any.
+ Milk Type: Here select the Buff, cow or Mix to
+create a local sales rate.
+ Rate: Mention the Liter Rate for the selected
+Milk Type.
+After filling in all details click on submit button
+to save the details.
+
+Table 12:
+When you click on the Customer function in
+the Master menu this page will open. Here
+on this page users can see a list of added
+customers.
+To add a new customer click on the plus
+button beside the search bar.
+On a customer, creation page the user
+needs to fill following details.
+ Code: This code will generate
+automatically.
+ Name: Enter the customer name in the
+English language here.
+ Name (LL): Enter the customer name in
+the local language here.
+ Farmer: If the customer is already added
+to the farmer list then select from here.
+ Mobile No.: If a customer is a farmer the
+mobile number will come automatically
+when you select the farmer name in the
+above field. If a customer is not added to
+the farmer list, then enter the 10 digits
+mobile number here.
+ Transaction Type: Select here type of
+transaction either Credit or Debit.
+ Opening Balance: Mention the opening
+balance of the customer here.
+ Closing Balance: The closing balance will
+update automatically.
+After filling in all details click on submit
+button to save the details.
+
+Table 13:
+If Edit milk collection is allowed from the
+security setting then only from this
+function user can edit the collected milk
+data.
+Select the date and Shift you want to
+update the milk collection.
+To edit the milk entry, click on the member you want to edit from the list. The
+previous entry of milk collection will come automatically. All you have to do is make
+the correction and press submit button to save the entry.
+
+Table 14:
+After completion of Milk Collection, society
+can use Simple Dispatch to send collected
+milk to BMC/MCC or plant with Milk
+Quantity and other parameters.
+Select the Date & Shift for which you want
+to add the data for the dispatch. Press
+Submit button and you would see the
+Simple Dispatch screen.
+On the dispatch, page the user needs to
+mention the Total Can, Total Quantity,
+Average Fat & Average SNF value for Buff
+milk first and then press the next button to
+enter the same details for cow milk and
+then for mix milk type.
+
+Table 15:
+Clicking on "Local Sales" will open the
+following screen. In the above screen
+select the date and Shift from which the
+milk is to be sold locally.
+In the above screen first, select the type of
+local sale such as Cash or Credit and enter
+the customer code. Then select the type
+of milk i.e. Cow/Buff/Mix. Enter the liter
+from the local sale. The price and amount
+will come automatically according to the
+set local selling price. Click submit button
+to save the entry.
+
+Table 16:
+From this function, the user can edit the local sale milk data. Select the date and
+Shift you want to update. To edit the local milk sale entry, click on the member
+you want to edit from the list.
+
+The previous entry of milk collection will come automatically. All you have to do
+is correct by pressing the edit button and then pressing submit button to save
+the entry.
+
+Table 17:
+The Payment Process is used to enter the
+payments made to milk producers in the
+milk society for the farmers. Users can
+create the payment process from
+creating operations.
+For that select the From Date & to Date
+and press the OK button.
+Created Payment Cycle is as shown on
+the screen. Press OK button to save.
+
+Table 18:
+In the Help menu, some
+shortcuts are given for milk
+collection and milk
+dispatch.	If a user is using a USB
+keyboard connected with
+Mobile then he can use the
+following shortcuts for the
+Milk Collection process.	If a user is using a USB
+keyboard connected with
+Mobile then he can use the
+following shortcuts for the
+Milk Dispatch process.

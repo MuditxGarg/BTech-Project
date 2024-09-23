@@ -1,0 +1,202 @@
+
+Table 1:
+	Confidentiality Notice
+Copyright (c) 2000-2020 Prompt Equipments - All rights reserved
+This document is authored by Prompt and is Prompt intellectual property, including the copyrights in all countries
+in the world. This document is provided under a license to use only with all other rights, including ownership rights,
+being retained by Prompt.
+This file must not be distributed, copied, or reproduced in any manner, electronic or otherwise, without the express
+written consent of Prompt.	
+
+Table 2:
+	Smart Milk Analyzer 1.2.X.X – Cleaning
+SOP	Document Version 1.0
+
+Table 3:
+Product version: 1.2.X.X	Document version: 1.0	Date: 30/04/2020
+
+Table 4:
+	Page	
+	1	
+
+Table 5:
+	Smart Milk Analyzer 1.2.X.X – Cleaning
+SOP	Document Version 1.0
+
+Table 6:
+	Page	
+	2	
+
+Table 7:
+	Smart Milk Analyzer 1.2.X.X – Cleaning
+SOP	Document Version 1.0
+
+Table 8:
+Take Clean Water / Mineral
+Water / RO Water in
+Sample Bottle.	Put sample under the
+Pipette.	Press CLEAN and 25
+cleaning cycles will be
+seen
+You can increase or
+decrease the cleaning
+∆
+cycle using ▼ button.	Click OK button, The
+cleaning process will start
+and complete
+automatically	After finishing, you will
+receive the CLEANING
+OVER message.
+
+Table 9:
+	Page	
+	3	
+
+Table 10:
+	Smart Milk Analyzer 1.2.X.X – Cleaning
+SOP	Document Version 1.0
+
+Table 11:
+Take water in sample bottle and put it in
+analyzer and press OK.	The result should come like:
+FAT%: 0.00 | SNF%: 0.00 |
+Added Water%: 100 | Density: 0.00
+
+Table 12:
+	Page	
+	4	
+
+Table 13:
+	Smart Milk Analyzer 1.2.X.X – Cleaning
+SOP	Document Version 1.0
+
+Table 14:
+Take Clean Water / Mineral
+Water / RO Water in
+Sample Bottle.	Put sample under the
+Pipette.	Press CLEAN and 25
+cleaning cycles will be
+seen
+You can increase or
+decrease the cleaning
+∆
+cycle using ▼ button.	Click OK button, The
+cleaning process will start
+and complete
+automatically	After finishing, you will
+receive the CLEANING
+OVER message.
+
+Table 15:
+	Page	
+	5	
+
+Table 16:
+	Smart Milk Analyzer 1.2.X.X – Cleaning
+SOP	Document Version 1.0
+
+Table 17:
+The solution will be added in the water
+to create final Daily cleaning and it is
+necessary to clean the analyzer with
+this solution daily after each shift.	The sample bottle is of 40ml.
+Fill the sample bottle with approx. 38ml
+clean water.
+Take 10 drops (Approx. 2ml) of Daily
+Cleaner, in the sample bottle.
+This will be the 5% amount of the total
+sample bottle quantity.	This will make a mixture of 5% cleaning
+solution and 95% of water.
+Now the solution is ready for cleaning.
+
+Table 18:
+	Page	
+	6	
+
+Table 19:
+	Smart Milk Analyzer 1.2.X.X – Cleaning
+SOP	Document Version 1.0
+
+Table 20:
+Now put this sample
+bottle to analyzer holder &
+press on CLEAN.
+Set minimum 25 cycles.	You can increase or
+decrease cycles by using
+∆▼ button.	Press on OK button.
+Cleaning will continue
+automatically.
+
+Table 21:
+			WARNING:	
+			DO NOT USE THE CLEANING SOLUTION MORE THAN RECOMMANDED	
+			QUANTITY.	
+			IT IS HAZARDEOUS TO THE PARTS OF THE ANALAYZER.	
+				
+
+Table 22:
+	Page	
+	7	
+
+Table 23:
+	Smart Milk Analyzer 1.2.X.X – Cleaning
+SOP	Document Version 1.0
+
+Table 24:
+After cleaning is done with
+Daily Cleaner, Turn off the
+supply of Analyzer and
+remove the Rubber Plug
+from top of the analyzer.	Now, take the plunger
+which is given with the
+toolkit and stuck it in the
+hole on the top.	Now as shown in the
+image, keep pressing the
+plunger down forcefully.
+		
+Now take clean water in
+sample bottle and put it
+on the holder, under the
+pipette.	Now as shown in the
+image, keep pressing the
+plunger Slowly up and
+down.
+Repeat this process 15-20
+times.
+Remove the bottle when
+cleaning water comes out
+from the pipette.	Again keep pressing the
+plunger Slowly up and
+down, so there is no
+water in Analyzer.
+Attach the rubber plug
+back on the top.
+
+Table 25:
+	Page	
+	8	
+
+Table 26:
+	Smart Milk Analyzer 1.2.X.X – Cleaning
+SOP	Document Version 1.0
+
+Table 27:
+Take Clean Water / Mineral
+Water / RO Water in
+Sample Bottle.	Put sample under the
+Pipette.	Press CLEAN and 25
+cleaning cycles will be
+seen
+You can increase or
+decrease the cleaning
+∆
+cycle using ▼ button.	Click OK button, The
+cleaning process will start
+and complete
+automatically	After finishing, you will
+receive the CLEANING
+OVER message.
+
+Table 28:
+	Page	
+	9	

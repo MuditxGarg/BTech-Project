@@ -1,0 +1,63 @@
+
+Table 1:
+Parameter	Specification
+Controller	16-bits
+Keys	3 Push buttons
+Display	3 digits, 7 Segment display
+for temperature (°C) & time
+set-point indication
+for thawing
+LEDs	5 LEDs Indicator
+Bluetooth (BLE)	Not Included
+Power supply	Adapter
+Input:110-280VAC; 50/60 Hz;
+Output:14VDC 4A
+	DC Input: 12-14VDC 4A
+Temperature Sensor	PT100
+Temperature
+Resolution	0.1°C
+Thawing temperature
+accuracy	+/- 0.1°C
+Thawing Medium
+(water)	Volume approx. 50 ml
+Thawing temperature	22 to 40°C
+Vibrator	In-built
+Enclosure	ABS
+Operating
+temperature	~ 5 to 50°C
+Buzzer	Heating & Thawing cycle
+completion
+Tweezer	Metal tweezer for handling
+of semen straw
+Straw per thawing	1 straw at at time
+Battery	In-built 12V(Nominal: 10.8V)
+2800mAh Li-Ion;
+Battery backup: 25+
+number of thawing
+Water level sensor	Not Included
+30 to 120 second
+Thawing time	(cloud control)
+Operation	Use of mobile app and push
+button for operation
+Equipment weight	~ 550 gm
+
+Table 2:
+		Built-in Vibrator for uniform warming of water
+		Temperature Controllers to ensure consistent
+temperature of water bath with minimal
+fluctuation up to 0.1ºC
+		Alarm indication for completion of thawing cycle
+		Durable, lightweight, and portable table-top
+device designed to withstand any weather
+conditions
+20	.3°	Digital display to showcase temperature and time
+AI		Unique software PLC logic for gradual water
+heating and avoid major temperature fluctuation
+during heating & thawing
+		User based data analytics and data intelligence for
+past performance monitoring and predictive
+modelling, enabling better decision making
+		Power supply and battery charger
+		Programmable settings allow customers to
+customize time-temperature combinations for
+different semen samples

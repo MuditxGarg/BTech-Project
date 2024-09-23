@@ -1,0 +1,322 @@
+
+Table 1:
+Product version: 4.0.4.6	Document version: 1.0	Date: 09/09/2020
+
+Table 2:
+Processor	Microprocessor(ARM9) based Data Processor
+Display	LCD – Color TFT Display (320 x 240) with back light
+Capacity	4 GB (in-built) – expandable up to 16GB
+Unlimited data storage
+Storage/Media Type	Micro SD
+Operating System	Linux
+File System for USB Pen Drive	FAT32
+External Interface / 
+Connectivity	UART provided allows connecting three different types of RS232 enabled devices to DPU
+Real time data capture using RS232 protocol
+4th UART is available on request
+Two USB port allows connecting USB Mass Storage device to DPU, USB Keyboard, USB Dot Matrix Printer
+Main Keyboard is external USB PC Keyboard
+Thermal Printer interface allows connecting Thermal Printer built in optionally.
+Clock	Built-in Real Time Clock
+Environment	Operative temperature: 0 to 50°C  (32 to 122 F)
+Relative humidity: 5% to 85% RH non condensing village dusty atmosphere, housing made up of “SS304 or ABS Plastic Body”
+Power Supply	180-260 Volts, 50 Hz
+Power Consumption	33 Watts with Thermal Printer (3 Watts without Thermal Printer)
+Security	Secure data transfer on Pen drive using “AES 256 bit Encryption”
+Card Reader	Inbuilt Proxy Card Reader using Wagon protocol
+Database	SQLite Database
+Zero configuration
+Server less
+Secure
+Fast Data Storage and Retrieval
+
+Table 3:
+API/SDK	Customer software can use Software Development kit to integrate DPU with their system
+Dimension (L x B x H)	22 x 20 x 11.5 (cm)
+Battery Backup	Approx. 2.5 hours (Depends on No. Print Slip) – Optional
+In The Box	Paper roll - 4 Qty
+Power lead 1.5 M with plug top - 1 Qty
+Interface cable for electronic weigh scale
+Interface cable for remote display unit
+Interface cable for electronic milk tester/milk analyzer
+12V DC 3A Adapter
+USB PC Keyboard
+
+Table 4:
+Component name	Description	Quantity	
+Paper Roll	Printer Page for Thermal Printer	4	
+RS232 Link	Interface cable for Electronic Weigh Scale
+Interface cable for Remote Display unit
+Interface cable for FAT Machine/Milk Analyzer	3	
+Power Lead
+ (For DC DPU)	1.5 M power cable with plug top	1	
+Power Adapter 
+(For AC DPU)	12V DC 3Amp. 	1	
+USB PC
+Keyboard	Keyboard 	1	
+
+Table 5:
+
+After plugging in the DPU and powering it on, you will see screen like above.
+On top left, the power bar would show the Battery level. 
+Besides there will be Charging indicator, which would show the device is being charged.
+Current Date and time would be shown besides, synchronized with the server.
+GSM Network bar will come first and network bar shows the strength of the network.
+G icon shows the connectivity of GSM network, if icon is in G green means  GSM network is connected and if icon is in G Red means GSM network is not connected. 
+Right side icon S with green background shows the data is successfully synchronized with the Web portal, if S has red background means the DPU is not synchronized with Web portal.
+Below left side shows the manufecturer name
+Bottom right shows the version of the firmware installed in the system
+
+Table 6:
+	The username and password would be given to you by Portal Admin.
+You can login by the given username and password.
+
+Table 7:
+		Society Code: Enter the Society code provided by Dairy.
+HO Code: Enter the HO code provided by Support team.
+BMC Code: Enter the Society code provided by Dairy
+DPU Type: Select the DPU type as co-operative.
+DPU Work: Select the DPU work as Online. 
+Milk Type: Select the cow & Buff as Milk Type.
+		GSM Module: Select the Quectel as GSM Module.
+GSM Operator: Select the proper GSM Operator from the list.
+WCF URL: Enter this URL to Sync the data from Web portal. http://syncapi.promptamcs.com/ 
+Firmware URL: Enter this URL for the auto update the data from Web portal. http://autoupdate.promptamcs.com/ 
+Installation Date: Enter the Installation Date here.
+Install by: Enter the Installation person’s name here.
+Now Press the Enter button.
+2	Society Code: Society code is already mention.
+Society Name: Enter the Society Name provided by dairy.
+Society Name (L): Enter the Society name in local language provided by dairy.
+Short Name: Enter the Society Short name provided by dairy.
+Short Name (L): Enter the Society Short name in local language provided by dairy.
+Address: Enter the Address of the Society.	Society Code: Society code is already mention.
+Society Name: Enter the Society Name provided by dairy.
+Society Name (L): Enter the Society name in local language provided by dairy.
+Short Name: Enter the Society Short name provided by dairy.
+Short Name (L): Enter the Society Short name in local language provided by dairy.
+Address: Enter the Address of the Society.
+	FinyearStartdate: Select the Society’s start date of the current financial year.
+FinyearEnddate: Select the Society’s end date of the current financial year.
+Registration Date: Enter the Registration date of Society.
+Registration code: Enter the Registration code of Society.
+Village Code: Enter the village code in which the society is created.
+State code: Enter the state code in which the society is created.
+Hemlet code: Hamlet is a special system which is used in some villages, If it is available then enter it here.	FinyearStartdate: Select the Society’s start date of the current financial year.
+FinyearEnddate: Select the Society’s end date of the current financial year.
+Registration Date: Enter the Registration date of Society.
+Registration code: Enter the Registration code of Society.
+Village Code: Enter the village code in which the society is created.
+State code: Enter the state code in which the society is created.
+Hemlet code: Hamlet is a special system which is used in some villages, If it is available then enter it here.
+	Route code: Enter the route from the list on which the society’s milk is taken by the tanker.
+Secretary Name: Enter the Secretary name of society.
+Secretary Mobile: Enter the Secretary’s mobile No.
+Chairman Name: Enter the Chairman name of society.
+Chairman Mobile: Enter the Chairman’s mobile No.
+Payment Days: Enter after how many days the payment is made to the milk producer.
+After filling all the details press the Enter button.	Route code: Enter the route from the list on which the society’s milk is taken by the tanker.
+Secretary Name: Enter the Secretary name of society.
+Secretary Mobile: Enter the Secretary’s mobile No.
+Chairman Name: Enter the Chairman name of society.
+Chairman Mobile: Enter the Chairman’s mobile No.
+Payment Days: Enter after how many days the payment is made to the milk producer.
+After filling all the details press the Enter button.
+
+Table 8:
+	The Functions of DP-Pro are divided into 5 main menu,
+Masters: This menu includes all the masters of DPU
+Transaction: The menu contains all milk transaction 
+Transfer: This menu have the data transfer options with USB drive – both import and export
+Reports: Various reports of DPU for both serial and USB printers
+Setting: The setting will allow the user to manage the settings of DPU
+
+Table 9:
+	In master menu following functions are available for Co-operative DPU.
+Society: Only View Option
+System User: User can insert new.
+Member: User can insert new member from here.
+Rate Chart: Only View option.
+Hardware: User can insert new.
+GSM: User can change the details.
+	Firmware History: User can view the Firmware history of DPU from here.
+Installation Information: User can view all installation info from here.
+Member Mobile Mapping: User need to map the mobile of member from this function.
+Member Bank Detail: User Need to enter the bank details of member from here.
+
+Table 10:
+		By selecting this you can view the society details.	By selecting this you can view the society details.
+			
+
+Table 11:
+	Users as shown in photo are already developed.
+	If user want to add new System user then by pressing insert button you can create new system user.
+
+Table 12:
+	Hardware settings of Prompt Device are already inside DPU, 
+If any new make Device want to connect then User need to do the following changes from Hardware List from Master.
+If you want to add new hardware then press Insert button.
+	Hardware Type: Select the Hardware from the list.
+Hardware Name: Enter the hardware name here.
+Baud rate: select the Baud rate from the list for the hardware Interfacing.
+Data Bits: Enter the Data bits for the hardware Interfacing.
+Parity: Select the Parity for the hardware Interfacing.
+	Stop Bits: Enter the stop bits for the hardware Interfacing.
+No. of String: Enter the No. of String.
+Continuous Str?: Select yes if you want continuous String.
+Flow Control: 
+String Length: Enter the length of String.
+Starting Char: Enter the Starting Character of the String.
+Tare Char: Enter the Character to Tare the Device.
+
+Table 13:
+	
+Hardware settings option is available in Settings (System Configuration) menu.
+If you want to add new hardware then press Insert button.	Hardware settings option is available in Settings (System Configuration) menu.
+If you want to add new hardware then press Insert button.
+	From Here you can select the type of Hardware connected with DPU.
+Press the enter Button to change the Port address of connected Hardwares.
+	From here you can change the port Address of Connected Hardware.
+Normally Milk Analyzer is connected at Port-2, but At Society they are using FAT Machine instead of Milk Analyzer then select FAT Machine at Port-2.
+
+Table 14:
+	
+Available GSM operators in lists are as follow: 
+PromptAirtelWL, PromptVodafoneWL, JioPromptWL, Jio, Vodafone IN, Aircel, BSNL, PromptBSNLWL, IDEA, Reliance, TataDocomo, Uninor, MTS, PromptIDEA,  
+Note: Do not change GSM Module: Quectel	Available GSM operators in lists are as follow: 
+PromptAirtelWL, PromptVodafoneWL, JioPromptWL, Jio, Vodafone IN, Aircel, BSNL, PromptBSNLWL, IDEA, Reliance, TataDocomo, Uninor, MTS, PromptIDEA,  
+Note: Do not change GSM Module: Quectel
+
+Table 15:
+	If you want to Check the Published System settings from web portal, you can check those from here. 
+	In this page you can see following system settings: 
+Date & Time
+Language Setting
+Printer Settings
+System Information
+Rate Settings
+Security Settings
+Hardware Settings
+	If you select Date and Time then this page will open. From here you can update you current date and time.
+Normally date and time will automatically sync from web portal.
+	If you select Language settings then this page will open. From here you can update your Language of DPU.
+
+	If you select Printer settings then this page will open. From here you can View your Printer related settings.
+	
+If you select System Information then this page will open. From here you can View your System Information settings published from web portal.	If you select System Information then this page will open. From here you can View your System Information settings published from web portal.
+	
+If you select Rate Parameters then this page will open. From here you can View your Rate Parameters published from web portal for cow and Buff.	If you select Rate Parameters then this page will open. From here you can View your Rate Parameters published from web portal for cow and Buff.
+	From here you can View your Rate Parameters published from web portal for cow and Buff.
+	
+If you select Rate Calculation then this page will open. From here you can View your Rate Calculation settings published from web portal.	If you select Rate Calculation then this page will open. From here you can View your Rate Calculation settings published from web portal.
+	From here you can view Security settings.
+	In this page you can view settings for below functions:
+Allow Edit in Milk Entry, 
+Allow CAN wise Dispatch, 
+All Parameters Allowed Manual, 
+Allow Qty Manual, 
+Allow Member code Manual.
+	In this page you can view settings for below functions:
+Zero Amt. Allowed in Milk Entry:
+Allow Manual Milk Entry:
+Allow Manual Dispatch: 
+Print Milk Slip:  
+Print Census Code:
+	In this page you can view settings for below functions:
+Print Census Code:
+Print Rate & Amount: 
+Print FATKg Rate:
+Print Username & Date Time: 
+	In this page you can view settings for below functions:
+Print Username & Date Time: 
+Print Serial Number:
+Print Rate Chart: 
+Debug log Type: 
+	In this page you can view settings for below functions:
+Deduction Allow: 
+Deduction in Milk bill: 
+Deduction in Payment Register: 
+Enable Payment Cycle: 
+Bank Detail Manage From Server: 
+	From here you can view Hardware settings.
+	From Here you can select the type of Hardware connected with DPU.
+
+	From here you can change the port Address of Connected Hardware.
+Normally Milk Analyzer is connected at Port-2, but At Society they are using FAT Machine instead of Milk Analyzer then select FAT Machine at Port-2.
+
+Table 16:
+	Rate Chart are sync from web portal directly in most of the cases when DPU in Online mode.
+User can view the Details of Rate Chart given by Web portal from here.
+	If Rate Chart is Published from Web portal then after Pressing Enter button this page will open. 
+Select the RateChart.
+	When you select the RateChart this popup page will open and that ask you to View or Edit?
+Note: At DPU level there is no rights for Edit RateChart.
+If you want to View the RateChart click on View Button.
+	RateChart will look like this. 
+From here you can see RateChart for Cow. Select the Buff then you can see the RateChart for Buff.
+
+Table 17:
+	Member Code: Member code will automatically generated.
+Society Code: Select the society code of particular member.
+Member name: Enter the member name here. 
+Member Name (LL): Enter the member name in local language here. 
+Address: Enter the Address of the member here.
+Date of Birth: Select the date of birth of member.
+	Pin Code: Enter the pin code of member’s address.
+Census Code: Enter the Census code given by Dairy’s format here.
+Gender: Select the Gender of member.
+Is Registered?: Select Yes if member is registered. 
+Milk Type: Select the Milk Type of member’s cattle.
+	Mobile no: Enter the mobile No. here.
+Aadhar Card No:
+PAN Card No: 
+Date of Joining: Select the joining date of member to society.
+After filling all the details press Enter button to save the data.
+
+Table 18:
+	Mobile number is important for sending SMS and also for payment related updates. 
+From here user can map the mobile number of member.
+
+Table 19:
+	Bank details is also important for payment of farmer. 
+User need to fill the below Bank details. 
+Bank Name: 
+Branch Name: 
+IFSC Code: 
+Branch Code: 
+MICR Coe: 
+
+Table 20:
+		
+User can view all the installation information from this function.	User can view all the installation information from this function.	User can view all the installation information from this function.
+
+Table 21:
+	The first option under the transfer menu is Import. Sometimes, when there is no network connectivity and the data transfer is not happening online, this option will be useful for the engineer to import data or settings. Also, this option is used to import the new rate chart.
+	While selecting the option, you would see the menu. Select the respective option.
+Note: To use any of the option, you would need to attach the USB drive (Pen Drive) first.
+Mostly you have to select the Masters option, the settings will be automatically added in the system.
+Master: User can Import the Master related functionality from here using USB pen drive.
+Rate Chart: From here user can Import the Rate Chart in Offline mode using USB pen drive.
+Same process for Rate Chart Update, attach the pen drive and select Masters, new rate chart will be automatically updated.	Rate Chart: From here user can Import the Rate Chart in Offline mode using USB pen drive.
+Same process for Rate Chart Update, attach the pen drive and select Masters, new rate chart will be automatically updated.
+
+Table 22:
+	The second option under the transfer menu is Export. Sometimes, when there is no network connectivity and the data transfer is not happening online, this option will be useful for the engineer to export data or settings.
+User can Export the Milk Collection related data from here via USB Pen drive.
+	While selecting the option, you would see the menu. Select the respective option.
+Note: To use any of the option, you would need to attach the USB drive (Pen Drive) first.
+Mostly, you have to select the Masters option; the settings will be automatically exported from the system.
+Also, the transaction logs can be exported from the system by using the next option.
+	Here, the screen is shown after the Export is done. 
+
+After attaching the pen drive and selecting the export option, the data will be automatically exported to the system and they will be updated. Progress can be seen.
+
+Table 23:
+	
+User can export the configuration logs from here using USB pen drive. 	User can export the configuration logs from here using USB pen drive. 
+
+Table 24:
+	Normally Firmware will automatically update by sync with Web portal. 
+From this function user can upgrade the firmware using USB Pen drive also. For that User need to put the new firmware version file at Import Master – Active inside the pen drive. 
+	When you select Firmware Upgrade first this popup page will open and it will show 0% at Starting.
+	After completion of Firmware Upgrade popup page will show 100% Firmware Upgrade.

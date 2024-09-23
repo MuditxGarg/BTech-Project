@@ -1,0 +1,254 @@
+
+Table 1:
+	Prompt-iPrinter – User Manual	Document Version 1.0
+
+Table 2:
+Product version: 1.0.1	Document version: 1.0	Date: 26/06/2020
+
+Table 3:
+		
+	Page	
+	1	
+		
+
+Table 4:
+	Prompt-iPrinter – User Manual	Document Version 1.0
+
+Table 5:
+		
+	Page	
+	2	
+		
+
+Table 6:
+	Prompt-iPrinter – User Manual	Document Version 1.0
+
+Table 7:
+		
+	Page	
+	3	
+		
+
+Table 8:
+	Prompt-iPrinter – User Manual	Document Version 1.0
+
+Table 9:
+Make:	PROMPT
+Model:	BTD-01
+Description:	iPrinter – Bluetooth iPrinter with Data Logger
+Print Method:	Thermal
+IPrinter Mechanism:	Fujitsu FTP628MCL10
+Printing Width:	48 mm (2 Inch)
+Number of Dots:	384
+Resolution:	8 dot/mm
+Speed:	30 mm/s
+Languages:	English & Hindi
+Font Language:	Unicode
+POWER SUPPLY
+Input voltage
+Input current	DC Adapter
+5 Volt ± 0.5V
+5 Amp.
+MECHANICAL SPECIFICATIONS:
+Dimensions (w x d x h)
+Weight
+Type of Body	112 x 103 x 95 mm
+660 gm
+ABS Plastic
+Paper Roll:
+Width
+Diameter
+Paper Length
+No of slip	58 mm
+40 mm
+15 meters
+230 slips/Roll
+INTERFACE:	RS232, Bluetooth
+
+Table 10:
+		
+	Page	
+	4	
+		
+
+Table 11:
+	Prompt-iPrinter – User Manual	Document Version 1.0
+
+Table 12:
+		
+	Page	
+	5	
+		
+
+Table 13:
+	Prompt-iPrinter – User Manual	Document Version 1.0
+
+Table 14:
+						
+At the front panel Three buttons and one LED Light are there. They are explained below:
+1. FEED: Button which is used to feed the printer paper.
+2. #: When this button pressed once then it will be used to reprint last data, and when Hold for
+more than 2sec then it will ON the Bluetooth and allow you to enter in configuration mode.
+3. LED Indication: The Total time duration for single indication is 5 seconds.
+LED Indications are as per below table, each LED indication would occur in given interval.						
+Sr.
+No.	Operation	On
+Time(sec)	Off
+Time(sec)	Idle
+Time(sec)	Total
+Blinks	Remarks
+1	Normal Operation	2.50	2.50	0.00	1	Continuously ON
+2	Data Save Done	0.50	0.50	4.00	1	Single Indication
+3	Configuration Mode	1.00	0.50	2.00	2	Continuously ON
+4	BLE Connected	0.50	0.50	0.00	5	Continuously ON
+5	File System Error	0.25	0.25	2.50	5	Continuously ON
+6	Communication Error	0.25	0.25	4.00	2	Single Indication
+7	Paper Roll Error	0.25	0.25	3.50	3	Single Indication
+8	Unknown Error	0.25	0.25	3.00	4	Continuously ON
+
+Table 15:
+FEED
+#
+
+Table 16:
+		
+	Page	
+	6	
+		
+
+Table 17:
+	Prompt-iPrinter – User Manual	Document Version 1.0
+
+Table 18:
+
+1) RS232-1: A port for the RS232 cable is given by which the Milkoscreen can be
+connected to Prompt-iPrinter. We can also connect Milk Analyzer.
+2) RS232-2: A port is given by which a computer system can be connected to
+Prompt-iPrinter.
+Note: Settings of Output RS232 port are same as Input RS232 port.
+3) 5V Power Plug: Here 5 Volt DC Adapter is connected through which our Prompt-
+iPrinter is getting supply.
+
+Table 19:
+		
+	Page	
+	7	
+		
+
+Table 20:
+	Prompt-iPrinter – User Manual	Document Version 1.0
+
+Table 21:
+	
+	Page
+8
+	
+
+Table 22:
+	Prompt-iPrinter – User Manual	Document Version 1.0
+
+Table 23:
+While power ON the Prompt-iPrinter, press the #
+button, at that time this type of print will come.	Print of Sample data of analysis is shown above.
+
+Table 24:
+		
+	Page	
+	9	
+		
+
+Table 25:
+	Prompt-iPrinter – User Manual	Document Version 1.0
+
+Table 26:
+Users can Login Using PROMPT
+EMT App from Android Phone.
+Login page will be like this.	After Successful login, this above
+screen will appear. Now click on
+Bluetooth Printer data logger.	Now connect the Bluetooth
+connected devices, and Select
+Indifoss.
+Now this screen will appear. Here
+Select Configuration.	After selecting Configuration, click
+on Printer Configuration.	In Printer configuration you need
+to select Printer On/Off control.
+
+Table 27:
+	
+	Page
+10
+	
+
+Table 28:
+	Prompt-iPrinter – User Manual	Document Version 1.0
+
+Table 29:
+Users can Login Using PROMPT
+EMT App from Android Phone.
+Login page will be like this.	After Successful login, this above
+screen will appear. Now click on
+Bluetooth Printer data logger.	After that this screen will appear,
+in this screen click on Bluetooth
+symbol at right top corner.
+		
+Now connect the Bluetooth
+connected devices, and Select
+Indifoss.	After successful configuration
+now in this screen Select the Data
+Capture.	After Selecting Data Capture this
+Screen will appear. Here you need
+to select date of Captured Data of
+society.
+
+Table 30:
+		
+	Page	
+	11	
+		
+
+Table 31:
+	Prompt-iPrinter – User Manual	Document Version 1.0
+
+Table 32:
+In this screen Click on View
+Details.	After Selecting Date of Captured
+Data, Total Samples’ Data will
+appear on screen for that Date.	From this screen you can select
+the samples for the print. After
+Selecting Samples click on Print
+Button at right top corner.
+
+Table 33:
+		
+	Page	
+	12	
+		
+
+Table 34:
+	Prompt-iPrinter – User Manual	Document Version 1.0
+
+Table 35:
+		
+	Page	
+	13	
+		
+
+Table 36:
+	Prompt-iPrinter – User Manual	Document Version 1.0
+
+Table 37:
+				Phone: 1800 274 9779	
+	HELPLINE				
+					
+				Monday to Friday – Time: 06.00 AM to 10.00 PM	
+					
+					
+
+Table 38:
+	Thank you
+
+Table 39:
+	
+	Page
+	14
+	
