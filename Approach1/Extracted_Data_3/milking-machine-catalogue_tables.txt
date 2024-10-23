@@ -1,0 +1,90 @@
+
+Table 1:
+Milking Machine
+PRM - 2F
+Mobile Milking Machine
+PRM-2F ( Double Bucket
+Model Double Cluster)
+Cattle per hour 20-24
+Milking cup group number 2 Set
+Working vacuum 40-50 kpa (adjustable)
+Pulsation ratio 60:40
+Pulsation time 60-80tpm
+Vacuum pump power 1 hp
+Pump Capacity 240 LPM
+Milking MPaRchMin -e 4F
+PRM - 4F
+Mobile Milking Machine
+PRM-4F ( Double Bucket
+Model Double Cluster)
+Cattle per hour 40-48
+Milking cup group number 4 Set
+Working vacuum 40-50 kpa (adjustable)
+Pulsation ratio 60:40
+Pulsation time 60-80tpm
+Vacuum pump power 1.5 hp
+Pump Capacity 400 LPM
+Prompt Equipments Pvt. Ltd.
+7th Floor, Shaligram Corporates, C. J. Road, Iskon - Ambli Road, Ahmedabad Gujarat - 380058 (India)
+Ph: 02717 45 1111/6111 | info@promptdairytech.com | www.promptdairytech.com
+Follow us on
+
+Table 2:
+Model	PRM-2F ( Double Bucket
+Double Cluster)
+Cattle per hour	20-24
+Milking cup group nu	mber 2 Set
+Working vacuum	40-50 kpa (adjustable)
+Pulsation ratio	60:40
+Pulsation time	60-80tpm
+Vacuum pump powe	r 1 hp
+
+Table 3:
+Model	PRM-4F ( Double Bucket
+Double Cluster)
+Cattle per hour	40-48
+Milking cup group nu	mber 4 Set
+Working vacuum	40-50 kpa (adjustable)
+Pulsation ratio	60:40
+Pulsation time	60-80tpm
+Vacuum pump powe	r 1.5 hp
+
+Table 4:
+Model	PRM-I ( Single Bucket
+Cattle per hour	Single Cluster)
+8-10
+Milking cup group numbe	r 1 Set
+Working vacuum	40-50 kpa (adjustable)
+Pulsation ratio	60:40
+Pulsation time	60-80tpm
+Vacuum pump power	0.5 hp
+
+Table 5:
+Model	PRM-1D ( Single Bucket
+Double Cluster)
+Cattle per hour	16-20
+Milking cup group numbe	r 2 Set
+Working vacuum	40-50 kpa (adjustable)
+Pulsation ratio	60:40
+Pulsation time	60-80tpm
+Vacuum pump power	1 hp
+
+Table 6:
+Model	PRM-2 ( Double Bucket
+Double Cluster)
+Cattle per hour	20-24
+Milking cup group numbe	r 2 Set
+Working vacuum	40-50 kpa (adjustable)
+Pulsation ratio	60:40
+Pulsation time	60-80tpm
+Vacuum pump power	1 hp
+
+Table 7:
+Model	PRM-1F ( Single Bucket
+Single Cluster)
+Cattle per hour	8-10
+Milking cup group numbe	r 1 Set
+Working vacuum	40-50 kpa (adjustable)
+Pulsation ratio	60:40
+Pulsation time	60-80tpm
+Vacuum pump power	1 hp

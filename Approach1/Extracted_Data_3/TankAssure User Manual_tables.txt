@@ -1,0 +1,268 @@
+
+Table 1:
+
+
+
+Table 2:
+Model	TankAssure S7
+No. of Sampling Bottles	6 for Society samples
+1 for a composite sample
+Peristaltic Pumps	7 No.
+Sampling Capacity	40 ml.
+Major Technology Parts	PLC/Micro Processor, Electro Magnetic Flow Meter, GPS, RFID Tag & Reader, Peristaltic Pumps 
+Data Transmission	Through Wi-Fi, 4G
+User Interface	8" 4G + Wi-Fi Tablet
+Central Data Controlling	Through Central Web Base Application
+GPS	GPS, GLONASS or Galileo, 24VDC, Ethernet, IP68, Internal Antenna, temperature range, -40 °C +70 °C
+Flow Meter	Electromagnetic Flowmeter
+Measure: Flow, Temperature and Quantity
+Output: 4-20mA, Pulse, Accuracy Max. ±0.05 % o.f.s. or ±5 μA
+RFID Tag Reader	13.56 MHz, LED Indication, IO-Link Interface, M12 Connection, IP67
+RFID Tag	13.56MHz, Readable and Writable, 2kBit EEPROM, ISO15693, IP68
+Supply Voltage	24V DC (From Tanker Battery)
+Housing	SS304
+Electronics Control Panel	SS304, IP65
+Milk Line 	1.5 Inch, MOC S.S 304 Semi Sim-less 
+Fitting Clamp	1.5 Inch, MOC S.S 304
+NRV	1.5 Inch, MOC S.S 304
+Filter	2mm Perforated 2mm Thickness 
+Air vent 	1 Inch, MOC S.S 304  Gasket-EPDM End Connection-2” TC end
+Weight 	< 250kg
+Dimension (mm)	1600 X 500 X 800
+
+Table 3:
+	
+Click on the Door Control function on the main menu page.	Press the lock icon to enter the username and password to open the door.
+	
+Both username and password are given to the authorized persons.	Both username and password are given to the authorized persons.
+	
+
+Table 4:
+	
+
+Table 5:
+	
+Start Initialize Process	Press the Society Data Sync. tab and Sync the Society Data and wait until all the Society sync. Press the ROUTE NOT READY tab to view the status of all flags.
+	
+When you press the ROUTE NOT READY tab, then it will show above screen with the Status of each flag. 
+ROUTE START button is in red color during the society sync process. 	Once all society Sync. then ROUTE START button appears Green.
+
+Table 6:
+	
+Once all society Sync then enter the Route Number	Once Route number is entered then Route Enter status appears Green
+
+Table 7:
+	
+Put the sample bottle Rack having name prompt on it over the derlin block proparly.	Insert the rack and make sure all nozzles should be inserted in the bottle holes. 
+	
+Put he ice pades and lock the rack box.	After inserting the Rack and ice pad, the status of all RFID Tag appears green.
+
+Table 8:
+	
+After closing the door using password status of Door close appears green.	After all status appears green then ROUTE START READY also appears green in the above screen. 
+
+Table 9:
+	
+	
+	
+
+Table 10:
+	
+	
+	
+
+Table 11:
+Item Code	Item Name	Qty
+5000097	Fix Spanner 16X17	1
+6920079	Fix & Ring Combination Spanner 14mm	1
+42505	QT cable grommets QT5, 5-6mm Clamping range,PU-10(42505)	1
+3800139	Allen Bolt M 05X25 SS 304	4
+4200073	Single Core 0.5 Sqmm Flexible Cable	1
+8620023	DC/DC Converter - Output, 240 W, 24 V, 10 A (DDR-240B-24)	1
+2095608	Sick Sensor Plug Connector With Cable - F2A14-050UB3XLEAX	1
+1088127	AXL SE DI16/1, Digital input module, Digital inputs: 16, 24 V DC, IP20	1
+5306527	Actuators Betaetiger  IE10-S1	1
+1088131	AXL SE CNT1, ,Function module,1 Counter input,1 Control input,Digital output 100 mA, IP20	1
+4400022	HEX NUT M-04 S.S. 304	40
+8610007	SS 304 NRV 1.5 inch TC	1
+8620173	SS 304 TEE 1.5 X 1 Inch	1
+8620166	Temp. Sensor 1/2 inch BSP (F) Adaptor	1
+4100019	PLAIN WASHER M-08 SS304	50
+3600054	Philips Screw 4x15 mm S.S. 304	20
+8620139	PCMFG0203-save HS3N, Thermotab400(Size-165X95X35mm,0.320kg)PCM	9
+3700087	Hex Bolt 12x70 mm S.S. 304	3
+8610003	SS 304 Union 1.5 Inch	2
+8620151	SS 304 Shaft & Nute	1
+9900067	Glain PG-9 Junction Box	6
+C8 Angle Ball Joint	Angle Ball Joint For Gas Spring	4
+109434	Connector with Cable V1-G-2M-PUR	7
+8620137	Pre Assembled Shorting Link - CA7721/10  10 Way	4
+6920013	Allen Key - Long T Type 5mm	1
+8610028	SS 304 TC Liner 1 Inch	1
+3600119	Screw CSK 3X10 mm SS 304	60
+3800022	Allen Bolt 8x35mm Ss	4
+3800133	Allen Bolt M 08X40 SS 304	4
+3800133	Allen Bolt M 08X40 SS 304	17
+4100029	SPRING WASHER M-12 S.S. 304	3
+6920090	Handle Link Pin	2
+8620110	SS 304 Butter Fly Valve 1 Inch Clutch Type	1
+3800142	Allen Bolt M 05X20 SS 304	10
+8620162	Silicon Bush Seat For Insulaed Bag	7
+8620034	Block SS 304	2
+6920078	Fix & Ring Combination Spanner 13mm	1
+3800119	Allen Bolt M6X10 SS 304	68
+3800154	Allen Bolt M 04X30 SS 304	4
+6920006	Allen Key - Long T Type 3mm	1
+1107132	FL TIMESERVER NTP , Receive Time,Date And Location Via GPS, Glonass, or Galileo	1
+8620139	PCMFG0203-save HS3N, Thermotab400(Size-165X95X35mm,0.320kg)PCM	3
+4100025	SPRING WASHER M-06 S.S. 304	80
+6920080	Fix & Ring Combination Spanner 15mm	1
+4100018	PLAIN WASHER M 06 S.S. 304	80
+8620028	Air Release Valve Clamp End With PP Ball Size : 1 Inch	1
+8620013	Pipet Plate SS 304	1
+299927	Indent (Read/write) station IQT1-18GM-IO-V1	7
+3800065	Allen Bolt 06X60 mm S.S. 304	6
+Driver- DM556-D2	Stepper Motor Driver - DM556-D2(JSS Make)	2
+4100026	SPRING WASHER M-08 SS 304	50
+8620169	SS 304 1.5 Inch Rubber Pipe Clamp	5
+7110006	Connector Terminal Block END Lock CA702	16
+8620044	Nylon Buse	1
+8620182	Redium Yellow Sticker 3M Roll	0.06
+8620155	Polyacetal Sheets / Strips (Size-12X50X1000mm)	1
+3600053	Philips Screw 4x10 mm S.S. 304	54
+1403930	RJ45 Lan Cable - 3mtr  (1403930)	2
+6920075	Fix & Ring Combination Spanner 10mm	1
+8620079	SS 304 Pipe Holding Clamp 1.5 Inch	5
+8500180	Bush-1 SS 304 (Size-50X15mm)	1
+7140144	Chilling Project - SS Filter	1
+1403930	RJ45 Lan Cable - 3mtr  (1403930)	2
+4100043	PLAIN WASHER M-12 SS304	3
+6920082	Fix & Ring Combination Spanner 17mm	1
+3800104	Allen Bolt 8x45 mm SS 304	4
+1085039	FL SWITCH 1005N, Narrow Ethernet switch, 5 RJ45 Ports,24V DC	1
+3800094	Allen Bolt 6x30 mm SS304	2
+GS-19-100	GAS Spring - GS-19-100-CC-250N	2
+GS-19-150	GAS Spring - GS-19-150-CC-280N-WY	2
+3360030	Connector Terminal Block 2.5mm Pitch	38
+1151412	AXC F 1152, PLC Next Controller, 2 Ethernet Interfaces, Program Memory 8 MB	1
+8620138	PCMFG0359-save HS3N, ThermoTab1200(Size-300X235X32mm,1.27 Kg)PCM	2
+6920074	Tool Box - Stanely Organised 1-71-948, 13Inch	1
+8610032	Ring O 3 Inch	1
+8620091	SS 304 TEE 1.5 X 3 Inch	1
+8610018	SS 304 PIPE 1.5 Inch	2
+8620153	MS102-1-Set Woth Falt Rod	1
+70104879	IO-Link Master Ethernet IP ICE2-8IOL-K45S-RJ45	1
+8620123	Insulated Box Mounting Pin SS-304	4
+4400033	Hex Nylock Nut 8 mm SS 304	4
+8620022	DC/DC Converter - Output, 15 W, 5 V, 3 A (DDR-15L-5)	1
+7110007	Connector Terminal Block END Plate EP2.5/4UN	8
+1088135	AXL F BP SE4, Axioline F,Backplane, 4 slots	1
+8620067	Biopreane Pipe Stud	7
+8620185	5mm Acrylic Half Round Plate - 157X184mm	1
+8620147	Sampler Panel With Accessory SS 304	1
+8620092	SS 304 Pipe 1 Inch	1
+6920088	PIN For PCM Block	1
+1403927	RJ45 Lan Cable - 1mtr  (1403927)	2
+4400032	Hex Nylock Nut 6 mm	4
+8620120	Insulated Box With Lid	1
+8620172	SS 304 TC Liner 1.5 Inch	6
+8620196	CONDUTE PIPE - KPS-10EPE	0.15
+6029934	Safety locking devices i10-M0453 Lock	1
+4100024	SPRING WASHER M-04 S.S. 304	135
+4400011	HEX NUT M-08 SS	15
+8620084	PVC Channel 45X25	2.5
+3800100	Allen Bolt 8x25mm S.S. 304	6
+8620125	Sampler Pipe Pipet Pin SS-304	7
+8620189	Teflon 1.5 Inch Washer 2mm Thickness	2
+3100018	Proline Promag H 100 Electromagnetic Flowmeter (5H1B50-1N75/0)	1
+8620102	SS 304 Support Bar Part-1	2
+8620138	PCMFG0359-save HS3N, ThermoTab1200(Size-300X235X32mm,1.27 Kg)PCM	6
+3800103	Allen Bolt 8x30mm S.S. 304	14
+3800156	Allen Bolt M 8X15 SS304	10
+6920076	Fix & Ring Combination Spanner 11mm	1
+8620181	Bush SS 304 (Size- 15X12mm)	4
+9900547	Cable Tie 250mm	1
+3800169	Allen Button Screw M8X35 SS 304	2
+AMT-C-A3	AMT Cushi Foot Mount, Model : AMT-C-A3 (Capacity-250kg)	4
+8620154	Polyacetal Rods - 100X100X650mm	10
+3800120	Allen Bolt M 6X50 SS 304	4
+6920111	1.5 Inch Clamp Stud SS 304	5
+3600054	Philips Screw 4x15 mm S.S. 304	30
+8620155	Polyacetal Sheets / Strips (Size-12X50X1000mm)	1
+8620148	Accessory Lock & Hinges for Sampler Panel	1
+8620029	Jigo 24 Pin Socket / Plug	1
+1072747	Inductive proximity sensors IMB- IMB12-04BPSVC0K	2
+3800046	Allen Bolt 8x20 mm SS304	6
+6930033	Combination Player	1
+6930050	Ring Spanner 10X11	1
+3800144	Allen Bolt M 04X25 SS 304	16
+8620196	CONDUTE PIPE - KPS-10EPE	0.15
+4100016	PLAIN WASHER M 04 S.S. 304	135
+3800199	Allen CSK Bolt 5X25 mm S.S. 304	6
+4200080	Three Core 0.5 Sqmm Flexible Cable	0.05
+4200008	4 CORE SHIELDED CABLE 7/38	10.5
+1007352	AXL F PWM2 1H, Function module, Pulse Width Modulation,IP20	1
+3400015	Switch MCB TPN 16 AMP	1
+8620167	Tablet Cover	1
+8610019	SS 304 BEND 1.5 Inch	9
+8620183	5mm Acrylic Plate - 391X400mm	1
+3800084	Allen Bolt 5x15 mm SS 304	10
+8620097	T- Screw M 08X1.25	1
+6600017	Ring O 1.5 Inch	12
+8620076	4 Inch Fan 24V	1
+6920097	Sampler Handle Fitting PIN	2
+6920007	Allen Key - Long T Type 4mm	1
+3800140	Allen Bolt M 05X30 SS 304	4
+4100031	SPRING WASHER M-5 S.S. 304	28
+8620199	Liquid Rubber Gasket	1
+8620101	SS 304 Handle	1
+197570	Proximity Cards & Tags IQC22-22-T9	14
+1088062	AXL SE AI4 I 4-20, Analog input module, Analog inputs: 4, 4 mA ... 20 mA,IP20	1
+8620124	Support Pipe Fitting Pin	4
+6920077	Fix & Ring Combination Spanner 12mm	1
+3800079	Allen Bolt 4x10 mm SS 304	12
+6930039	Fix Spanner 12x13	1
+8620078	SS 304 Pipe Holding Clamp 1 Inch	1
+6400017	Packing Tape F 1 Inch Size One Side - Black	1
+4100017	PLAIN WASHER M 05 S.S. 304	28
+8620177	5mm Acrylic Plate - 260X175mm	1
+8620191	Teflon 1 Inch Washer 2mm Thickness	2
+4100005	PLAIN WASHER M 03 S.S. 304	60
+8620024	Relay DPDT 24V DC 8A 2 Pole (46.52.9.024.0040)	7
+8620152	SS 304 TC Liner 3 Inch	1
+6920089	13mm Kushi Mounting Pin	4
+TSMF-G01	Temperature Sensors For Flow meter - TSMF/G01/X/0/40/06/X/0/0/H/15C/4	1
+6920015	Allen Key Set AKHM9	1
+3800165	Allen CSK Bolt 5X20 mm S.S. 304	6
+3800198	Allen Bolt M 4X45 SS304	25
+6930008	Fix Spanner 10X11	1
+8620077	4 Inch Fan Fitting Jali FTC	1
+Tablet-Tab A7 Lite	Samsung Galaxy Tab A7 Lite 22.05 cm (8.7 inch)	1
+8620025	Relay Socket for 24V DC 8A 2 Pole (97.02SPA)	7
+8620103	Delrin Bush	1
+8620070	SS Washer 70mm Dia	2
+45695	QVT split cable gland QVT20, Thread Length-M20X1.5 Length:13mm (45695)	1
+8620206	Sampler Clamp Fitting Knob	17
+8620035	Round Bar SS 304	1
+2702538	Wireless module - FL WLAN 1101	1
+1403927	RJ45 Lan Cable - 1mtr  (1403927)	2
+6920008	Allen Key - Long T Type 6mm	1
+3800135	Allen Bolt M 04X20 SS 304	4
+2500145	Junction Box 4 Loadcell IP-65 ABS	1
+6930051	Ring Spanner 12X13	1
+8500177	SS 304 Reducer 3X 1.5 Inch	1
+8610029	Teflon Gasket Sheet	1
+4100026	SPRING WASHER M-08 SS 304	17
+8620098	Knurling Nut M Dia 12X15mm	14
+4100019	PLAIN WASHER M-08 SS304	17
+6920081	Fix & Ring Combination Spanner 16mm	1
+8620033	Support Bar Small SS 304	1
+4400023	HEX NUT M-05 SS 304	10
+8620106	Adjustable Pin	5
+1088129	AXL SE DO16/1, Digital output module, Digital outputs: 16, 24 V DC, 500 mA,IP20	1
+Pump 24V-KAS-ST-B103	Peristaltic Pump 24V-KAS-ST-B103	7
+6930032	Screw Driver Set (Multitec-SDK-700)	1
+8620099	SS 304 PROFIL	1
+8620030	Jigo 32 Pin Socket / Plug	1
+7110036	MCB Channel	1.5
+4100039	SPRING WASHER M-03 SS 304	60

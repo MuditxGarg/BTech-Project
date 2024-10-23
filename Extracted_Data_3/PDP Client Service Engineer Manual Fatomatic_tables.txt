@@ -1,4 +1,0 @@
-
-Table 1:
-Note: PDP client software is compatible with Windows-7 Service pack-1, Windows-8 and
-Windows-10.

@@ -1,0 +1,316 @@
+
+Table 1:
+	e
+Page | 1	
+
+Table 2:
+ Server Roles are the roles
+created in the system, by
+which different levels can
+be created for the users as
+per rights given.
+ For that user can go to
+Master menu – Admin
+Master - Server Roles.
+Above are the roles created so far for the system, which are having different kind of permissions
+and they can be used on different levels. More roles can be created as per new requirements.
+
+Table 3:
+ Server users mean the users
+who are going to use or
+manage the portal.
+ As per the requirement, the
+users can be made by given
+different roles.
+ To create the User, you need
+to go to Master menu – Admin
+Master – Server User.
+The next screen will show the list of users. Details explained below.
+ Here in this page, you can see the list of created Users with User Name, User Role, Full Name,
+Mobile Number, Email Id etc. details. The user can edit the respective details by clicking the
+Edit option present in every row. By clicking, the user will see the entire form and can make
+any desired changes.
+ Now click the option named + New.
+
+Table 4:
+ As per the requirement, the
+users can block or unblock the
+member.
+ For that user can go to Master
+menu – Admin Master –
+Block/Unblock Member.
+The next screen will show the list of Block Users. Details explained below.
+ Here in this page, you can see the list of Blocked Users with Farmer Code, Farmer Name,
+from and To Date and Reason for Block/Unblock details. The user can edit the respective
+details by clicking the Edit option present in every row. By clicking, the user will see the entire
+form and can make any desired changes.
+Now click the option named + New.
+
+Table 5:
+ MPP users are the people who are going to
+access the MPP based on AMCU or DPU.
+ New users can be created by the
+administrator as per the requirement by
+giving the designated roles.
+ To manage the MPP users, you can go through
+Master Menu - MPP User.
+ After selecting the option, you would see the
+screen as shown below.
+To create new MPP User you first need to Select the society by searching the society code or
+name and then add the user for selected society by clicking on + New button.
+
+Table 6:
+	 If there is any update in the firmware, then
+those updates can be pushed from this option.
+ For Release the updates to Clients you can find
+the option as Master menu – Client Release.
+ After selecting the option, you would see the
+screen as shown below.
+The next screen would show the list of societies and their mapping. Details explained below.
+1. + New: The button to add new release.
+2. Edit: If any entry is needed to be changed, by clicking this button the user can make it.
+3. Release Date: The release date of the software version or firmware would be seen over here.
+4. File: The name of the updated package file, which would be in zip format would be seen
+here.
+5. File version: The version of the updated program would be seen here.
+6. Size: The file size would be seen here in KB.
+7. App type: Here which kind of file is updated would be seen, mostly it would be Firmware.
+8. Is Published: The status of the update will see here, whether it has been published or not.
+9. Search: Search facility has been given by which you can search for the update by release
+date, file version etc.
+10. Status: If you want to see the updates based on their status like active or inactive, you can
+select the type from here
+11. Delete: If you want to delete the selected update, you can use this button.
+12. Export: If you want to Export the update, you can use this button.
+13. Close: This button will allow closing the form.	
+	
+
+Table 7:
+ When the farmer is needed to be added in
+the portal, this option is used. It has been
+made the process that the farmers can only
+be added from the server side, so that the
+new farmer addition can be done from
+here only.
+ You can find the option under the Masters
+menu.
+ After selecting the option, you would see
+the screen as shown below.	
+	
+
+Table 8:
+ The Route means the specific path taken
+by the vehicle which delivers the milk
+from the MPP to BMC or MCC. To create
+a well-organized scenario, a structure is
+made where the vehicle would be given
+the assigned path with a number.
+ To manage the system, you can select
+Route option under the Masters menu.
+ After selecting the option, you would see
+the screen as shown below.
+The next screen would show the list of routes added so far in the system. Details explained below.
+1. + New : The button to add new route
+2. Edit: If any entry is needed to be changed, by clicking this button the user can make it
+3. Code: The code for the route
+4. Route Name: Route name to be given
+5. Route Kilometers: Kilometers covered in the route
+6. Daily Tanker Kilometer Limit: The limit of the daily kilometers covered by the tanker
+7. Search: User can search the route by code, route name, kilometers etc.
+8. Status: If you want to see the routes based on their status like active or inactive, you can
+select the type from here
+9. Delete: If you want to delete the selected route, you can use this button.
+10. Export: If you want to Export the routes, you can use this button.
+11. Close: This button will allow the user closing the form.
+
+Table 9:
+ There are the special system settings made
+for the DPUs used in the project. They can
+be seen and changed from here.
+ To manage the system, you can select DPU
+system setting option in the DPU submenu
+under the Masters menu.
+ After selecting the option, you would see
+the screen as shown below.
+1. + New: The button to add new setting.
+2. Edit: If any entry is needed to be changed, by clicking this button the user can make it.
+3. Code: The 4-digit code for the settings.
+4. Description: Description of the settings would be seen here.
+5. Remarks: If there are any remarks, then they would be seen here.
+6. Search: User can search the settings by code, description etc.
+7. Status: If you want to see the settings based on their status like active or inactive, you can
+select the type from here.
+8. Delete: If you want to delete the selected settings, you can use this button.
+9. Close: This button will allow the user closing the form.
+
+Table 10:
+
+
+
+Table 11:
+ After creating system setting,
+we need to publish these
+settings for the process at
+DPU system setting.
+ To manage the system, you
+can select DPU system Setting
+Publish option in the DPU
+submenu under the Masters
+menu.
+ After selecting the option,
+you would see the screen as
+shown below.
+1. + New: The button to add new setting.
+2. Edit: If any entry is needed to be changed, by clicking this button the user can make it.
+3. Society: The 4-digit code for the MPP, where the settings are applied.
+4. Settings: The name of the settings, which has been applied on this MPP.
+5. Published On: The date on which the new settings was published.
+6. Pending: Whether the proposed setting sending is pending for application or not can be
+seen here.
+7. Search: User can search the settings by society, setting name etc.
+8. Close: This button will allow the user closing the form.
+
+Table 12:
+The next screen will show the list of milk edit request. Details explained below.
+ Here in this page, you can see the list of milk edit request with Society Code, Society Name,
+Farmer Code, Date, Sample No., Milk Type and Shift. The user can approve or Reject the
+respective request by clicking the Edit option present in every row. By clicking, the user will
+see the entire form and can make any desired changes.
+Now from this page all the details related to Milk Edit Request are shown, from here only you can
+Approve or Reject the Milk Edit Request.
+
+Table 13:
+ MPP Mapping is the service created to
+move the MPP from one BMC another
+BMC.
+ To move the MPP, you can select
+BMC/MPP Mapping option under the
+Transaction menu.
+ After selecting the option, you would
+see the screen as shown below.
+1. + New: The button to add new mapping.
+2. Edit: If any entry is needed to be changed, by clicking this button the user can make the
+change.
+3. Effective Date: The date from which the mapping has been enabled.
+4. BMC: New Mapping of MPP with which BMC is seen here.
+5. Search: From here user can search the mapping by BMC.
+6. Delete: If you want to delete any selected mapping then this option is used.
+7. Export: If you want to Export the MPP mapping details, you can use this button.
+8. Close: This button will allow the user closing the form.
+
+Table 14:
+ To Lock Data, you can select Lock Data
+option under the Transaction menu.
+ After selecting the option, you would see
+the screen as shown below.
+1. + New: The button to add new mapping.
+2. Edit: If any entry is needed to be changed, by clicking this button the user can make it.
+3. From Date: The date from which Data has been locked.
+4. To Date: The date up to which Data has been locked.
+5. Search: User can search the mapping by route code.
+6. Delete: If you want to delete any selected mapping then this option is being used.
+7. Export: If you want to Export the route mapping details, you can use this button.
+8. Close: This button will allow the user closing the form.
+
+Table 15:
+After Pressing OK, the report would be seen like above.
+
+
+Table 16:
+Select the parameters as per your requirement
+1. Language: Select the language from English and Hindi, in which the report is desired
+2. Company: Select the company, it will be your company name here
+3. Search by BMC/MCC: If you want to search the MPP based on the BMC/MCC, select from
+here
+4. Search by MPP: Select the MPP for the report from here
+5. From Date: Select From Date, from which the report is to be seen
+6. To Date: Select To Date, till which the report is to be seen
+7. From Shift: Select From shift, from which the report is to be seen
+8. To Shift: Select To Shift, till which the report is to be seen
+9. Milk Type: Select the milk type from: All, Cow, Buffalo and Mix
+After selecting the parameters, Press OK.
+After Pressing OK, the report would be seen like above.
+
+Table 17:
+Select the parameters as per your requirement
+1. Language: Select the language from English and Hindi, in which the report is desired
+2. Company: Select the company, it will be your company name here
+3. From MPP: Select From MPP, from which the report is to be seen
+4. To MPP: Select To MPP, till which the report is to be seen
+After selecting the parameters, Press OK.
+After Pressing OK, the report would be seen like above.
+
+Table 18:
+Select the parameters as per your requirement
+1. Language: Select the language from English and Hindi, in which the report is desired
+2. Company: Select the company, it will be your company name here
+3. From Code: Select From code, from which the report is to be seen
+4. To Code: Select To code, till which the report is to be seen
+5. Effective Date: Select Date, from which the report is to be publish
+6. Shift: Select From Shift, from which the report is to be seen
+7. Rate Type: Select the Rate type from: Farmer rate,
+8. Status: Select for which status the report is to be seen from: All, Pending, Approved,
+Rejected, Deactivated, Processed, Failed
+After selecting the parameters, Press OK.
+After Pressing OK, the report would be seen like above.
+
+Table 19:
+Select the parameters as per your requirement
+1. Language: Select the language from English and Hindi, in which the report is desired
+2. Company: Select the company, it will be your company name here
+3. Search by BMC/MCC: If you want to search the MPP based on the BMC/MCC, select from
+here
+4. Search by MPP: Select the MPP for the report from here
+5. From Date: Select From Date, from which the report is to be seen
+6. To Date: Select To Date, till which the report is to be seen
+After selecting the parameters, Press OK.
+After Pressing OK, the report would be seen like above.
+
+Table 20:
+Select the parameters as per your requirement
+1. Language: Select the language from English and Hindi, in which the report is desired
+2. Company: Select the company, it will be your company name here
+3. Search by BMC/MCC: If you want to search the MPP based on the BMC/MCC, select from
+here
+4. Search by MPP: Select the MPP for the report from here
+5. From Date: Select From Date, from which the report is to be seen
+6. To Date: Select To Date, till which the report is to be seen
+After selecting the parameters, Press OK.
+After Pressing OK, the report would be seen like above.
+
+Table 21:
+Select the parameters as per your requirement
+1. Language: Select the language from English and Hindi, in which the report is desired
+2. Company: Select the company, it will be your company name here
+3. Search by BMC/MCC: If you want to search the MPP based on the BMC/MCC, select from
+here
+4. Search by MPP: Select the MPP for the report from here
+5. From Date: Select From Date, from which the report is to be seen
+6. To Date: Select To Date, till which the report is to be seen
+7. Locking Status: Select the locking status from here for which report to be seen, as All,
+Locked, Unlocked.
+After selecting the parameters, Press OK.
+After Pressing OK, the report would be seen like above.
+
+Table 22:
+	Level							
+							Toll Free Number	
+	1							
+							1800-833-1985	
+								
+	Level						Regional Coordinator	
+								
+	2						Vijay Singh - Support Head at UP	
+							+91 9897336319	
+								
+	Level						HO Support Head	
+								
+	3						Maulik Modi – Support Head – Balinee	
+							+91 9408709711	
+								
+								
+	Level						AGM – Customer Support	
+								
+	4						Sunit Moghe – AGM – Customer Support	
+							+91 7575011231	
+								

@@ -1,0 +1,100 @@
+
+Table 1:
+Main PCB (FRONT SIDE)	Main PCB (BACK SIDE)
+	
+DISPLAY PCB (FRONT SIDE)	DISPLAY PCB (BACK SIDE)
+	
+
+Table 2:
+SMPS 	MOTOR PROXY 	Sensor Flexi. Tube Set	Delrin Black Bush	Oring for black bush
+				
+PLUNZER WITH KNOB	INJECTION PLASTIC BODY	Motor Ass. With Proxy	INJECTION FITTING NUT	INLET PIPE ASSEMBLY
+  			
+	
+
+Table 3:
+J16 -: 12VDC INPUT SUPPLY
+BLACK : GROUND
+RED : +12 VDC
+	
+J11 Msr Connector To Display Connector J7 UART	
+J8 : PROXY 1 - MOTOR SIDE	
+J9 : MOTOR PROXY 2 - BUBBLE SIDE	
+J21 MOTOR CONNECTOR	
+
+Table 4:
+J7 UART TO CPU PCB J11 Msr
+RED-BROWN-BLACK WIRE
+	                                       
+J4 RS232 To 9 Pin Male Connector Data Output	                                       
+9 Pin Male Connector
+2 - BROWN, 3 - RED ,5 - BLACK	                                       
+J12 -: 12VDC INPUT SUPPLY
+BLACK -: GROUND
+RED-: +12 VOLT 	                                
+
+Table 5:
+SMPS MODEL - LESSA50P12 , OUTPUT:12VDC/5Ampere	SMPS MODEL - LESSA50P12 , OUTPUT:12VDC/5Ampere	SMPS MODEL - LESSA50P12 , OUTPUT:12VDC/5Ampere	SMPS MODEL - LESSA50P12 , OUTPUT:12VDC/5Ampere	SMPS MODEL - LESSA50P12 , OUTPUT:12VDC/5Ampere	SMPS MODEL - LESSA50P12 , OUTPUT:12VDC/5Ampere	SMPS MODEL - LESSA50P12 , OUTPUT:12VDC/5Ampere
+						
+	L - RED	N-BLACK	⍊GREEN	COM	+12V - RED	+V ADJ P01 POT
+	RED	BLACK	GERREN	BLACK	RED	P01 POT
+	I/P AC 230VOLT	I/P AC 230VOLT	I/P AC 230VOLT	O/P 12VDC	O/P 12VDC	
+
+Table 6:
+समस्या और समाधान	समस्या और समाधान	समस्या और समाधान	समस्या और समाधान
+	मिल्कोलाइट एनालाइजर बंध | (Disply Dead)	मिल्कोलाइट एनालाइजर बंध | (Disply Dead)	
+		AC पावर कोड / DC सप्लाय इनपुट वायर / कनेक्टर  चेक करे |	AC पावर कोड / DC सप्लाय इनपुट वायर / कनेक्टर  चेक करे |
+		इनपुट AC सप्लाय 230V / 12V DC सप्लाय / बेटरी 12V चेक करे	इनपुट AC सप्लाय 230V / 12V DC सप्लाय / बेटरी 12V चेक करे
+		AC / DC सप्लाय ON/OFF स्विच चेक करे |	AC / DC सप्लाय ON/OFF स्विच चेक करे |
+		AC / DC सप्लाय फ्यूज 5A / 20A चेक करे |	AC / DC सप्लाय फ्यूज 5A / 20A चेक करे |
+		SMPS में इनपुट AC 230V और आउटपुट 12 VDC चेक करे |	SMPS में इनपुट AC 230V और आउटपुट 12 VDC चेक करे |
+		CPU PCB में J16 - 2 पिन ग्रीन कनेक्टर पर 12 VDC चेक करे |	CPU PCB में J16 - 2 पिन ग्रीन कनेक्टर पर 12 VDC चेक करे |
+		CPU PCB में TP10 पर -: 5VDC चेक करे | (TP12 - GROUND)	CPU PCB में TP10 पर -: 5VDC चेक करे | (TP12 - GROUND)
+		CPU PCB में TP11 पर -: 3.3VDC चेक करे | (TP12 - GROUND)	CPU PCB में TP11 पर -: 3.3VDC चेक करे | (TP12 - GROUND)
+		डिस्प्ले पीसीबी में J12 पर -: 2 पिन ग्रीन कनेक्टर में 12VDC चेक करे |
+ डिस्प्ले पीसीबी में TP4 / TP5 - GROUND	डिस्प्ले पीसीबी में J12 पर -: 2 पिन ग्रीन कनेक्टर में 12VDC चेक करे |
+ डिस्प्ले पीसीबी में TP4 / TP5 - GROUND
+		डिस्प्ले पीसीबी में वोल्टेज चेक करे | (डिस्प्ले पीसीबी TP4 / TP5 GROUND)
+TP1 - : 12 VDC, TP2 -: 5 VDC, TP3 -: 3.3VDC	डिस्प्ले पीसीबी में वोल्टेज चेक करे | (डिस्प्ले पीसीबी TP4 / TP5 GROUND)
+TP1 - : 12 VDC, TP2 -: 5 VDC, TP3 -: 3.3VDC
+		डिस्प्ले पीसीबी में J7 (UART) केबल चेक करे |	डिस्प्ले पीसीबी में J7 (UART) केबल चेक करे |
+
+Table 7:
+	डिस्प्ले पर “CHECK SAMPLE” OR “TOO HIGH FAT - SNF” की Error आती है |	डिस्प्ले पर “CHECK SAMPLE” OR “TOO HIGH FAT - SNF” की Error आती है |	
+		मिल्कोलाइट एनालाइजर की पिपेट की आगे रखा गया सेम्पल चेक करे |	मिल्कोलाइट एनालाइजर की पिपेट की आगे रखा गया सेम्पल चेक करे |
+		मिल्कोलाइट एनालाइजर को Daily / Monthly क्लीनर से क्लिनिग करे |	मिल्कोलाइट एनालाइजर को Daily / Monthly क्लीनर से क्लिनिग करे |
+		मिल्कोलाइट एनालाइजर में लीकेज चेक करे |	मिल्कोलाइट एनालाइजर में लीकेज चेक करे |
+		CPU PCB में TP16-: 95VDC चेक करे | (TP12 - GROUND)	CPU PCB में TP16-: 95VDC चेक करे | (TP12 - GROUND)
+		CPU PCB में TP8-: 6.7VDC चेक करे | (TP12 - GROUND)	CPU PCB में TP8-: 6.7VDC चेक करे | (TP12 - GROUND)
+		CPU PCB में TP9-: -6.7VDC चेक करे | (TP12 - GROUND)	CPU PCB में TP9-: -6.7VDC चेक करे | (TP12 - GROUND)
+		कोइल L6 & L7 की कन्टीन्यूटी और लूज अथवा ड्राय सोल्डर चेक करे | 	कोइल L6 & L7 की कन्टीन्यूटी और लूज अथवा ड्राय सोल्डर चेक करे | 
+		जम्पर ABCD लूज अथवा ड्राय सोल्डर चेक करे |	जम्पर ABCD लूज अथवा ड्राय सोल्डर चेक करे |
+
+Table 8:
+	डिस्प्ले पर “HOT / NO SAMPLE” की Error आती है |	डिस्प्ले पर “HOT / NO SAMPLE” की Error आती है |	
+		मिल्कोलाइट एनालाइजर की पिपेट की आगे रखा गया सेम्पल चेक करे |	मिल्कोलाइट एनालाइजर की पिपेट की आगे रखा गया सेम्पल चेक करे |
+		पानी या दूध का तापमान 40o C से कम होना चाहिये |	पानी या दूध का तापमान 40o C से कम होना चाहिये |
+		मिल्कोलाइट एनालाइजर में लीकेज चेक करे | (मोटर बबल, सिरिंज, डेलरिन ब्लेक बुश  “O” रिंग, टायगोन टयुब , सेंसर पाईप )	मिल्कोलाइट एनालाइजर में लीकेज चेक करे | (मोटर बबल, सिरिंज, डेलरिन ब्लेक बुश  “O” रिंग, टायगोन टयुब , सेंसर पाईप )
+		CPU PCB में लगी IC U7 के वोल्टेज चेक करे | (TP12 - Ground)
+Pin No -1 -: 2.22VDC , Pin No -2 & 3 -: 1.22VDC	CPU PCB में लगी IC U7 के वोल्टेज चेक करे | (TP12 - Ground)
+Pin No -1 -: 2.22VDC , Pin No -2 & 3 -: 1.22VDC
+
+Table 9:
+	डिस्प्ले में “MOTOR ERROR” लिखा हुआ आता है |	डिस्प्ले में “MOTOR ERROR” लिखा हुआ आता है |	
+		प्रोक्सी वायर और प्रोक्सी कनेक्टर लूज / ड्राय चेक करे  	प्रोक्सी वायर और प्रोक्सी कनेक्टर लूज / ड्राय चेक करे  
+		प्रोक्सी क्लीन करे |	प्रोक्सी क्लीन करे |
+		CPU PCB में मोटर वायर और मोटर कनेक्टर लूज / ड्राय चेक करे |	CPU PCB में मोटर वायर और मोटर कनेक्टर लूज / ड्राय चेक करे |
+		मोटर में लगा वायर कनेक्टर लूज / ड्राय चेक करे |	मोटर में लगा वायर कनेक्टर लूज / ड्राय चेक करे |
+		मोटर जाम हो तो मोटर की सर्विस करे और नया ग्रीस लगाये |	मोटर जाम हो तो मोटर की सर्विस करे और नया ग्रीस लगाये |
+		इंन्टरनल मोटर वाईन्डिंग शोर्ट / ओपन चेक करे | 	इंन्टरनल मोटर वाईन्डिंग शोर्ट / ओपन चेक करे | 
+		मोटर IC लूज / ड्राय सोल्डर चेक करे |	मोटर IC लूज / ड्राय सोल्डर चेक करे |
+
+Table 10:
+	डिस्प्ले में “SYSTEM FAIL” लिखा हुआ आता है |	डिस्प्ले में “SYSTEM FAIL” लिखा हुआ आता है |	
+		मिल्कोलाइट एनालाइजर की पिपेट की आगे रखा गया सेम्पल चेक करे |	मिल्कोलाइट एनालाइजर की पिपेट की आगे रखा गया सेम्पल चेक करे |
+		मिल्कोलाइट एनालाइजर बंध करके चालू  करे |	मिल्कोलाइट एनालाइजर बंध करके चालू  करे |
+
+Table 11:
+	CLEAN / UP / DOWN / OK में से कोई एक अथवा 2 पुश बटन स्विच काम नही करता | (SW4,SW3,SW2,SW1)	CLEAN / UP / DOWN / OK में से कोई एक अथवा 2 पुश बटन स्विच काम नही करता | (SW4,SW3,SW2,SW1)	
+		जो पुश बटन स्विच काम नहीं करता उस बटन की कन्टीन्यूटी चेक करे |	जो पुश बटन स्विच काम नहीं करता उस बटन की कन्टीन्यूटी चेक करे |
+		पुश बटन स्विच का डिस्प्ले पीसीबी में लूज / ड्राय सोल्डर चेक करे |	पुश बटन स्विच का डिस्प्ले पीसीबी में लूज / ड्राय सोल्डर चेक करे |

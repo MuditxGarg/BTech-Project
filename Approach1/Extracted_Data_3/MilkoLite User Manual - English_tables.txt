@@ -1,0 +1,193 @@
+
+Table 1:
+Power Input 
+AC Supply
+DC Supply	
+230 Volt ± 15 – 20 %
+12 Volt to 14 Volt, 10 Amp.
+Power Consumption:	Average 30 watt, Peak 60 watt
+Mechanical Specifications:
+Dimensions (w x d x h) 
+Weight 
+Type of Body 	
+140 x 240 x 260mm 
+2.66 kg
+ABS Plastic
+Environmental Specifications:
+Ambient Air Temperature 
+Relative Humidity 	
+10°C – 50°C
+30% – 80%
+Display Specifications:
+Display LCD 	
+16 characters by 2 lines alphanumeric LCD display.
+Measuring Parameters:
+FAT 
+SNF (Solid Non FAT) 
+Added Water 
+Density 
+Protein (Optional)
+Lactose (Optional)
+Salt (Optional)
+Measuring Time 	
+0.0 – 15.0 %                             ± 0.10 % Accuracy
+3.0 – 15.0 %                             ± 0.15 % Accuracy
+0 – 60 %                                  ± 5 % Accuracy
+1.022 g/cm3 – 1.036 g/cm3   ± 0.0005 g/cm3 
+2 – 6 %                                     ± 0.2% Accuracy
+0.5 – 7 %                                  ± 0.2% Accuracy
+0.4 – 1.5 %                               ± 0.05% Accuracy
+40 Seconds/Sample (90 Sample/hour)
+
+Table 2:
+RS - 232 connector pin out Detail	RS 232 Output Protocol	RS 232 Output Protocol
+	Baud Rate	2400
+	Data bit 	8
+	Parity	None
+	Stop bit	1
+	Data Transmit	None
+
+Table 3:
+Items	Description	Qty.	
+Plunger	Plunger for the Manual Cleaning of MilkoLite With 4 extra O-ring	1	
+Battery Connector	Connector to Operate Machine on 12 Volt DC Battery, Connect Red wire to the +Ve (Positive) point of Battery and Connect Black wire to the -Ve (Negative) point of Battery 	1	
+Fuse	DC Fuse - 20 Amp.
+
+AC Fuse - 5 Amp.	1
+
+2	
+
+Daily Cleaner [5%]	200ml Bottle of 5% Daily Cleaning Solution for Daily Cleaning of MilkoLite	1	
+Power/ Monthly Cleaner 
+ [10%]	200ml Bottle of 10% Power / Monthly Cleaning Solution for Power / Monthly Cleaning of MilkoLite	1	
+Beaker	40ml beaker for analysis of Milk Sample 	2	
+RS232 Interface Link	RS232 Cable to Connect  MilkoLite with Computer (9 Pin to 9 Pin Link)	1	
+
+Table 4:
+	
+Plug in MilkoLite power cable into Mains supply board and “ON” AC power switch.	Once power of MilkoLite is ON, Display will show MILK MILKOLITE.
+	
+Next FAT, SNF AND ADDED WATER TEST shows on display.	Next, version number shows on display.
+	
+Next, MACHINE ID will appear on MilkoLite display.	After, you will see WARM UP message. It may take up to a minute.
+	
+Then CLEANING CYCLES message appears on display, here user need to clean MilkoLite (with water) with minimum 025 cycles.	After successfully start-up cleaning, “CLEANING OVER” shows on display. Now, your milk MilkoLite is ready to work.
+
+Table 5:
+	
+Take the 40ml sample bottle given along with the MilkoLite and take at least 35ml water in bottle.	An Ultrasonic stirrer has been given 
+with the MilkoLite package. 
+This is a very important device for milk analysis.
+	
+Take the milk sample bottle and put it in the stirrer. There should be minimum 10 seconds stirring time for the sample.
+Afterwards, Press OK button.	
+
+Table 6:
+	
+Take the milk in the milk sample bottle, put it under the pipette of MilkoLite and Press OK button. Milk will be absorbed from the pipette.	After pressing OK, the machine will start the milk analysis of the sample. You will see WORKING… message on screen with blocks showing progress.
+	
+The result will show the FAT%, SNF%, Added Water% and Density of the milk. This is your desired result. If a DPU or computer system connected with the MilkoLite, the readings will be transferred there automatically.	
+NOTE: Do not test the same sample repeatedly. If you want to re-test the same sample, take a fresh raw milk sample from the farmer and measure the FAT again.	NOTE: Do not test the same sample repeatedly. If you want to re-test the same sample, take a fresh raw milk sample from the farmer and measure the FAT again.
+
+Table 7:
+	
+Take the clean water in sample bottle.	Put the sample bottle below the pipette of MilkoLite, and press the OK button. 
+	
+The result should come like:
+FAT %: 0.00 | SNF %: 0.00 | 
+Added Water %: 100 | Density: 0.00	
+
+Table 8:
+	
+Take Clean Water / Mineral Water / RO Water in Sample Bottle and put sample bottle under the Pipette of MilkoLite.	Press CLEAN button and 25 cleaning cycles will be seen. You can increase or decrease the cleaning cycle using ▼ and ▲ button. Then press OK button.
+	
+After staring of first cleaning cycle, REMAINING CYCLES will appear on display.	After finishing, you will receive the CLEANING OVER message.
+
+Table 9:
+ 	
+The sample bottle is of 40ml. Fill the sample bottle with approx. 38ml clean water.
+Take 2 ml (Approx. 15 to 20 drops) of Daily Cleaner, in the sample bottle.	This will make a mixture of 5% cleaning solution and 95% of water.
+Now the solution is ready for cleaning.
+Warning: Do not use the cleaning solution more than recommended quantity. It is hazardous to the parts of the MilkoLite.	Warning: Do not use the cleaning solution more than recommended quantity. It is hazardous to the parts of the MilkoLite.
+
+Table 10:
+	
+Now put this sample bottle below the pipette of MilkoLite & press CLEAN button.	You can increase or decrease cycles by using ▼ and ▲ button. Press on OK button to start cleaning process.
+
+Table 11:
+  	
+The sample bottle is of 40ml. Fill the sample bottle with approx. 36ml clean water.
+Take 4 ml (Approx. 25 to 30 drops) of Monthly/Power Cleaner in the sample bottle.	This will make a mixture of 10% cleaning solution and 90% of water.
+Now the Cleaning solution is ready for cleaning.
+Warning: Do not use the cleaning solution more than recommended quantity.  It is hazardous to the parts of the MilkoLite.	Warning: Do not use the cleaning solution more than recommended quantity.  It is hazardous to the parts of the MilkoLite.
+
+Table 12:
+	
+Now put this sample bottle below the pipette of MilkoLite & press CLEAN button.	You can increase or decrease cycles by using ▼ and ▲ button. Press on OK button to start cleaning process.
+
+Table 13:
+		
+After cleaning is done with Daily Cleaner, Turn off the supply of MilkoLite and remove the Rubber Plug from top of the MilkoLite.	Now, take the plunger which is given in the accessories box and stuck it in the hole on the top.	Now as shown in the image, keep pressing the plunger down forcefully.
+		
+Now take clean water in sample bottle and put it under the pipette.	Now as shown in the image, keep pressing the plunger up and down. Repeat this process 15-20 times. Remove the bottle when cleaning water comes out from the pipette.	Again keep pressing the plunger slowly up and down, so there is no water in MilkoLite. 
+Attach the rubber plug back on the top.
+
+Table 14:
+	
+Take the Clean water in sample bottle and put the sample bottle below the pipette.	Then press the OK button. Water will automatically inserted through the pipette into MilkoLite.
+	
+You will see the WORKING… message on the screen after pressing OK button.	When 2 dots appear below the WORKING… message then quickly turn off the ON/OFF switch of Milk MilkoLite. ON/OFF Switch is at the back panel of Milk MilkoLite.
+
+Table 15:
+Parameter	Values	Description
+FAT Slope		Do not Change the Value
+FAT Intercept		User can change the FAT intercept value to match the FAT
+SNF Slope		Do not Change the Value
+SNF Intercept		User can change the SNF intercept value to match the SNF
+Water Intercept		User can change the Water intercept value to match Added Water 
+START UP Cleaning	1	Cleaning is require after each power on
+Auto Clean Time	30	30 min is the default cleaning time if the machine is standstill
+Continuous Data	1	Continuous Data string of Milk Analyzer
+String Type Out	1	Prompt default string type (31 Character without space)
+Protein Lactose	0/1	0 = 4 parameter and 1 = 7 parameter
+Decimal Point	1/2	1 = If only one decimal point require and 
+2 = If two decimal point require
+Display CLR	0/1	0 = Disable CLR in Display  and 
+1 = Enable CLR in Display
+CLR Decimal EN	0/1	0 = Decimal and 1 = Integer
+FAT Multiplier	0.21	Do not Change the Value
+SNF Constant	0.36	Do not Change the Value
+Reference Type	1/2	1 = if reference machine is FT or Gerber and 
+2 = if reference machine is Ultrasonic Milk Analyzer
+
+Table 16:
+Sr. No	Error List	Reason of Error	Remedies
+1	Error – 01
+Check Sample	Air Bubble in Milk Sample	Take new sample from the same milk and repeat the analysis. 
+1	Error – 01
+Check Sample	The Inlet-Outlet pipe / Tygon tube / Motor Bubble / Rubber pipe may have leakage.	Check the rubber plug position & re-fix to tight fitting.
+Replace the syringe if Rubber plug is found loose.
+1	Error – 01
+Check Sample	If the problem persist.	Clean with Daily Cleaner or Power/Monthly Cleaner.
+Contact your Dealer or Service Engineer of Company.
+2	Error – 02
+HOT/NO Sample	If sample temperature is more than 400C.	Cool the sample up to 200C to 250C.
+Analyse the sample with proper sample.
+2	Error – 02
+HOT/NO Sample	In absence of sample in the beaker.	Take a new Milk Sample and repeat the Analysis.
+3	Motor Error	Milk is frozen in the pipe.	Clean with Daily Cleaner or Power/Monthly Cleaner.
+3	Motor Error	Motor damage	Contact to Authorized Dealer or Service Engineer of Company.
+4	Memory Error	If any issue while reading and writing data from EEPROM	Check the Memory Card or replace the new memory card.
+5	Authentication Fail	If both measurement board PCB [DB board] and display board PCB [MB board] are not paired.	Contact your Dealer of Company to pair the measurement board PCB with display board PCB.
+6	DB machine ID not set	If the machine id of the measurement board is not set yet. Or machine id of the measurement board is set to 0000000000.	Contact your Dealer of Company to Set the measurement board PCB ID.
+7	Communication Timeout Error	If there is time lag in communication between display board and measurement board.
+Some RS232 wire connection fault	Check RS232 wires and Connectors.
+Contact your Dealer of Company.
+
+Table 17:
+PROMPT HELPLINE	Phone:  1800 833 1985
+PROMPT HELPLINE	Monday to Saturday 
+Time: 06.00 AM to 10.00 PM
+
+Table 18:
+Thank you

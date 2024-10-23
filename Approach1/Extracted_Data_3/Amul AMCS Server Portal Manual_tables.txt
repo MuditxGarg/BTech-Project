@@ -1,0 +1,340 @@
+
+Table 1:
+	In the above login page, enter your username and password. While entering, make
+sure that they are written in proper case as the password is case sensitive.
+In case of the password is forgotten, you can contact the head office or the e-Mail ID
+or phone number given below the form for the assistance.
+Currently, there are 2 types of users:
+1. Admin: Admin will be those types of users, who will be having high authority
+and command over plant.
+2. Support: Support users will be generally the supervisors.	
+		
+
+Table 2:
+ Server Roles are the roles
+created in the system, by
+which different levels can
+be created for the users as
+per rights given.
+ For that user can go to
+Master menu – Admin
+Master - Server Roles.
+ Above are the roles
+created so far for the
+system, which are having
+different kind of
+permissions and they can
+be used on different levels.
+More roles can be created
+as per new requirements
+by server Admin only.
+
+Table 3:
+ Server users mean the users
+who are going to use or
+manage the portal.
+ As per the requirement, the
+users can be made by given
+different roles.
+ To create the User, you need
+to go to Master menu –
+Admin Master – Server User.
+The next screen will show the list of users. Details explained below.
+Here in this page, you can see the list of created Users with User Name, User Role, Full
+Name, Mobile Number, Email Id etc. details.
+
+Table 4:
+	 As per the requirement, the
+users can block or unblock the
+member.
+ For that user can go to Master
+menu – Admin Master –
+Block/Unblock Member.
+	
+The next screen will show the list of Block Users. Details explained below.
+ Here in this page, you can see the list of Blocked Users with Farmer Code,
+Farmer Name, from and To Date and Reason for Block/Unblock details. The
+user can edit the respective details by clicking the Edit option present in every
+row. By clicking, the user will see the entire form and can make any desired
+changes.
+Now click the option named + New.	
+
+Table 5:
+
+By clicking on the + New option, you will get the form as shown above. The fields are
+explained as:
+1. Block Farmer: User can Block the farmer from here.Enter the username.
+2. Unblock Farmer: User can Unblock the blocked farmer from here.
+3. Society: Select the society of the Farmer to Block the Member.
+4. From Farmer: Here you need to select the farmer starting code.
+5. To Farmer: If you want block more than one farmer then in that case select the
+last farmer Code here.
+6. Effective Date: Here you need to mention the date from which Member is block.
+7. Reason: here you need to select the reason as Block/Unblock Farmer from
+dropdown tab.
+8. Remarks: If you are having any highlights/remarks, write them here.
+Afterwards click on SAVE button.
+
+Table 6:
+	 You can find the option as
+Master Menu - Rate
+Configuration – Rate
+Template.
+ After selecting this option,
+you would see the screen as
+shown below.
+	
+Here in this page user need to fill the Minimum and Maximum FAT & SNF value for
+Buffalo Milk, Cow Milk and Mix Milk.	
+
+Table 7:
+
+ Adding and managing the milk rate is one of the most important tasks which would be
+executed by the users at the plant.
+ You can find the option as Master Menu - Rate Configuration – Milk Rate.
+ After selecting this option, you would see the screen as shown below.
+
+Table 8:
+
+The next screen will show the list of Rates added so far in the system. Details explained
+below.
+1. + New: The button to add new Rate Chart.
+2. Edit: If any entry is needed to be changed, by clicking this button the user can make it.
+3. Effective Date: The effective date of the Rate chart to be applied would be seen here.
+4. Shift: From which shift this rate is applied.
+5. Rate Type: Here the type of the rate chart is seen, which would be Farmer Rate in this
+case.
+6. Reference No: The user can see the reference no if there is any in the circular or notice
+from the company.
+7. Is Published: The status of the rate update would be seen here, whether it has been
+published or not.
+8. Remarks: If any remarks has been made in the rate chart then it would be seen here
+9. Status: If you want to see the rates based on their status like active or inactive, you can
+select the type from here
+10. Delete: If you want to delete the selected rate, you can use this button.
+11. Export: If you want to Export the rates, you can use this button.
+12. Close: This button will allow the user closing the form.
+
+Table 9:
+
+ If Rate chart format is not available with you then you can download RateChart Format
+from Download Sample MilkRate as shown in above figure.
+ You need to enter the details of your new rate in the respective fields. Afterwards the
+same file would be added in the Milk Rate, explained in the next stage.
+Here you need to download FatSNF_RateChart_Sample.
+
+Table 10:
+
+You need to mention the FAT Rate and also SNF Rate for Buff and Cow provided by
+union in particular field in the sheet.
+1. Effective Date: Date from when the Milk rate is going to be count on
+2. Effective Shift: Whether it is going to be applied from Morning shift or evening.
+3. Rate Version:
+4. Rate Type: Type of rate on which rate is calculated,here it should be FATSNF
+always.
+5. FAT Rate Cow: Here you need to mentiion rate of FAT for Cow milk.
+6. FAT Rate Buff: Here you need to mentiion rate of FAT for Buff milk.
+7. FaT Rate Mix: Here you need to mentiion rate of FAT for Mix milk.
+8. SNF Rate Cow: Here you need to mentiion rate of SNF for Cow milk.
+9. SNF Rate Buff: Here you need to mentiion rate of SNF for Buff milk.
+10. SNF Rate Mix: Here you need to mentiion rate of SNF for Mix milk,
+11. Rate Code: Here rate code need to be mention which is provided by union.
+
+Table 11:
+
+After clicking the + New button, you will see a new window to add the milk rate. This
+window have the milk rate chart properties as shown in above image explained
+below.
+1. Effective Date: Insert the effective date from which the new rate should be
+applied.
+2. Effective Date: Insert the effective shift from which the new rate should be
+applied.
+3. Rate Calculated On: Union will calculate the rate on any of the milk parameter
+from below. Select one which used here from the given options below
+a. FAT
+b. SNF
+c. LR
+d. CLR Reading
+e. FATSNF
+4. Reference No: Enter the reference number which could be the circular or notice
+number with the new rate from the company.
+5. Society For: Select which kind of solution for milk collection is being used at
+society.
+a. AMCS: If PC based software system is used
+b. DPU: If Data Processor based system is used
+c. Android: If Android based system is used
+
+Table 12:
+
+Next step after selection of rate chart file is click on Rate Chart button then this figure
+will appear and we need to verify the rates of cow and buffalo which was given from
+dairy.
+After Verification done of rate chart then next step is publish.
+
+Table 13:
+When you select option all society and click to publish then FATSNF rate chart will
+publish to all the societies of Union at a time.
+
+
+Table 14:
+The next option is to apply on the individual society. Here, you can make the selection
+in different manner and they are explained one by one in details below. Select
+individual society in the Publish option.
+
+When you select option Individual society for Rate chart publish, three options will be
+enable for rate chart publish.
+1. Search by Region: In this option you can publish rate chart region wise.
+2. Search by Society: In this option you can publish rate chart by selecting
+particular one Society wise. Here you can publish rate chart in one society only
+at a time.
+3. Search by Interval: In this option you can publish rate chart by selecting
+number of societies at a time. Here you can publish rate chart in more than
+one society.
+
+Table 15:
+	After creation of farmer you need to
+mention Bank details for farmers. For that
+User need to go Master – Bank.
+	
+In this page Bank Details like Bank Name, Bank Branch, IFSC Code, MICR Code, Bank
+Type are mention.	
+
+Table 16:
+
+For bank mapping you need to fill following details in farmer mapping.
+1. Bank Name: From the drop down menu you need to select the appropriate
+bank of farmer.
+2. Bank Branch & Bank Branch code: Here mention the Bank branch name &
+Bank Branch Code.
+3. Bank IFSC code: IFSC code will fetch automatically when you select bank.
+4. Bank MICA Code: Here mention the MICA Code of Bank.
+5. Bank Type: From drop down menu available here you need to select type of
+bank account like saving or current account of farmer.
+
+Table 17:
+	 When the farmer is needed to be
+added in the portal, this option is
+used. It has been made the process
+that the farmers can only be added
+from the server side, so that the new
+farmer addition can be done from
+here only.
+ You can find the option under the
+Masters menu.
+ After selecting the option, you would
+see the screen as shown below.
+
+Table 18:
+	 After selecting the menu, the
+screen would look like besides,
+which is having the options
+shown besides.
+ Here, select the last option which
+is showing Sample File.
+
+Table 19:
+
+Fill the following the details,
+1. Effective Date: The effective date means the date in DD-MM-YYYY format, from
+which the membership period of the farmer would start.
+2. MPP code: The MPP’s 4 digits code.
+
+Table 20:
+3. Member code: The 4-digit code given to the member.
+4. Member Name: Enter the member’s full name here.
+5. Member Name Local: Enter the member’s name in local language.
+6. DOB: Enter the date of the birth of the member.
+7. Gender: Enter the gender number as per given instruction of the member,
+whether Male or Female. Male=1 and Female=2.
+8. Cast: Enter the cast of the member as per given number only, SC=1, OBC=2, ST=3,
+General=4, and other=5.
+9. Marital Status: Enter the marital status as per given number instruction. Single=1,
+Married=2, Window=3, Widower=4 and Divorced=5.
+10. Is Educated: Enter if the farmer is educated or not.
+11. Date of joining: Enter the date of joining of the farmer in the MPP in DD-MM-YYYY
+format.
+
+Fill the following the details,
+1. Registration No: Enter the registration number provided to the farmer from the
+MPP.
+2. Aadhar Card No: Enter the 10 digits no for Aadhar card of the employee.
+3. SAP No: Enter the SOP no provided for the user.
+4. Census Code: Enter the census no of the employee generated from the data.
+5. Nominee name: Enter the member’s nominee’s name.
+
+Table 21:
+	 Now, from the portal’s form,
+select the IMPORT option as
+shown in the image.
+ Here, upload the file which has
+just created
+
+Table 22:
+	To enable Manual Milk Collection, you
+can select Manual Milk Request option
+under the Transaction menu.
+	
+The next screen will show the list of Manual Milk Request. Details explained below.
+Here in this page, you can see the list of Manual Milk Request with Society Code, Society
+Name, From Date, From Shift, To Date, To Shift, Manual Entry in Fat, Manual Entry in Weight.
+The user can approve or Reject the respective request by clicking the Edit option present in
+every row. By clicking, the user will see the entire form and can make any desired changes.	
+	
+
+Table 23:
+	To enable Milk Edit, you can select Milk
+Edit Request option under the
+Transaction menu.
+	
+The next screen will show the list of milk edit request. Details explained below. Here in
+this page, you can see the list of milk edit request with Society Code, Society Name, Farmer
+Code, Date, Sample No., Milk Type and Shift.	
+	
+The user can approve or Reject the respective request by clicking the Edit option present in
+every row. By clicking, the user will see the entire form and can make any desired changes.
+Now from this page all the details related to Milk Edit Request are shown, from here only you
+can Approve or Reject the Milk Edit Request.	
+
+Table 24:
+There are several reports created in the
+Portal, they are been divided in different
+categories.
+1. Milk Reports: Reports related to Milk
+Transaction.
+2. Account Reports: Reports related to the
+Accounts.
+3. MPP Reports: Reports based on MPPs.
+4. Special Reports: Reports created
+specifically for client.
+5. Other Reports: Miscellaneous reports
+can be seen here.
+6. Payment Reports: Reports related to
+Payment.
+Different reports are explained ahead.
+To view the different reports user need to select some parameters like
+From Date and To Date, From Shift and To Shift, From Member and To Member,
+Milk type and Society etc.
+
+Table 25:
+Refresh
+Parameter
+Export
+
+Table 26:
+It displays all the milk collection data farmer wise and date wise for the selected society,
+selected shift and selected date range and farmer range. It can be found under the Milk
+Reports.
+
+Table 27:
+The report has been created for viewing the Milk Collection edited data like Rate, FAT,
+Qty with difference than older data for selected MPP, selected date range, shift and
+sabhasad range. It can be found under the Milk Reports.
+You can find in two different Milk Edit reports. One is Region wise and another one is
+Society wise.
+
+Table 28:
+The report has been created for viewing the edit requests seen so far from the MPPs. It
+can be found under the Milk Reports. It also provide summarized data of milk edit for
+milk collection amount society wise according to selected parameters. It bifurcate data
+according to difference between final milk edit amount and initial milk collection
+amount.

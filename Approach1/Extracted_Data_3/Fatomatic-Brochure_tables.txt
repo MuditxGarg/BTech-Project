@@ -1,0 +1,18 @@
+
+Table 1:
+Measuring Range	0-15% fat
+Accuracy	0.06% for 0-5% fat, 0.10% for 5-8% fat, 0.20% for 8-15% fat
+Repeatability	0.03% for 0-5% fat, 0.04% for 5-8% fat, 0.07% for 8-15% fat
+Sample Volume	0.5ml/test
+Diluent Volume	6.5ml/test
+Display Type and Size	7 seg LED, 1/2 “ size
+Data Interface	BCD OR RS 232. Bluetooth (optional)
+Operating Temperature	5°C to 45°C
+Operating Voltage	230V AC +/- 15%, 50Hz or 12V DC
+Power Consumption	300w max
+Front Keys	Zero, milk in/mix out, repeat, fat
+Enclosure	Powder coated aluminium base, MS powder coated top
+Dimension	255 (H) x 460 (L) X 345 (W) [mm]
+
+Table 2:
+	

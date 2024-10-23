@@ -1,0 +1,22 @@
+
+Table 1:
+	
+
+Table 2:
+
+
+
+Table 3:
+Measuring Time	40 seconds
+Display	2 Line, 16 Character, Big LCD Display, 10mm Character Height
+Operating Facilities	Cleaning, Single Curve Calibration, Error List, Suitable for Cow/Buffalo/Mixed Milk
+Mobile App	Bluetooth enabled Mobile application
+Operating Voltage	230 V + 15-20%, AC, 50 Hz
+13V DC +/- 10%
+Storage	Data Storage on SD card and cloud
+Interface	RS 232
+Environmental
+Conditions	Ambient Air Temperature- 10°C to 50°C
+Relative Humidity- 30% to 80%
+Milk Temperature- 5°C to 40°C
+Power Consumption	Average 30 watt, peak 90 watt

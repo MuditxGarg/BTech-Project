@@ -1,0 +1,118 @@
+
+Table 1:
+Our ideas and innovations are a part of the pursuit of maintaining
+the sanctity of milk so that the world’s most ancient health drink
+can be appreciated as it truly is – untouched and unadulterated.
+presence across presence across presence across
+24+ states 221+ Districts 55,000+ villages
+800+ legacy of more than 3 patented
+team members 2 decades products
+OPTIMISE YOUR FARM WITH
+OTHER RELATED PRODUCTS
+A technologically advanced app which acts as a complete
+solution to your cattle management needs, that results in
+increased milk yield and profitability. In addition to the ANIMAL husbandry
+APPLICATION
+BovTag reader module, the Farm 365 App also has a
+unique Artificial Insemination (AI) module, which
+automates the complete breeding process between
+different stakeholders including dairy admin staff, dairy
+farmers, AI workers, AI supervisors, and material suppliers.
+Prompt Equipments Pvt. Ltd.
+3-B, Vardan Exclusive, Nr. Stadium Petrol Pump, Navrangpura,
+Ahmedabad – 380014, Gujarat, India
++91 7926565981/2/3 | info@promptdairytech.com | www.promptdairytech.com
+Follow us on	M O B I L E A P P B A S E D
+D I G I T A L E A R T A G
+R E A D E R
+344202017905
+344022017905
+344202017905 344202017905
+3 44 20 20 17 90 5
+340070
+4 2 2 1 9 5
+RETRY CONFIRM
+
+Table 2:
+ANIMAL husbandry
+APPLICATION
+
+
+
+Table 3:
+340
+4 2 2
+
+Table 4:
+Current Scenario
+Mostly the ear tag number of cattle is reading the ear tags such as RFID tags and others
+manually entered by the farmer or the field are expensive and do not make use of existing ear
+person, which makes it prone to errors and tags. This becomes a big hurdle in establishing a
+does not ensure any authenticity of the data. robust Animal Identification System at the farm and	HOW DOES IT WORK?
+Processing - Internet Independent
+Correction of
+Detection of tag skew & Localisation of Feed detected
+ear tag from the pre-processing digits on the digit to
+full image of image ear tag decoder
+344202017905 344202017905
+43 RETR42Y0201C97 ONFIR05M 344202017905 43 RETR42 Y0201 C97 ONFIR05
+M
+Click image from Result
+android device
+Raw image along with result &
+In addition to that, the existing solutions for the dairy level.
+O N E S I M P L E A N D
+S M A R T S O L U T I O N
+P R E S E N T I N G
+An affordable, automatic and digitised
+way of reading ear tags in cattle.
+BovTag makes the hectic process of animal
+identification simpler and efficient. It
+captures the image of the existing ear tag of
+the animal and extracts a unique
+identification number on it. It records the
+date, time and geo-location from where the
+data is captured to ensure its authenticity. ANIMAL husbandry
+APPLICATION
+India's first and only mobile app-based reader
+(filed for patent) allows the integration of the
+unique identification number with farm
+management software to extract details of
+the animal, making the process of collecting
+and recording data as smooth as possible.	Deploy the model in Retrain the model geo-location will be updated to
+mobile app to improve accuracy the cloud
+KEY FEATURES
+Built on complex algorithms Date, time and geo-location
+It can read ear tags even if it is
+and advanced image information recorded from
+scratched, has hair, mud or dirt
+processing technologies where the data is captured
+and of any size, colour and font
+Reading of tag in less than Reading of tag is possible The tag can be read even in low
+10 seconds from a distance of 1.2 metres lighting (using mobile phone
+(4-feet) using the mobile flash), varied camera angle and
+phone built-in zoom camera disturbed tag alignment
+Works on online as well
+Auto-adjusts to ensure better
+as offline mode
+image quality (sharpness)
+Reading of tag is possible with any Android smart-phone
+device with below mentioned minimal specifications:
+OS Version RAM Camera Processor
+Android 7.0 & above 4 GB & above 8 MP minimum 2GHz minimum
+BENEFITS
+Acts as an enabler to make cattle Improves transparency between
+identification easy, effective & all stakeholders in the system
+efficient
+Affordable solution which does not require
+Increased accuracy and error-free other expensive tag reading devices
+reading of existing ear tag
+Can be integrated with any existing farm
+management or animal management
+Due to geo-tagging, authenticity of
+software or application (online only)
+captured data is ensured
+
+Table 5:
+OS Version	RAM	Camera	Processor
+	4 GB & above	8 MP minimum	

@@ -1,0 +1,186 @@
+
+Table 1:
+The important data of the portal will
+be found here. On clicking in the
+menu of Masters, first menu you will
+see is BMC.
+BMC menu is used to create BMC
+and their details.
+This page will open when you click on BMC in Master Menu. Here in this page user can
+View the Created BMC details with BMC code & Name, Address and contact person
+name & Mobile number for particular BMCs.
+
+Table 2:
+The important data of the portal will
+be found here. On clicking in the
+menu of Masters, last menu you will
+see is General Settings.
+This page will open when you click on General Settings in Master Menu. Here in this
+page user can enter following details.
+ Diesel rate per Litre: Here you need to mention per litre Diesel rate for BMC.
+ Grid rate per Unit: Here you need to enter Grid rate per Unit for BMC.
+ Agitator on duration before dispatch (minutes): Here you need to mention the time
+in minutes for Agitator use before the dispatch.
+ CIP Start Duration after Dispatch (minutes): Here you need to mention the time in
+minutes of CIP after the dispatch.
+ Minimum CIP Temperature: Here you need to mention the Minimum CIP
+temperature in OC.
+ Minimum CIP Duration (minutes): Here you need to mention the Minimum CIP
+Duration in Minutes.
+ Minimum CIP Quantity (Ltr.): Here you need to mention the Minimum CIP Quantity
+in Ltr.
+ Overchilling Temperature: Here you need to mention the overchilling temperature in
+OC.
+ Underchilling Temperature: Here you need to mention the underchilling
+temperature in OC.
+
+Table 3:
+Milk data report is the most commonly
+used report. Here you are shown in detail
+all the information related to the milk
+that is in the selected BMC.
+By clicking on the report, you will see
+such a report as shown below.
+
+
+Table 4:
+Here, select the date from which you want to see data in From Date and the date you
+want to see data from to date. Then, select the code and name of the tank. Below you
+will find two options of reports and charts. By clicking on the report, you will see such a
+report as shown below.
+Note: Here you can see maximum 2 days of data. So, you put a date of one or two days
+here.
+1. In the report, you have been given the option of search, which you can use according
+to the need.
+2. On the top right, you are given the option for export to PDF and Excel.
+3. You will be able to record on events such as temperature change, sudden increase
+or decrease in milk capacity and running or damming of the Agitators, compressors
+or generators whenever there is any change in BMC with date and time. You will see
+all the status of BMC at that time.
+For example, at that time how much liter / kg of milk was there, what is the
+temperature, compressors, agitators, generators were on or off. Also, the Power supply
+Status.
+
+Table 5:
+Note: Here you can see maximum 2 days of data. So, you put a date of one or two days
+here.
+
+Table 6:
+This special report has been made to
+see the details of dispatch. Here you
+can see the information of the dispatch
+of previous days.
+By clicking on the report, you will see
+such a report as shown below.
+Even here, you have to select the date and BMC. You can see the details of dispatches
+up to 1 month in a report, select the date accordingly.
+You will see the details of dispatch according to the day, in which its start time, time to
+finish, time spent in dispatch, capacity of dispensed milk, temperature of that time.
+Before that time, you can also see how long the activator was on or tied up. According
+to the Union's own rules, you can know whether the clarifier has been run properly or
+not.
+Also, the display in the smart box is automatic or you can see it manually here.
+
+Table 7:
+This special report has been made where
+you can see the information of how much
+time the temperature in BMC was higher
+than the prescribed temperature. This
+report has been given in great detail, in
+which complete information has been
+given.
+By clicking on the report, you will see such
+a report as shown below.
+Select the date of the day you want to see here. You report this in two ways. In the summary,
+you will get brief information. While the detailed report will show you the complete
+information. Also you can select the report according to the temperature above how many
+degrees.
+For example, if you want to see how many times the temperature has gone above 5 degrees
+Celsius, select the temperature in the temperature here. Below you will find a report in which
+the date and time, how much milk was in the tank at that time will be shown in liters and
+kilos, how many degrees were the temperature at that time and how long it lasted.
+
+Table 8:
+The information about how much
+generator is used in any BMC is very
+important. It has been given special
+attention in this portal that the correct
+information about the diesel used in the
+generator and its consumption can reach
+the customer completely.
+By clicking on the report, you will see such
+a report as shown below.
+At the time of installation, the technical information of the generator as well as how
+much diesel is consumed in an hour of running the tank is put. According to which the
+amount of diesel must have been used in the amount of time that BMC generator will
+run on it.
+
+Table 9:
+The information about Cleaning is done or
+not in any BMC is very important. It has
+been given special attention in this portal
+that the correct information about the CIP
+of the BMC tank can reach the customer
+completely.
+By clicking on the report, you will see such
+a report as shown below.
+ Select the date of the day you want to see here. You report this in two ways. In
+the summary, you will get brief information. While the detailed report will show
+you the complete information.
+ Below you will find a report in which the date, CIP Start and End timing, CIP
+temperature, how much milk was in the tank in liters at CIP time, Agitator and
+CIP status will be shown.
+
+Table 10:
+Like the generator report, another report has
+been created called Usage Report. Here,
+along with generators, information about the
+use of all parts such as clarifiers and
+compressors will also be available.
+By clicking on the report, you will see such a
+report as shown below.
+
+In this report too, you have to enter the date you want to see in the From Date and Two Date.
+You can also see this report in detail and summary. In detail, you can see different reports of
+generators, compressors, clarifiers, AC mains, and reports of everyone if you want. In the
+summary you will see a summary of all of them together.
+You can see all the information in the summary above in the report. This information very
+easily gives any necessary information to any person and according to which action can be
+made to take further action.
+
+Table 11:
+This special report has been made to
+understand diesel and power
+consumption carefully.
+By clicking on the report, you will see
+such a report as shown below.
+ Here, select the date you want to see the report and select BMC. Depending on
+the setting, you will see the diesel and grid cost here. The person, who has the
+rights to it, can change it if he needs it.
+ Here you can see how much diesel is used and how many units of energy are
+used. This information is divided into two parts: used for chilling and not used
+for chilling. Used for chilling means that the milk temperature was higher than
+the BMC standard temperature and this diesel or unit is used to cool it.
+ Not used for chilling means that the temperature of the milk here was the same,
+either there was no milk in the tank, yet diesel or units have been used in BMC.
+And after that the complete details and expenses will be found below.
+
+Table 12:
+This is a special report. BMC is mainly
+used for the reports which are explained
+here, this report has been made by
+mixing them together.
+By clicking on the report, you will see
+such a report as shown below.
+Here, just select the date and BMC and you will get a complete report, in which all the
+information from that BMC's milk data report to the usage report will be prepared.
+Here you will be able to see a new segment in which you will see the alerts report. Alerts
+are specially prepared. Alerts are generated if the changes decided in the alerts are seen
+in BMC tank. The person whose mobile number has been registered, gets an SMS from
+every rock alert here. These can be changed according to the customer's requirement.
+You will be able to see how many such alerts are generated here.
+
+Table 13:
+In addition, you will see the usage report, shift summary and dispatch report.
+According to these reports, if the user wishes then he can take steps to improve the
+condition of BMC.

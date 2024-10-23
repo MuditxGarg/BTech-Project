@@ -1,0 +1,45 @@
+
+Table 1:
+
+
+
+Table 2:
+	
+Click on the Door Control function on the main menu page.	Press the lock icon to enter the username and password to open the door.
+	
+Both username and password are given to the authorized persons.	Both username and password are given to the authorized persons.
+	
+
+Table 3:
+	
+
+Table 4:
+	
+Start Initialize Process	Press the Society Data Sync. tab and Sync the Society Data and wait until all the Society sync. Press the ROUTE NOT READY tab to view the status of all flags.
+	
+When you press the ROUTE NOT READY tab, then it will show above screen with the Status of each flag. 
+ROUTE START button is in red color during the society sync process. 	Once all society Sync. then ROUTE START button appears Green.
+
+Table 5:
+	
+Once all society Sync then enter the Route Number	Once Route number is entered then Route Enter status appears Green
+
+Table 6:
+	
+Put the sample bottle Rack having name prompt on it over the derlin block proparly.	Insert the rack and make sure all nozzles should be inserted in the bottle holes. 
+	
+Put he ice pades and lock the rack box.	After inserting the Rack and ice pad, the status of all RFID Tag appears green.
+
+Table 7:
+	
+After closing the door using password status of Door close appears green.	After all status appears green then ROUTE START READY also appears green in the above screen. 
+
+Table 8:
+	
+	
+	
+
+Table 9:
+	
+	
+	

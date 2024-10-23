@@ -1,0 +1,842 @@
+{
+    "A5-8.3 x 5.8 inch_ThawEasy Lite Plus.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 88,
+        "output_text_file": "Extracted_Data\\A5-8.3 x 5.8 inch_ThawEasy Lite Plus.txt"
+    },
+    "A5-8.3 x 5.8 inch_ThawEasy Lite.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 87,
+        "output_text_file": "Extracted_Data\\A5-8.3 x 5.8 inch_ThawEasy Lite.txt"
+    },
+    "A5-8.3 x 5.8 inch_ThawEasy Smart Pro.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 89,
+        "output_text_file": "Extracted_Data\\A5-8.3 x 5.8 inch_ThawEasy Smart Pro.txt"
+    },
+    "A5-8.3 x 5.8 inch_ThawEasy Smart.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 87,
+        "output_text_file": "Extracted_Data\\A5-8.3 x 5.8 inch_ThawEasy Smart.txt"
+    },
+    "ABFS Operational Manual.docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\ABFS Operational Manual.txt"
+    },
+    "Alert Template.docx": {
+        "language": "unknown",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\Alert Template.txt"
+    },
+    "AMCS Client Software - User Manual.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 960,
+        "output_text_file": "Extracted_Data\\AMCS Client Software - User Manual.txt"
+    },
+    "AMCS-Brochure.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 162,
+        "output_text_file": "Extracted_Data\\AMCS-Brochure.txt"
+    },
+    "AMUL AMCS - Service Manual.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 521,
+        "output_text_file": "Extracted_Data\\AMUL AMCS - Service Manual.txt"
+    },
+    "Amul AMCS .Net Client Manual - English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 2081,
+        "output_text_file": "Extracted_Data\\Amul AMCS .Net Client Manual - English.txt"
+    },
+    "Amul AMCS .Net Client Manual - Gujarati.pdf": {
+        "language": "gu",
+        "sections": [],
+        "tables": 2940,
+        "output_text_file": "Extracted_Data\\Amul AMCS .Net Client Manual - Gujarati.txt"
+    },
+    "Amul AMCS Server Portal Manual.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 436,
+        "output_text_file": "Extracted_Data\\Amul AMCS Server Portal Manual.txt"
+    },
+    "Amul-Logisitic-App.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 106,
+        "output_text_file": "Extracted_Data\\Amul-Logisitic-App.txt"
+    },
+    "AmulAMCS_Presentation_Final.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 88,
+        "output_text_file": "Extracted_Data\\AmulAMCS_Presentation_Final.txt"
+    },
+    "Balinee_AMCS Server - Operational Manual - English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 1522,
+        "output_text_file": "Extracted_Data\\Balinee_AMCS Server - Operational Manual - English.txt"
+    },
+    "BMC Alerts - English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 57,
+        "output_text_file": "Extracted_Data\\BMC Alerts - English.txt"
+    },
+    "BMC Alerts - Hindi.pdf": {
+        "language": "hi",
+        "sections": [],
+        "tables": 57,
+        "output_text_file": "Extracted_Data\\BMC Alerts - Hindi.txt"
+    },
+    "BMC Configuration Manual - Eng.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 137,
+        "output_text_file": "Extracted_Data\\BMC Configuration Manual - Eng.txt"
+    },
+    "BMC Configuration Manual - Guj.docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\BMC Configuration Manual - Guj.txt"
+    },
+    "BMC Smart Box - Service Manual - Eng.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 470,
+        "output_text_file": "Extracted_Data\\BMC Smart Box - Service Manual - Eng.txt"
+    },
+    "BMC Web Portal User Manual - Eng.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 391,
+        "output_text_file": "Extracted_Data\\BMC Web Portal User Manual - Eng.txt"
+    },
+    "BovEasy.pdf": {
+        "language": "cy",
+        "sections": [],
+        "tables": 1,
+        "output_text_file": "Extracted_Data\\BovEasy.txt"
+    },
+    "BovTag-Brochure.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 102,
+        "output_text_file": "Extracted_Data\\BovTag-Brochure.txt"
+    },
+    "Cleaning Procedure.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 273,
+        "output_text_file": "Extracted_Data\\Cleaning Procedure.txt"
+    },
+    "Cloud Calibration Server Manual.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 64,
+        "output_text_file": "Extracted_Data\\Cloud Calibration Server Manual.txt"
+    },
+    "Configuration Manual Milk Sangrah App-English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 320,
+        "output_text_file": "Extracted_Data\\Configuration Manual Milk Sangrah App-English.txt"
+    },
+    "DMT_User_Manaual_Gujarati.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 774,
+        "output_text_file": "Extracted_Data\\DMT_User_Manaual_Gujarati.txt"
+    },
+    "DPMCU RMRD Portal - User Manual - English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 699,
+        "output_text_file": "Extracted_Data\\DPMCU RMRD Portal - User Manual - English.txt"
+    },
+    "DPMCU Service Manual.pdf": {
+        "language": "id",
+        "sections": [],
+        "tables": 1368,
+        "output_text_file": "Extracted_Data\\DPMCU Service Manual.txt"
+    },
+    "DPMCU.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 162,
+        "output_text_file": "Extracted_Data\\DPMCU.txt"
+    },
+    "Easyline.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 52,
+        "output_text_file": "Extracted_Data\\Easyline.txt"
+    },
+    "Factory Settings Manual.docx": {
+        "language": "hi",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\Factory Settings Manual.txt"
+    },
+    "Farm-365.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 5,
+        "output_text_file": "Extracted_Data\\Farm-365.txt"
+    },
+    "Farm-level.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 126,
+        "output_text_file": "Extracted_Data\\Farm-level.txt"
+    },
+    "Farm365 App. User Manual V-1.0.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 382,
+        "output_text_file": "Extracted_Data\\Farm365 App. User Manual V-1.0.txt"
+    },
+    "Farm365 App. User Manual V-1.1.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 571,
+        "output_text_file": "Extracted_Data\\Farm365 App. User Manual V-1.1.txt"
+    },
+    "Fatomatic _ Milkofat Service Manual.pdf": {
+        "language": "id",
+        "sections": [],
+        "tables": 1222,
+        "output_text_file": "Extracted_Data\\Fatomatic _ Milkofat Service Manual.txt"
+    },
+    "Fatomatic-Brochure.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 113,
+        "output_text_file": "Extracted_Data\\Fatomatic-Brochure.txt"
+    },
+    "Installation procedure_3 part assembly_13042021.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 66,
+        "output_text_file": "Extracted_Data\\Installation procedure_3 part assembly_13042021.txt"
+    },
+    "iSmart Poster Hindi.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 89,
+        "output_text_file": "Extracted_Data\\iSmart Poster Hindi.txt"
+    },
+    "ismart.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 54,
+        "output_text_file": "Extracted_Data\\ismart.txt"
+    },
+    "Milk-Sangrah-Brochure-.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 3,
+        "output_text_file": "Extracted_Data\\Milk-Sangrah-Brochure-.txt"
+    },
+    "Milkeasy-Milking-Machine-for-Web.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 104,
+        "output_text_file": "Extracted_Data\\Milkeasy-Milking-Machine-for-Web.txt"
+    },
+    "MilkEasy.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 121,
+        "output_text_file": "Extracted_Data\\MilkEasy.txt"
+    },
+    "Milking Machine Service Manual.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 368,
+        "output_text_file": "Extracted_Data\\Milking Machine Service Manual.txt"
+    },
+    "Milking Machine User Manual_English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 293,
+        "output_text_file": "Extracted_Data\\Milking Machine User Manual_English.txt"
+    },
+    "Milking Machine User Manual_Gujarati.pdf": {
+        "language": "gu",
+        "sections": [],
+        "tables": 383,
+        "output_text_file": "Extracted_Data\\Milking Machine User Manual_Gujarati.txt"
+    },
+    "Milking Machine User Manual_Hindi.pdf": {
+        "language": "hi",
+        "sections": [],
+        "tables": 399,
+        "output_text_file": "Extracted_Data\\Milking Machine User Manual_Hindi.txt"
+    },
+    "milking-machine-catalogue.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 108,
+        "output_text_file": "Extracted_Data\\milking-machine-catalogue.txt"
+    },
+    "MilkoCheck Lab User Manual - English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 221,
+        "output_text_file": "Extracted_Data\\MilkoCheck Lab User Manual - English.txt"
+    },
+    "MilkoCheck Operator User Manual - English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 222,
+        "output_text_file": "Extracted_Data\\MilkoCheck Operator User Manual - English.txt"
+    },
+    "MilkoCheck Server - User Manual.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 270,
+        "output_text_file": "Extracted_Data\\MilkoCheck Server - User Manual.txt"
+    },
+    "Milkocheck.pdf": {
+        "language": "so",
+        "sections": [],
+        "tables": 1,
+        "output_text_file": "Extracted_Data\\Milkocheck.txt"
+    },
+    "MilkoChill Installation Manual - English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 315,
+        "output_text_file": "Extracted_Data\\MilkoChill Installation Manual - English.txt"
+    },
+    "MilkoChill Site Suvey Form.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 51,
+        "output_text_file": "Extracted_Data\\MilkoChill Site Suvey Form.txt"
+    },
+    "MilkoChill User Manual-English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 310,
+        "output_text_file": "Extracted_Data\\MilkoChill User Manual-English.txt"
+    },
+    "MilkoChill User Manual-Hindi.pdf": {
+        "language": "hi",
+        "sections": [],
+        "tables": 400,
+        "output_text_file": "Extracted_Data\\MilkoChill User Manual-Hindi.txt"
+    },
+    "MilkoLite Combo User Manual - English.docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\MilkoLite Combo User Manual - English.txt"
+    },
+    "MilkoLite Service Manual.docx": {
+        "language": "hi",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\MilkoLite Service Manual.txt"
+    },
+    "MilkoLite User Manual - English.docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\MilkoLite User Manual - English.txt"
+    },
+    "MIlkolite-Combo.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 53,
+        "output_text_file": "Extracted_Data\\MIlkolite-Combo.txt"
+    },
+    "MIlkolite.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 54,
+        "output_text_file": "Extracted_Data\\MIlkolite.txt"
+    },
+    "MPDPU 4.X.X.X - Installation Manual.docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\MPDPU 4.X.X.X - Installation Manual.txt"
+    },
+    "MPDPU 4.X.X.X - Operational Manual.docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\MPDPU 4.X.X.X - Operational Manual.txt"
+    },
+    "MPDPU 6.X.X.X - Installation Manual.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 591,
+        "output_text_file": "Extracted_Data\\MPDPU 6.X.X.X - Installation Manual.txt"
+    },
+    "MPDPU 6.X.X.X - Operational Manual.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 605,
+        "output_text_file": "Extracted_Data\\MPDPU 6.X.X.X - Operational Manual.txt"
+    },
+    "MPDPU 7.X.X.X - Installation Manual.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 346,
+        "output_text_file": "Extracted_Data\\MPDPU 7.X.X.X - Installation Manual.txt"
+    },
+    "MPDPU 7.X.X.X - Operational Manual-English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 497,
+        "output_text_file": "Extracted_Data\\MPDPU 7.X.X.X - Operational Manual-English.txt"
+    },
+    "MPDPU 7.X.X.X - Operational Manual-Odia.pdf": {
+        "language": "unknown",
+        "sections": [],
+        "tables": 570,
+        "output_text_file": "Extracted_Data\\MPDPU 7.X.X.X - Operational Manual-Odia.txt"
+    },
+    "MPDPU 7.X.X.X - Operational Manual-हिन्दी.pdf": {
+        "language": "hi",
+        "sections": [],
+        "tables": 558,
+        "output_text_file": "Extracted_Data\\MPDPU 7.X.X.X - Operational Manual-हिन्दी.txt"
+    },
+    "Old .net AMCS Client Software - User Manual.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 926,
+        "output_text_file": "Extracted_Data\\Old .net AMCS Client Software - User Manual.txt"
+    },
+    "PDP Client Service Engineer Manual Analyzer.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 71,
+        "output_text_file": "Extracted_Data\\PDP Client Service Engineer Manual Analyzer.txt"
+    },
+    "PDP Client Service Engineer Manual Fatomatic.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 65,
+        "output_text_file": "Extracted_Data\\PDP Client Service Engineer Manual Fatomatic.txt"
+    },
+    "Prompt AMCS .net Client Software – User Manual.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 870,
+        "output_text_file": "Extracted_Data\\Prompt AMCS .net Client Software – User Manual.txt"
+    },
+    "Prompt AMCS Dot net installation - Hindi.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 61,
+        "output_text_file": "Extracted_Data\\Prompt AMCS Dot net installation - Hindi.txt"
+    },
+    "Prompt SmartBox - Installation Manual - For Customer.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 306,
+        "output_text_file": "Extracted_Data\\Prompt SmartBox - Installation Manual - For Customer.txt"
+    },
+    "Prompt-iPrinter Service Engineer Manual - 1.0.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 529,
+        "output_text_file": "Extracted_Data\\Prompt-iPrinter Service Engineer Manual - 1.0.txt"
+    },
+    "Prompt-iPrinter User Manual - 1.0.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 358,
+        "output_text_file": "Extracted_Data\\Prompt-iPrinter User Manual - 1.0.txt"
+    },
+    "PromptAMCS Installation - Final.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 58,
+        "output_text_file": "Extracted_Data\\PromptAMCS Installation - Final.txt"
+    },
+    "PromptAMCS RMRD Portal - User Manual - English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 862,
+        "output_text_file": "Extracted_Data\\PromptAMCS RMRD Portal - User Manual - English.txt"
+    },
+    "PromptAMCS.net - Server - Operational Manual - English.docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\PromptAMCS.net - Server - Operational Manual - English.txt"
+    },
+    "prompt_brochure_BMC-SMartboxLR-TECHNICAL-SPECIFICATIONS.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 29,
+        "output_text_file": "Extracted_Data\\prompt_brochure_BMC-SMartboxLR-TECHNICAL-SPECIFICATIONS.txt"
+    },
+    "Promt-Fatomatic-Brochure-with-cloud-TECHNICAL-SPECIFICATIONS.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 31,
+        "output_text_file": "Extracted_Data\\Promt-Fatomatic-Brochure-with-cloud-TECHNICAL-SPECIFICATIONS.txt"
+    },
+    "RMRD Client Software - User Manual.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 1007,
+        "output_text_file": "Extracted_Data\\RMRD Client Software - User Manual.txt"
+    },
+    "Sanchay Settings & Calibration.pdf": {
+        "language": "hi",
+        "sections": [],
+        "tables": 136,
+        "output_text_file": "Extracted_Data\\Sanchay Settings & Calibration.txt"
+    },
+    "Sanchay User Manual - English.docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\Sanchay User Manual - English.txt"
+    },
+    "Sanchay.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 49,
+        "output_text_file": "Extracted_Data\\Sanchay.txt"
+    },
+    "Sanhay Analyzer Service Manual.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 394,
+        "output_text_file": "Extracted_Data\\Sanhay Analyzer Service Manual.txt"
+    },
+    "Smart Electronic Scale Manual.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 102,
+        "output_text_file": "Extracted_Data\\Smart Electronic Scale Manual.txt"
+    },
+    "Smart Electronic Scale.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 26,
+        "output_text_file": "Extracted_Data\\Smart Electronic Scale.txt"
+    },
+    "Smart Fatomatic Details.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 465,
+        "output_text_file": "Extracted_Data\\Smart Fatomatic Details.txt"
+    },
+    "Smart GPS Scale SOP English.docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\Smart GPS Scale SOP English.txt"
+    },
+    "Smart Milk Analyzer - Calibration Manual - English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 392,
+        "output_text_file": "Extracted_Data\\Smart Milk Analyzer - Calibration Manual - English.txt"
+    },
+    "Smart Milk Analyzer - Calibration Manual - Hindi.pdf": {
+        "language": "hi",
+        "sections": [],
+        "tables": 405,
+        "output_text_file": "Extracted_Data\\Smart Milk Analyzer - Calibration Manual - Hindi.txt"
+    },
+    "Smart Milk Analyzer - Calibration Manual - Zambia.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 372,
+        "output_text_file": "Extracted_Data\\Smart Milk Analyzer - Calibration Manual - Zambia.txt"
+    },
+    "Smart Milk Analyzer 1.1.1.3 - SOP - 1.0.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 391,
+        "output_text_file": "Extracted_Data\\Smart Milk Analyzer 1.1.1.3 - SOP - 1.0.txt"
+    },
+    "Smart Milk Analyzer 1.2.X.X - Calibration SOP - English - 1.1.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 621,
+        "output_text_file": "Extracted_Data\\Smart Milk Analyzer 1.2.X.X - Calibration SOP - English - 1.1.txt"
+    },
+    "Smart Milk Analyzer 1.2.X.X - Calibration SOP - Gujarati - 1.1.pdf": {
+        "language": "gu",
+        "sections": [],
+        "tables": 585,
+        "output_text_file": "Extracted_Data\\Smart Milk Analyzer 1.2.X.X - Calibration SOP - Gujarati - 1.1.txt"
+    },
+    "Smart Milk Analyzer 1.2.X.X - Calibration SOP - Hindi - 1.1.pdf": {
+        "language": "hi",
+        "sections": [],
+        "tables": 644,
+        "output_text_file": "Extracted_Data\\Smart Milk Analyzer 1.2.X.X - Calibration SOP - Hindi - 1.1.txt"
+    },
+    "Smart Milk Analyzer Cleaning Procedure - Telugu.pdf": {
+        "language": "te",
+        "sections": [],
+        "tables": 163,
+        "output_text_file": "Extracted_Data\\Smart Milk Analyzer Cleaning Procedure - Telugu.txt"
+    },
+    "Smart Milk Analyzer User Manual - Bengali.pdf": {
+        "language": "bn",
+        "sections": [],
+        "tables": 573,
+        "output_text_file": "Extracted_Data\\Smart Milk Analyzer User Manual - Bengali.txt"
+    },
+    "Smart Milk Analyzer User Manual - English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 607,
+        "output_text_file": "Extracted_Data\\Smart Milk Analyzer User Manual - English.txt"
+    },
+    "Smart Milk Analyzer User Manual - Hindi.pdf": {
+        "language": "hi",
+        "sections": [],
+        "tables": 592,
+        "output_text_file": "Extracted_Data\\Smart Milk Analyzer User Manual - Hindi.txt"
+    },
+    "Smart Milk Analyzer User Manual - Odia.pdf": {
+        "language": "unknown",
+        "sections": [],
+        "tables": 623,
+        "output_text_file": "Extracted_Data\\Smart Milk Analyzer User Manual - Odia.txt"
+    },
+    "Smart Milk Analyzer User Manual - Telugu.pdf": {
+        "language": "te",
+        "sections": [],
+        "tables": 614,
+        "output_text_file": "Extracted_Data\\Smart Milk Analyzer User Manual - Telugu.txt"
+    },
+    "Smart-scale-brochure_31.8.21.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 79,
+        "output_text_file": "Extracted_Data\\Smart-scale-brochure_31.8.21.txt"
+    },
+    "SmartBox - Calibration - Eng.docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\SmartBox - Calibration - Eng.txt"
+    },
+    "SmartBox - Calibration - For Customer.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 170,
+        "output_text_file": "Extracted_Data\\SmartBox - Calibration - For Customer.txt"
+    },
+    "SmartBox - Survey Form.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 127,
+        "output_text_file": "Extracted_Data\\SmartBox - Survey Form.txt"
+    },
+    "SmartBox Configuration.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 92,
+        "output_text_file": "Extracted_Data\\SmartBox Configuration.txt"
+    },
+    "SmartBox.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 117,
+        "output_text_file": "Extracted_Data\\SmartBox.txt"
+    },
+    "TankAssure Process SOP_English V-1.3(Sonai).docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\TankAssure Process SOP_English V-1.3(Sonai).txt"
+    },
+    "TankAssure S15 Process SOP_English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 177,
+        "output_text_file": "Extracted_Data\\TankAssure S15 Process SOP_English.txt"
+    },
+    "TankAssure S7 Process SOP_English V-1.3.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 182,
+        "output_text_file": "Extracted_Data\\TankAssure S7 Process SOP_English V-1.3.txt"
+    },
+    "TankAssure User Manual.docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\TankAssure User Manual.txt"
+    },
+    "TankAssure-brochure_30.7.21.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 96,
+        "output_text_file": "Extracted_Data\\TankAssure-brochure_30.7.21.txt"
+    },
+    "TankAssure.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 80,
+        "output_text_file": "Extracted_Data\\TankAssure.txt"
+    },
+    "Technical-Specification-.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 56,
+        "output_text_file": "Extracted_Data\\Technical-Specification-.txt"
+    },
+    "ThawEasy Lite Manual.docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\ThawEasy Lite Manual.txt"
+    },
+    "ThawEasy Lite Plus Manual.docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\ThawEasy Lite Plus Manual.txt"
+    },
+    "ThawEasy Smart Manual.docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\ThawEasy Smart Manual.txt"
+    },
+    "ThawEasy Smart Pro Manual.docx": {
+        "language": "en",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\ThawEasy Smart Pro Manual.txt"
+    },
+    "ThawEasy.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 4,
+        "output_text_file": "Extracted_Data\\ThawEasy.txt"
+    },
+    "Thaweasy_Technical_Technical-specification.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 33,
+        "output_text_file": "Extracted_Data\\Thaweasy_Technical_Technical-specification.txt"
+    },
+    "Think-Dairy-Tech.pdf": {
+        "language": "de",
+        "sections": [],
+        "tables": 2,
+        "output_text_file": "Extracted_Data\\Think-Dairy-Tech.txt"
+    },
+    "TrackSure_Final Presentation.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 169,
+        "output_text_file": "Extracted_Data\\TrackSure_Final Presentation.txt"
+    },
+    "User manual Milk Sangrah App-English V-1.0.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 801,
+        "output_text_file": "Extracted_Data\\User manual Milk Sangrah App-English V-1.0.txt"
+    },
+    "User manual Milk Sangrah App-English V-1.1.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 815,
+        "output_text_file": "Extracted_Data\\User manual Milk Sangrah App-English V-1.1.txt"
+    },
+    "User manual Milk Sangrah App-English V-1.2.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 845,
+        "output_text_file": "Extracted_Data\\User manual Milk Sangrah App-English V-1.2.txt"
+    },
+    "User manual Milk Sangrah App-English.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 899,
+        "output_text_file": "Extracted_Data\\User manual Milk Sangrah App-English.txt"
+    },
+    "Version Upgrade Process in Milk Analyzer.pdf": {
+        "language": "en",
+        "sections": [],
+        "tables": 26,
+        "output_text_file": "Extracted_Data\\Version Upgrade Process in Milk Analyzer.txt"
+    },
+    "मिल्कोलाइट Combo Settings & Calibration.pdf": {
+        "language": "hi",
+        "sections": [],
+        "tables": 134,
+        "output_text_file": "Extracted_Data\\मिल्कोलाइट Combo Settings & Calibration.txt"
+    },
+    "मिल्कोलाइट Combo User Manual - Hindi.pdf": {
+        "language": "hi",
+        "sections": [],
+        "tables": 617,
+        "output_text_file": "Extracted_Data\\मिल्कोलाइट Combo User Manual - Hindi.txt"
+    },
+    "मिल्कोलाइट Settings & Calibration.pdf": {
+        "language": "hi",
+        "sections": [],
+        "tables": 123,
+        "output_text_file": "Extracted_Data\\मिल्कोलाइट Settings & Calibration.txt"
+    },
+    "मिल्कोलाइट User Manual - Hindi.pdf": {
+        "language": "hi",
+        "sections": [],
+        "tables": 617,
+        "output_text_file": "Extracted_Data\\मिल्कोलाइट User Manual - Hindi.txt"
+    },
+    "संचय User Manual - Hindi.pdf": {
+        "language": "hi",
+        "sections": [],
+        "tables": 647,
+        "output_text_file": "Extracted_Data\\संचय User Manual - Hindi.txt"
+    },
+    "મિલ્કોલાઇટ Combo User Manual - Gujarati.docx": {
+        "language": "gu",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\મિલ્કોલાઇટ Combo User Manual - Gujarati.txt"
+    },
+    "મિલ્કોલાઇટ User Manual - Gujarati.docx": {
+        "language": "gu",
+        "sections": [],
+        "tables": 0,
+        "output_text_file": "Extracted_Data\\મિલ્કોલાઇટ User Manual - Gujarati.txt"
+    },
+    "સ્માર્ટ મિલ્ક એનાલાઇઝર - Calibration Manual - Gujarati.pdf": {
+        "language": "gu",
+        "sections": [],
+        "tables": 387,
+        "output_text_file": "Extracted_Data\\સ્માર્ટ મિલ્ક એનાલાઇઝર - Calibration Manual - Gujarati.txt"
+    },
+    "સ્માર્ટ મિલ્ક એનાલાઇઝર User Manual - Gujarati.pdf": {
+        "language": "gu",
+        "sections": [],
+        "tables": 642,
+        "output_text_file": "Extracted_Data\\સ્માર્ટ મિલ્ક એનાલાઇઝર User Manual - Gujarati.txt"
+    }
+}

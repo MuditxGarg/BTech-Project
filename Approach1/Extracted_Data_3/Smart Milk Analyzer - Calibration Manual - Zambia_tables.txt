@@ -1,0 +1,248 @@
+
+Table 1:
+	iSmart Milk Analyzer – Calibration Manual	Document Version 1.2
+
+Table 2:
+	iSmart Milk Analyzer – Calibration Manual	Document Version 1.2
+
+Table 3:
+	iSmart Milk Analyzer – Calibration Manual	Document Version 1.2
+
+Table 4:
+	iSmart Milk Analyzer – Calibration Manual	Document Version 1.2
+
+Table 5:
+	iSmart Milk Analyzer – Calibration Manual	Document Version 1.2
+
+Table 6:
+	iSmart Milk Analyzer – Calibration Manual	Document Version 1.2
+
+Table 7:
+Sample	FAT	SNF
+1	3.0 % - 4.5 %	5 Samples which are having SNF
+range from 6% to 12%
+2	5.0 % - 6.0 %	
+3	6.5 % - 7.5 %	
+4	8.0 % - 9.0 %	
+5	9.0 % - 10.0 %	
+
+Table 8:
+A Bluetooth dongle is specially
+designed to calibrate the Milk
+Analyzer by the mobile application.
+It is given with the Milk Analyzer.	Prompt Config Plus is a special
+mobile application which is made for
+calibration and is given to be
+installed into the smartphone.
+
+Table 9:
+	iSmart Milk Analyzer – Calibration Manual	Document Version 1.2
+
+Table 10:
+Take Clean Water / Mineral Water / RO Water in
+Sample Bottle and put the sample bottle under
+the Pipette of the Smart Milk Analyzer.	Press the CLEAN button and 25 cleaning cycles
+will be seen. You can increase or decrease the
+cleaning cycle using ▼ and ▲ button. Then press
+the OK button.
+The cleaning process will start automatically,
+while the process CHECKING SOLUTION message
+will appear on display.	After starting the first cleaning cycle, REMAINING
+CYCLES will appear on display.
+After finishing, you will receive the CLEANING
+OVER message.	Repeat the Cleaning process with
+clean water twice before starting
+the shift and three times after the
+shift is over.
+
+Table 11:
+▼
+OK
+
+Table 12:
+	iSmart Milk Analyzer – Calibration Manual	Document Version 1.2
+
+Table 13:
+▲ ▼
+Press and Button together.	The next Screen will be for ENTER
+PASSWORD. The cursor is on the first
+character,
+Press the UP and Down buttons to get the
+first character of the password. Then Press
+OK the cursor will go to the next character.	In such a way, complete the entire password
+of 4 digits and press the OK button.
+You will see the Screen for SELECT MENU
+SYSTEM SETTINGS. Press the OK button.	You will see the Screen for SELECT MENU
+CALIBRATION. Press the OK button.
+
+Table 14:
+	iSmart Milk Analyzer – Calibration Manual	Document Version 1.2
+
+Table 15:
+You will get CONTINUE… Screen, Press the
+down button.	You will get a menu of NEW CALIBRATION,
+Press the OK button.
+You will see the Screen for SAMPLING,
+Press the OK button.	Then you will get the Screen of READY with
+00 written on the bottom right.
+
+Table 16:
+Sample 1
+FAT: 2.5%
+SNF: 7.0%	Sample 2
+FAT: 3.8%
+SNF: 8.0%	Sample 3
+FAT: 6.4%
+SNF: 9.0%	Sample 4
+FAT: 9.2%
+SNF: 9.8%
+
+Table 17:
+	iSmart Milk Analyzer – Calibration Manual	Document Version 1.2
+
+Table 18:
+Take Sample -1. Attach the sample to the
+milk analyzer and Press OK.		You will get the result with 01 written at the
+bottom right. This shows sample 1 is recorded		
+	REPEAT THE SAME PROCEDURE FOR REMAINING ALL SAMPLES			
+After analyzing all the samples, you will
+get the screen like above. On the bottom
+right, you will get the value of the samples
+taken.
+Press on the CLEAN button, which also
+behaves as a back button. This will take
+you back to the previous menu.				
+You will see the SAMPLING option.
+Press the UP button.			You will see the CALCULATION option.
+Press OK.	
+You will get the option for READY FOR
+CALIBRATION…			Take the Bluetooth dongle for the next stage.	
+
+Table 19:
+	iSmart Milk Analyzer – Calibration Manual	Document Version 1.2
+
+Table 20:
+Connect the Bluetooth
+dongle to the RS232 port at
+the backside of the
+analyzer. The red light will
+start blinking, which means
+the dongle is attached
+properly.	Now, on the Android phone
+start the Prompt Calib Plus
+application. Enter the
+registered mobile number
+and press the Send OTP
+button on the screen as
+shown above.	In this Screen enter the
+received OTP and press
+Verify OTP button at the
+bottom. If OTP is not
+received then press Resend
+OTP button.
+After signing in you will see
+this page, here select Milk
+Analyzer.	On this page select the
+version of your Milk
+Analyzer and press the
+Okay button.	Press the Bluetooth icon
+appear in the middle.
+Bluetooth permission page
+will appear if the mobile’s
+Bluetooth is off.
+
+Table 21:
+	iSmart Milk Analyzer – Calibration Manual	Document Version 1.2
+
+Table 22:
+A device list will appear.
+Select the MA_Config and
+press the PAIR button.	Machine is assign to the
+user then this screen will
+appear, press the OK
+button to start calibration.	On this screen calibration
+menus will appear, select
+the appropriate menu.
+Note: If the reference values are directly assigned to you then select Auto Reference
+Auto Calibration and follow the below steps.		
+		
+Select the auto-assign
+sample set, If the reference
+values are directly assigned.	Press the NEXT button	Reference data and Actual
+machine data will appear
+on this page with the
+difference.
+
+Table 23:
+	iSmart Milk Analyzer – Calibration Manual	Document Version 1.2
+
+Table 24:
+Enter all the reference
+values one by one by
+pressing the “+ ADD”
+button.	Enter all the reference
+values one by one by
+pressing the “+ ADD”
+button.	After adding all reference
+value, press the NEXT
+button.
+ Sample-wise FAT and SNF values with
+differences will be fetched automatically
+from the analyzer.
+ Values with light blue colour show the
+reference value and values with dark navy
+blue color show the Actual value received
+from the analyzer.
+ Besides each value, a difference is coming
+between the reference value and the
+actual value. The red font shows the
+analyzer reading comes less than the
+reference value and the green one shows
+the analyzer value is higher than the
+reference.
+ All the calculations have been done
+automatically.
+ Now press CALCULATE DATA button at
+the bottom.		
+
+Table 25:
+	iSmart Milk Analyzer – Calibration Manual	Document Version 1.2
+
+Table 26:
+ Now this is the final screen for the
+calibration.
+ Select a calibration reason first.
+ This will show the ref machine type 1 and
+machine id of the analyzer which needs to
+be calibrated.
+ Below that, the old Slope FAT-SNF, old
+intercept FAT and SNF and the Accuracy of
+FAT and SNF are seen. These values are
+fetched automatically.
+ Below, the option will be for S/I; which
+shows the new Slope FAT and SNF, new
+Intercept FAT and SNF and Accuracy of FAT
+and SNF. These values will be calculated
+automatically.
+ Recommended SNF slop value should be
+between 0.75 to 1.35.
+ You will see the Bias settings below the S/I
+option.
+ This is also another calculation method for
+the calibration.
+ This will also show the new Slope FAT and
+SNF, the new Intercept FAT and SNF and
+the Accuracy of FAT and SNF.
+ Here as per calculation SNF slop is
+between the recommended SNF Slop
+values, so APPLY button is enabled.
+ Below that, you will see the APPLY button.
+Press APPLY button.
+CALIBRATED After pressing the button, you will
+receive a message, which shows the
+SUCCESSFULLY
+calibration is done successfully.
+
+Table 27:
+Recommended SNF slop value should be
+between 0.75 to 1.35

@@ -1,0 +1,91 @@
+
+Table 1:
+	
+Click on the Door Control function on
+the main menu page.	Press the lock icon to enter the
+username and password to open the
+door.
+14002162
+1234	14002696
+1234
+Both username and password are given to the authorized persons.	
+	
+
+Table 2:
+	
+
+Table 3:
+Start Initialize Process	Press the Society Data Sync. tab and
+Sync the Society Data and wait until all
+the Society sync. Press the ROUTE NOT
+READY tab to view the status of all
+flags.
+When you press the ROUTE NOT
+READY tab, then it will show above
+screen with the Status of each flag.
+ROUTE START button is in red color
+during the society sync process.	Once all society Sync. then ROUTE
+START button appears Green.
+
+Table 4:
+Once all society Sync then enter the
+Route Number	Once Route number is entered then
+Route Enter status appears Green
+
+Table 5:
+	
+Put the sample bottle Rack having
+name prompt on it over the derlin block
+proparly and make sure all nozzles
+should be inserted in the bottle holes.	Put the ice pades and lock the rack box.
+
+Table 6:
+
+After inserting the Rack and ice pad, the status of all RFID Tag appears green.
+
+Table 7:
+After closing the door using password
+status of Door close appears green.	After all status appears green then
+ROUTE START READY also appears
+green in the above screen.
+
+Table 8:
+	
+14002162
+1234	14002696
+1234
+	
+
+Table 9:
+	
+14002162
+1234	14002696
+1234
+	
+
+Table 10:
+ Check cables of RFID reader
+ Check log of previous days data that simulation had done or not
+ Check Rack position if RFID tag not write
+ Check mechanism of sample bottle holder. If required then set further.
+
+Table 11:
+ Check the current latitude and longitude with previous day data
+ If mismatch then update latitude and longitude in society file, Inform plant engineer
+to sync society in each tankers.
+ If society comes with unknown code “9998” then check GPS communication status in
+log file.
+ If tanker parked under the shade area at the BMC location then the system may
+collect the collection with Unknown society code
+
+Table 12:
+ Check current day quantity and previous day quantity.
+ Check motor and cables before route start.
+ Check Ethernet cable, motors, GPS communication.
+ Check society sync count at initializing process.
+
+Table 13:
+ Check current quantity and previous day quantity.
+ In case of Unknown society code “9998” found during collection then system will
+collect the sample with 1000 ltr reference. In this case, update the actual latitude and
+longitude.

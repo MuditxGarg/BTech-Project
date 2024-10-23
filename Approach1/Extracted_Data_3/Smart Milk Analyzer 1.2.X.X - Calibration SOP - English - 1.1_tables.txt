@@ -1,0 +1,468 @@
+
+Table 1:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 2:
+Product version: 1.2.X.X	Document version: 1.1	Date: 17/04/2021
+
+Table 3:
+		
+	Page	
+	1	
+		
+
+Table 4:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 5:
+		
+	Page	
+	2	
+		
+
+Table 6:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 7:
+		
+	Page	
+	3	
+		
+
+Table 8:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 9:
+	The front panel will show the screen
+and four buttons. They are explained
+below:
+1. Clean: Button which is used to
+clean the analyzer on regular
+basis. Also, it can be used as ESC
+button from any menu.
+2. ▼: Down button which can be
+used to decrease the cleaning
+cycle. Also, can be used by the
+engineers while entering the
+password to configure the
+analyzer.
+∆
+3. : Up button which can be used
+to increase the cleaning cycle.
+Also, can be used by the
+engineers while entering the
+password to configure the
+analyzer.
+4. OK: The button by which the
+selection for any operation can be
+made and also it is the main
+button which will start the
+analyzer’s main function to start
+the analysis.
+
+Table 10:
+		
+	Page	
+	4	
+		
+
+Table 11:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 12:
+	1) USB: A USB port is given to get the
+logs of the Milk Analyzer for Data
+of FAT analysis, Cleaning,
+Calibration or other system logs.
+2) AC Power Switch: The power
+(ON/OFF) switch for the Milk
+Analyzer.
+3) AC Fuse: An AC fuse has been
+given for safety of the milk
+analyzer, whose rating is 5 Amp.
+The user can change the fuse.
+Spare fuse can be found in the
+Milk Analyzer box.
+4) RS232 O/P: A port for the RS232
+cable is given by which the
+analyzer can be connect to and
+milk collecting Data Processing
+Unit or a computer system.
+
+Table 13:
+		
+	Page	
+	5	
+		
+
+Table 14:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 15:
+	5) DC Power Switch: The Milk
+Analyzer is designed such a way
+that it can be run on DC power
+supply (12 Volt Battery). The DC
+power (ON/OFF) switch for the
+Milk Analyzer is also given if it is
+connected to DC power supply (12
+Volt Battery).
+6) DC Fuse: A DC fuse has been given
+for safety of the Milk Analyzer,
+whose rating is 20 Amp. The user
+can change the fuse. Spare fuse
+can be found in the Milk Analyzer
+box.
+7) Battery connecting port: If the
+user wants to connect the 12 Volt
+DC Battery, the terminals can be
+connected here.
+8) MACHINE SERIAL NUMBER: Serial
+number of Smart Milk Analyzer is
+giver above the RS232 Port.
+
+Table 16:
+		
+	Page	
+	6	
+		
+
+Table 17:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 18:
+	
+	Page
+7
+	
+
+Table 19:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 20:
+		
+	Page	
+	8	
+		
+
+Table 21:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 22:
+Sample	FAT	SNF
+1	3.0 % - 4.5 %	5 Samples which are having SNF
+range from 8% to 12%
+2	5.0 % - 6.0 %	
+3	6.5 % - 7.5 %	
+4	8.0 % - 9.0 %	
+5	9.0 % - 10.0 %	
+
+Table 23:
+A Bluetooth dongle is specially designed
+to calibrate the Milk Analyzer by the
+mobile application. It is given with the
+Milk Analyzer.	Prompt EMT is a special mobile
+application which is made for the
+calibration and is given to be installed
+into the smart phone.
+
+Table 24:
+		
+	Page	
+	9	
+		
+
+Table 25:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 26:
+Sample 1
+FAT: 4.72%
+SNF: 8.59%	Sample 2
+FAT: 5.23%
+SNF: 10.68%	Sample 3
+FAT: 6.82%
+SNF: 9.99%	Sample 4
+FAT: 8.54%
+SNF: 11.10%	Sample 5
+FAT: 9.58%
+SNF: 10.60%
+
+Table 27:
+	
+	Page
+10
+	
+
+Table 28:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 29:
+Take the AC power plug of the Milk Analyzer
+and plug in.	First instruction will be for Name:
+INDIZ MILK ANALYZER
+Next instruction will be for
+FAT, SNF AND ADDED WATER TEST	Then the version will come
+which is 1.2.X.X
+Next message: FILE SYSTEM OK
+is an important message	A MACHINE ID will be seen on screen.
+
+Table 30:
+		
+	Pag	e
+	11	
+		
+
+Table 31:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 32:
+Next message: SWITCH TYPE	The Real Time Clock will show
+Current DATE and TIME.
+While power on, you will see the message for
+WARM UP for around a minute.	After that, the last message will come for
+READY.
+This shows the analyzer is ready to work now.
+
+Table 33:
+		
+	Page	
+	12	
+		
+
+Table 34:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 35:
+Take Clean Water / Mineral
+Water / RO Water in Sample
+Bottle.	Put sample under the Pipette.	Press CLEAN and 25 cleaning
+cycles will be seen
+You can increase or decrease
+∆
+the cleaning cycle using ▼
+button.	Click OK button, The cleaning
+process will start and complete
+automatically	After finishing, you will
+receive the CLEANING OVER
+message.
+
+Table 36:
+		
+	Page	
+	13	
+		
+
+Table 37:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 38:
+∆ ▼
+Press and Button together.	Next Screen will come for ENTER POSSWORD.
+The cursor is on first character, Press UP and
+Down button to get the first character of the
+password. Then Press OK.
+After pressing OK, the cursor will go to the
+next character.	Such a way, complete the entire password of 4
+digits and press OK button.
+You will see the Screen for SELECT MENU
+SYSTEM SETTINGS. Press OK button.	You will see the Screen for SELECT MENU
+CALIBRATION. Press OK button.
+
+Table 39:
+		
+	Page	
+	14	
+		
+
+Table 40:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 41:
+You will get CONTINUE… Screen, Press down
+button.	You will get menu of NEW CALIBRATION, Press
+OK button.
+You will see the Screen for SAMPLING,
+Press OK button.	Then you will get the Screen of READY with 00
+written on bottom right.
+
+Table 42:
+		
+	Page	
+	15	
+		
+
+Table 43:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 44:
+Take Sample -1.	Attach the sample to stirrer and Press OK.
+Attach sample to milk analyzer and
+Press OK.	You will get the result with 01 written at
+bottom right. This shows sample 1 is
+recorded
+
+Table 45:
+		
+	Page	
+	16	
+		
+
+Table 46:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 47:
+After analyzing all the samples, you will get the
+screen like above. On bottom right, you will get
+the value of the samples taken.	Press on CLEAN button, which also behaves as
+back button. This will take you back in
+previous menu.
+You will see the SAMPLING option.
+Press UP button.	You will see the CALCULATION option.
+Press OK.
+You will get the option for READY FOR
+CALIBRATION…	Take the Bluetooth dongle for the next stage.
+
+Table 48:
+		
+	Page	
+	17	
+		
+
+Table 49:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 50:
+Connect Bluetooth dongle to
+RS232 port at the backside of
+analyzer. Red light will start
+blinking, which means the
+dongle is attached properly.	Now, in the Android phone
+start the Prompt EMT mobile
+application. You will see the
+screen as shown above.	In this Screen enter the user
+name and password given by
+Authority and press Sign in
+button in the bottom.
+After sign in you will see this
+page, here select Milk
+Analyzer.	In this page version of your
+Milk Analyzer and press Save
+button.	You will see option as shown
+above, Select CALIBRATION
+option.
+
+Table 51:
+		
+	Pag	e
+	18	
+		
+
+Table 52:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 53:
+After selecting Calibration,
+application ask you to load old
+data, Select NO.	You will see screen like above,
+here press “+” sign on bottom
+right.	Enter the reference sample
+value received by Gerber or
+Lactometer.
+Enter all the reference values
+one by one by pressing “+”
+button. Press NEXT.	Bluetooth permission will
+appear if mobile’s Bluetooth is
+off, Press Allow.	Device list will appear. Select
+the MA_Config.
+
+Table 54:
+		
+	Page	
+	19	
+		
+
+Table 55:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 56:
+		
+	Page	
+	20	
+		
+
+Table 57:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 58:
+
+
+
+
+Table 59:
+		
+	Page	
+	21	
+		
+
+Table 60:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 61:
+ You will see the Bias settings below
+the S/I option.
+ This is also another calculation
+method for the calibration.
+ This will also show the new Slope
+FAT and SNF, new Intercept FAT and
+SNF and Accuracy of FAT and SNF.
+ Below that, you will see the APPLY
+button. Press APPLY button.
+After pressing the button, you will
+CALIBRATED SUCCESSFULLY receive the message, which shows the
+calibration is done successfully.
+
+Table 62:
+
+
+
+Table 63:
+		
+	Page	
+	22	
+		
+
+Table 64:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 65:
+Take reference sample.	Attach the sample to stirrer and Press OK.
+You will get the READY screen on the display.
+Press OK for the results.	You will get the resultant values of the
+taken Sample.
+
+Table 66:
+	
+Page	
+23	
+	
+
+Table 67:
+	Smart Milk Analyzer 1.2.X.X – Calibration SOP	Document Version 1.1
+
+Table 68:
+				Phone: +91 8980816000
+	PROMPT			
+				Monday to Friday – Time: 10.00 AM to 06.00 PM
+Saturday – Time: 10.00 AM to 04.00 PM
+	HELPLINE			
+				
+
+Table 69:
+	Thank you	
+
+Table 70:
+	
+Page	
+24	
+	

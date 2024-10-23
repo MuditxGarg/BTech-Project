@@ -1,0 +1,242 @@
+
+Table 1:
+5
+AMULAMCSSERVICEMANUAL
+Chapter 4 : Installation
+4.1 List of devices
+4.2 Online and off-line installation scenario
+4.3 Software installation
+ThesoftwareinstallationprocessofAMULAMCSindividedinthreedifferentstages.
+Firstofall,youneedtoknowwhichcomponentsaregoingtobethepartoftheAMULAMCSsetup.
+4.3.1 Software Package
+TheAMULAMCSsoftwarepackagewilllooklikebelow.Containsthreeitems.Ifthesetupsaregiven
+inthecompressedformat,extractthemfirstandthentrytoinstallthepackages.	
+	1. AMULSQL2008-Databaseservice
+2. AMULAMCS1.0.1-MainSetup
+3. AMCSPatch-Theupdatedversionofthesoftware
+4.3.2 AMCSSQL2008
+The first stage of the installation of the AMCS software will be the AMUL SQL 2008 R2 setup file.
+Prompt has specially created a database service for the software. This will make a very powerful
+structure of the database in the system. This structure will be well designed and robust enough to
+manage all the milk transaction, society details and accounting system of the society very much
+easily.Youaresupposedtoopenthesetupbyfollowingthestepsgivenbelow.
+As shown besides, first of all
+right click on the AMUL SQL
+2008 and Select RUN AS
+ADMINISTRATOR.
+This is very important. If this
+program is tried to be
+installed without the
+administrator rights or
+permission, then the
+installation will not happen
+properly.
+©PromptEquipmentsPVTLTD	
+
+Table 2:
+	As shown besides, first of all
+right click on the AMUL SQL
+2008 and Select RUN AS
+ADMINISTRATOR.
+This is very important. If this
+program is tried to be
+installed without the
+administrator rights or
+permission, then the
+installation will not happen
+properly.
+
+Table 3:
+must	be	First	April	of	the	financial	year	in	which	society	started
+
+Table 4:
+23
+AMULAMCSSERVICEMANUAL
+10.2 Milk Collection
+The second settings you will find for milk collection. When the milk collection will happen in the
+society, during that which parameters would be taken care and procedure can be managed from
+here. This is the most important settings. The screen for milk collection settings is explained below
+inpartsonebyone.	
+	 Weighscale on - this means there is a
+weighscale attached in the system and the
+milk quantity is coming from there in Liter or
+Kilo.Notmanually.
+ Fatmachine on - This means FAT will come
+fromFaomatic/Milkanalyzer.Itwillnot come
+manually.ItindicatesabouttheSNFaswell.
+ Printer on - Printer is attached, it will print
+automatically.
+ Automatic Entry - No need to make efforts for
+the manual entries. Automatically the entries
+willbemanagedinthemilkcollection.
+	 Pavalisystem-Ifyoursocietyisnotusingcan
+system,selectthisoption
+ Fat machine on Com 2 - Generally the Fat
+Machine or Analyzer is attached on COMPOT
+2. As we have seen in the hardware settings.
+Tickmarkthisoption.
+ Do not Allow Negative deduction - If selected
+then negative deduction logic can not be
+appliedontransaction
+ Show last day collection - If want to see the
+previousdayscollection,selectthis)
+ Select language for software - First is for
+mainlanguageandsecondisforsecondary
+	 Thesettingsforcalculations
+ Calculate rate on: Select Rate as FAT or FAT
+andSNFasperinstructionsincircular
+ Add Can Capacity: Capacity of cans used in
+yourregion.Generallyitis40
+ Add Sample codes for the collection of the
+samplemilkofcoworBuff
+ Show sample milk in payment: tick if want to
+showincollectionandpayment
+ Fat Variation Accepted: Value to ignore fat
+variation.RecommendedtoKeepit0.0
+ If want to Calculate Avg Fat of sample milk in
+report,keepitmarked
+ Shiftcollectionwillgenerallybeofoneshift
+ Rate Commission (%): Percentage to be
+addedforcommissionaspercircular
+ Mark Payment amount in Milk Collection if
+wanttobeshown
+ If the payment is supposed to be shown With
+PaymentorWithDeduction,selectthem.
+©PromptEquipmentsPVTLTD	
+
+Table 5:
+26
+AMULAMCSSERVICEMANUAL
+ Kiloconversionformulaistheformulausedbytheunion,recommendedthenewformula
+ Ifyouwanttosaveyourcomputerspaceforautomaticbackup,tickmarktheSaveBackUpin
+ZIPformatoption
+10.5 GST
+This option will be seen in the Other Settings below in the right side. Important Settings. The
+software is developed in such a way that you can directly submit the GST settings according the
+transactions.Selectthefollowingaccountsfromtheselectboxasshownbelow.
+Inthefirstoption,alistofdifferentselectionoptionswillbeseenasshownabove.
+Here, the left side there are the taxes, which are mentioned. And in the right side, there are the
+optionsfortherespectiveaccountsforthetaxes.
+Lateron,filluptheGSTdetailsofthesocietyasshownbelow.	
+GSTNNo:AddyourGSTnumber
+PANNo:AddyourPANcardNo	EmailID:SocietyemailID-Notcompulsory
+GSTreg.Mobilenumber:Notcompulsory
+If the GST details are not available, you can use the GST details provided by federation for the
+respectiveregion.
+©PromptEquipmentsPVTLTD	
+
+Table 6:
+28
+AMULAMCSSERVICEMANUAL
+Chapter 11: Rate Chart
+The Rate charts are given by the union for the milk collection. It is very important to make the rate
+charts as per the guidance of the union. The Rate Chart would be given to you by the union in the
+circular(Paripatra).Theratechartwillbedividedintotwoparts.
+1. DairyRate
+2. ProducerRate
+Dairy rate will be the rate given to the society by the union. Producer Rate will be given by the
+co-operative society tothe producers. In the software, first it isneeded tomakethe structure asper
+showninthecircularandthenaddthevaluesinside.	
+There are stages decided for adding these rate charts in the
+softwaretheyareshownbelow.
+Youwill findthese optionsintheMaster menu,inwhichthere will
+betheoptionsasshownbesides.	
+11.1 Dairy Rate Structure
+Firstofallitisneededtomakeastructureforratechart.
+GotoMastermenu->DairyRateStructure
+As per shown in the image below, you will have to add the details in the cow’s and buffalo’s milk
+detailsasshowninthecircular.
+Asyoucanseeintheabovepicture.AddthevaluesoftherangeofFATandSNFforcowandbuff
+onebyoneintheboxesfromthecircular.Itwillmakethestructurereadytoaddtherates.
+©PromptEquipmentsPVTLTD	
+
+Table 7:
+29
+AMULAMCSSERVICEMANUAL
+11.2 Dairy Rate
+Lateron,youaresupposedtoaddthedairyrateinthestructureyouhavecreated.	
+GotoMastermenuandclickonDairyRate.
+Youwillbeabletoseethelistshownbesides.
+Here,
+ S.No.Istheserialnumberoftherate
+ Eff Date shows from which date the rate
+wasaffectedtothedairy.
+ Ref No. Is optional, generally there will be
+the number of the circular in which the
+newratewaspublished.
+Below,therearebuttons.
+ ADDistoaddnewrate.
+ EDITforeditselectedrate.
+ DELETEistodeleteselectedrate.
+ CLOSEistoClosethewindow.	
+ClickonADDandyouwillbeabletoseeaformlikebelow.
+ThisformwillbepreparedaspertheDairystructurecreatedbefore.
+ EffectiveDatewillbedatefromwhichthenewrateswillbeeffected.
+ SerialNo.willcomeautomatically.
+ RefNowillbeoptional,youcanaddthenumberofthecircularthere.
+ IntheCowmilkrate,addthevalueingood,sourandcurdasshowninthecircular.
+ Sameway,addtheratesforBuffalointheform.
+ ByclickingOKyournewratesaresaved.
+ YoucanPrinttheratesbyclickingonthePRINToption.
+ Ifyouwanttocanceltoaddthenewrates,clickontheCancelbutton.
+Pleaserememberthatbyclickingoncancel,allthedatawillbelost.
+©PromptEquipmentsPVTLTD	
+
+Table 8:
+30
+AMULAMCSSERVICEMANUAL
+11.3 Producer Rate Structure
+Nowthesameprocedurefortheproducers.Makeastructureforratechart.
+GotoMastermenu->ProducerRateStructure
+Aspershownintheimagebelow,youwillhavetoaddthedetailsinthecow’sandbuffalo’smilk
+detailsasshowninthecircular.
+Asyoucanseeintheabovepicture.AddthevaluesoftherangeofFATandSNFforcowandbuff
+onebyoneintheboxesfromthecircular.Itwillmakethestructurereadytoaddtherates.
+11.4 Producer Rate
+Lateron,youaresupposedtoaddtheproducer’srateinthestructureyouhavecreated.	
+GotoMastermenuandclickonProducers
+Rate.
+Youwillbeabletoseethelistshownbesides.
+Here,
+S.No.Istheserialnumberoftherate
+EffDateshowsfromwhichdatetheratewas
+affectedtothesociety.
+RefNo.Isoptional,generallytherewillbethe
+numberofthecircularinwhichthenewrate
+waspublished.
+Below,therearebuttons.
+ADDistoaddnewrate.
+EDITforeditselectedrate.
+DELETEistodeleteselectedrate.
+CLOSEistoClosethewindow.	
+©PromptEquipmentsPVTLTD	
+
+Table 9:
+32
+AMULAMCSSERVICEMANUAL
+Chapter : 12 Producers
+The producers are the people who will come to submit milk to the society. They are also called
+farmersandmembers.	
+12.1 Producer Master
+In Master menu, you will found Producer master.
+By clicking on that you will be able to see a list
+likebelow.	
+12.2 List of Members
+Asshownaboveyouwillbeabletoseethelistofproducers.
+Theyarehavingdifferentcolumnswhichareexplainedbelow.
+ Membercodewillbethe4digituniquecodegiventotheproducerinthesociety.
+ Membernamewillshowthenameofthemember.
+ NoofSharesarethenumbersofshareholdbythememberinthesociety.As,itisacooperative
+society, there will be the share system where the producers can be members by buying shares
+fromthesocietyandtheywillbekindoftheownersofthesociety.
+ Sharevalueswillshowhowmuchvalueofsharetheyarehavinginthesociety.
+ Lastcollectiondatewillshowthedatewhenthelasttimethememberhascollectedthemilk.
+ThemenuhasSEARCHfacilityabovewhereyoucansearchamemberbasedontheirnameorcode.
+Belowthelistyouwillbeabletosee4buttons.
+ FORMPRINTwillallowyoutotakeouttheprintofthelistofmembers
+ ADDbuttonisgiventoaddanewproducer
+ EDITwillallowyoutoeditselecteduser’sdetails
+ DELETEbuttonwilldeleteamember.
+Butifthereisanytransactionfromamemberhappened,youcannotdeleteit.
+ CLOSEwillclosethelistwindow.
+©PromptEquipmentsPVTLTD	

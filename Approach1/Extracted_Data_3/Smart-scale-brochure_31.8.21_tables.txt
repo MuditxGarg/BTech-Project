@@ -1,0 +1,101 @@
+
+Table 1:
+			
+
+Table 2:
+	
+
+Table 3:
+Accurate Measurement with Geo-Tagging
+When it comes to achieving the objective Government, have not reached their
+of improving the milk yield of the cattle, a beneficiary but the record books will show
+transparent and reliable milk recording otherwise.
+system becomes indispensable. The
+manual entry of data by the milk recording Hence, the need arises for a system
+team can sometimes be inaccurate. Also, wherein the real-time location of milking
+the milk recording at times is done without and recording can be traced. Prompt
+even going to the village, thus derailing the offers an easy solution to all these
+entire objective of the operation. There shortcomings: Smart Weighing Scale with
+have been instances where fodder/grains geo-tagging.
+and other related materials given by the
+A G A M E - C H A N G E R
+P R O M P T ’ S
+S M A R T
+W E I G H I N G S C A L E
+A GPS enabled measuring device that captures the
+weight along with geo-coordinates and timestamps.
+The intelligent device also forwards the data collected to the third party
+Software/App via Bluetooth.
+Attributes to be broadcasted
+in JSON format
+• Date and time in IST format
+• Weight in kg up to 3 decimal points
+• GPS Coordinates (latitude,
+longitude) in DD (Decimal Degree)
+format up to 6 decimal points
+• The Device ID is the Bluetooth MAC
+ID of the device	TECHNICAL SPECIFICATIONS
+Scale Dimension (I x w x h) 25 cm x 20 cm x 7 cm (max)
+Pan (Platform) size 20 cm x 20 cm
+• Scale Base Structure: MS Powder Coated
+Material
+• Pan (Platform): Stainless Steel
+Weighing Capacity Maximum 25 kg
+• Display of Date, Time and Device ID while booting the machine
+LED Display Unit
+• Weight - in kg format, up to a three-digit decimal point (in gm)
+Accuracy/Precision Class — III accuracy compliance. Least count 5 gm
+• Device On/Off LED • Low Battery LED
+Indicators • Charging in progress LED: When connected to AC power source
+• Charge level indicator • GPS Connection indicator
+Load Cell Type Cantilever load cell
+• ON/OFF Button: For On/Off of the machine
+• TARE Button: For TARE Arrangement
+• M+: Stores weight data in memory
+Touch Buttons • MR: Recall weight data from memory
+• MC: Clear weight data from memory
+• Send button: Forward data to the connected device
+• Calibration: To calibrate the machine
+Waterproof protection IP65 waterproof carry bag for the scale
+• Lithium-ion rechargeable battery; Charges in 4-5 hrs
+• 14-15 hrs of backup with daily usage of 1.5-2 hrs up to one week
+Battery
+• Low Battery Indicator with 2-2.5 hrs of backup
+• SPP (Serial Port Protocol) based Bluetooth module which can be
+Connectivity
+paired with Android & Windows devices
+• GPS module with an accuracy of about 5-10 m
+GPS
+• The device will not take measurements without the GPS coordinates
+Output Data Format Standard JSON-based format along with a facility of password pairing
+Weight of Scale Maximum 2.5 kg (including battery)
+
+Table 4:
+25 cm x 20 cm x 7 cm (max)
+20 cm x 20 cm
+• Scale Base Structure: MS Powder Coated
+• Pan (Platform): Stainless Steel
+Maximum 25 kg
+• Display of Date, Time and Device ID while booting the machine
+• Weight - in kg format, up to a three-digit decimal point (in gm)
+Class — III accuracy compliance. Least count 5 gm
+• Device On/Off LED • Low Battery LED
+• Charging in progress LED: When connected to AC power source
+• Charge level indicator • GPS Connection indicator
+Cantilever load cell
+• ON/OFF Button: For On/Off of the machine
+• TARE Button: For TARE Arrangement
+• M+: Stores weight data in memory
+• MR: Recall weight data from memory
+• MC: Clear weight data from memory
+• Send button: Forward data to the connected device
+• Calibration: To calibrate the machine
+IP65 waterproof carry bag for the scale
+• Lithium-ion rechargeable battery; Charges in 4-5 hrs
+• 14-15 hrs of backup with daily usage of 1.5-2 hrs up to one week
+• Low Battery Indicator with 2-2.5 hrs of backup
+• SPP (Serial Port Protocol) based Bluetooth module which can be
+paired with Android & Windows devices
+• GPS module with an accuracy of about 5-10 m
+• The device will not take measurements without the GPS coordinates
+Standard JSON-based format along with a facility of password pairing

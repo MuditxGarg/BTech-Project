@@ -1,0 +1,105 @@
+
+Table 1:
+Sr	Details	Disply Show
+1	OK बटन दबाके रखें और मशीन की पावर स्विच चालू
+करे, जब तक डिस्प्ले पर ENTER PASSWORD
+डलखा हुआ न आये	
+2	पासविड डिडजट ENTER करने के डलये UP-DOWN
+and OK बटन का उपयोग करे	
+3	सही पासविड लगाने पर डिस्प्ले पर FAT SLOPE
+आयेगा	
+OK बटन प्रेस करने पर वेल्यु डदखेगी		
+FAT SLOPE वेल्यु कम-ज्यादा करने के डलये UP/DOWN
+बटन का उपयोग करे		
+OK बटन प्रेस करने पर “CHANGE DONE
+SUCCESSFULLY का मेसेज आयेगा		
+4	UP बटन प्रेस करने पर FAT INTERCEPT आयेगा	
+OK बटन प्रेस करने पर वेल्यु डदखेगी		
+FAT INTERCEPT वेल्यु कम-ज्यादा करने के डलये
+UP/DOWN बटन का उपयोग करे		
+
+Table 2:
+OK बटन प्रेस करने पर “CHANGE DONE
+SUCCESSFULLY का मेसेज आयेगा		
+5	UP बटन प्रेस करने पर SNF SLOPE आयेगा	
+OK बटन प्रेस करने पर वेल्यु डदखेगी		
+SNF SLOPE वेल्यु कम-ज्यादा करने के डलये UP/DOWN
+बटन का उपयोग करे		
+OK बटन प्रेस करने पर “CHANGE DONE
+SUCCESSFULLY का मेसेज आयेगा		
+6	UP बटन प्रेस करने पर SNF INTERCEPT आयेगा	
+OK बटन प्रेस करने पर वेल्यु डदखेगी		
+SNF INTERCEPT वेल्यु कम-ज्यादा करने के डलये
+UP/DOWN बटन का उपयोग करे		
+OK बटन प्रेस करने पर “CHANGE DONE
+SUCCESSFULLY का मेसेज आयेगा		
+7	UP बटन प्रेस करने पर WATER INTERCEPT
+आयेगा	
+
+Table 3:
+OK बटन प्रेस करने पर वेल्यु डदखेगी		
+ADDED WATER की वेल्यु कम-ज्यादा करने के डलये
+UP/DOWN & OK बटन का उपयोग करे		
+OK बटन प्रेस करने पर “CHANGE DONE
+SUCCESSFULLY का मेसेज आयेगा		
+8	UP बटन प्रेस करने पर STARTUP CLEANING
+आयेगा	
+OK बटन प्रेस करके , ENABLE के डलये “1” और DISABLE के
+डलये “0” डसलेक्ट करे		
+ENABLE-DISABLE करने के डलये UP/DOWN बटन का
+उपयोग करे		
+OK बटन प्रेस करने पर “CHANGE DONE
+SUCCESSFULLY का मेसेज आयेगा		
+9	UP बटन प्रेस करने पर AUTO CLEAN TIME
+आयेगा	
+OK बटन प्रेस करने पर Minute आयेगी		
+Minute कम-ज्यादा करने के डलये UP/DOWN & OK बटन
+का उपयोग करे		
+
+Table 4:
+10	UP बटन प्रेस करने पर CONTINUOUS DATA
+आयेगा
+ENABLE-DISABLE करने के डलये UP/DOWN
+बटन का उपयोग करे
+(1=CONTINUOUS , 0=ONLY 1 TIME)	
+11	UP बटन प्रेस करने पर STRING TYPE OUT
+आयेगा
+1 या 0 करने के डलये UP/DOWN बटन का उपयोग
+करे (0=2400, and 1=9600)	
+12	UP बटन प्रेस करने पर PROTEIN LACTOSE
+आयेगा	
+1 अथवा 0 करने के डलये DOWN & UP बटन का उपयोग
+करे (0=4 PARAMETER, 1=7 PARAMETER)		
+7 PARAMETER (FAT, SNF, ADDED WATER, DENSITY,
+LACTOSE, PROTEIN)		
+PRESS DOWN KEY (SALT)		
+13	UP बटन प्रेस करने पर DECIMAL POINT आयेगा
+िेसीमल पोइंट “1” या “2” डसलेक्ट करने के डलये
+UP/DOWN बटन का उपयोग करे (Example:
+1=6.3 , 2=6.33)	
+14	UP बटन प्रेस करने पर DISPLAY CLR आयेगा
+OK बटन प्रेस करके “DISPLAY CLR” ENABLE के
+डलये “1” और DISABLE के डलये “0” डसलेक्ट करे	
+15	UP बटन प्रेस करने पर CLR DECIMAL EN आयेगा
+OK बटन प्रेस करके “CLR DECIMAL EN ”
+ENABLE के डलये “1” और DISABLE के डलये “0”
+डसलेक्ट करे	
+
+Table 5:
+16	UP बटन प्रेस करने पर FAT MULTIPLIER आयेगा	
+OK बटन प्रेस करने पर “FAT MULTIPLIER” की वेल्यु आयेगी		
+वेल्यु कम-ज्यादा करने के डलये UP/DOWN बटन का उपयोग
+करे		
+OK बटन प्रेस करने पर “CHANGE DONE
+SUCCESSFULLY का मेसेज आयेगा		
+17	UP बटन प्रेस करने पर SNF CONSTANT आयेगा	
+OK बटन प्रेस करने पर “SNF CONSTANT” की वेल्यु आयेगी		
+वेल्यु कम-ज्यादा करने के डलये UP/DOWN बटन का उपयोग
+करे		
+OK बटन प्रेस करने पर “CHANGE DONE
+SUCCESSFULLY का मेसेज आयेगा		
+18	UP बटन प्रेस करने पर REFERENCE TYPE आयेगा
+1 अथवा 2 करने के डलये UP/DOWN बटन का
+उपयोग करे (1=GERBER/FT, 2=EKO)	
+19	USER SETTING में बहार डनकलने के डलये CLEAN
+बटन दो बार दबाये	

@@ -1,0 +1,272 @@
+
+Table 1:
+		
+Give the all the require permissions while installing the application as shown
+above. After giving all require permissions, Farm365 application will install in
+your Android phone.		
+After successful
+installation, open the
+application and login
+using provided
+Username & Password.	After successful login
+Dashboard for AI
+Worker will open
+automatically as shown
+above.	After successful login
+Dashboard for Farmer
+will open automatically
+as shown above.
+
+Table 2:
+To Register a farmer, AI worker need to
+mention following details of farmer in this
+page.
+Name: Enter the Farmer name here.
+Gender: Select the gender of farmer.
+Farmer Culture: Here select the language of
+farmer, by default language is English.
+Village Name: Mention the village name
+from dropdown list.
+Date of Birth: Select the proper date of birth
+of farmer.
+Age: Age will come automatically when you
+mention the Date of Birth of farmer.
+Mobile No.: Mention the mobile number of
+farmer carefully here. If mobile No. is wrong
+then farmer will not receive any SMS for
+Login as well as for different Alerts.
+After filling details press the NEXT button to
+proceed for next page of Register Farmer.
+In this second page AI Worker need to
+mention first for the Alert Subscription.
+SMS Alerts Subscription: mention Yes to
+receive the SMS for Alerts
+Types of Alert: Select the type of Alerts for
+which SMS Alerts will generate.
+1. SMS Alert Language: Here select the
+language for the SMS, by default language is
+English.
+Select the Types of Alerts from available
+dropdown list and press OK button.
+In the Alert list Heat, AI, PD, DryingUp,
+Calving, HeatDetect, and RecheckPD are
+available.
+Note: Don’t forget to click on HeatDetect
+Alert.
+
+Table 3:
+	If mobile No. is wrong
+then farmer will not receive any SMS for	
+Login as well as for different Alerts.	
+
+Table 4:
+Note: Don’t forget to click on HeatDetect
+Alert.
+
+Table 5:
+After filling the Alert Subscription detail AI
+Worker need to mention Farm Info of the
+Farmer in the second page.
+2. Milk Data Recording Frequency: Here
+mention 1, 1 means farmer need to mention
+Milk recording data every day.
+3. Method: Here need to mention the Milking
+method from the dropdown list, it list Semi-
+Automatic, Automatic and Manual options
+are available, always Select Manual.
+4. Milking Cycle Start Day: This date will come
+automatically as per the farmer registration.
+Now click on SUBMIT button to register the
+farmer.
+After completing the registration process
+this page will open, it is showing Register
+farmer details.
+AI Worker can change the register farmer
+details from Edit button.
+
+Table 6:
+To Register an Animal, farmer need to
+mention following details in this page.
+Animal Name: Enter the animal name here.
+Insurance Tag: This is optional field.
+E-Tag: Mention the E-Tag number available
+on the Heat Detection belt.
+Company Tag: Mention the Animal’s Ear Tag
+(Yellow tag) number here.
+Animal type: Select the type of animal, cow or
+buffalo.
+Breed: Select the breed of the animal from
+the dropdown list.
+Animal Gender: Select the gender of animal.
+Date of Birth: Select the proper date of birth
+of animal.
+Age: Age will come automatically when you
+mention the Date of Birth of animal.
+After filling details press the NEXT button to
+proceed for next page of Register Animal.
+In this second page Animal Registration
+Farmer need to mention details of life
+stage of animal.
+Stage: Select the life stage of animal from
+dropdown list between Calf, Heifer and
+Adult.
+Animal Girth: Mention animal girth in inch.
+Weight: Weight will come automatically
+when you mention the Girth of animal.
+Note: If farmer don’t know the Girth of
+animal then directly mention the weight,
+value of Girth will come automatically.
+
+Table 7:
+After filling the Lift stage details farmer
+need to mention Breeding Information in
+the same page.
+5. Pregnancy Status: Select the Pregnancy
+Status of animal, Pregnant or
+NonPregnant.
+6. Note: If animal is Pregnant then farmer
+need to mention Last Calving date, Last AI
+Done Date and Last PD date.
+7. Last Calving: Mention the last calving date.
+8. Last Date of AI: Mention when last AI done
+date.
+9. PD Date: Mention the PD date.
+Current Lactation Number: Mention the
+current Lactation Number.
+10. After filling details press the NEXT button
+to proceed for next page of Register
+Animal.
+In Breeding information if animal is
+NonPregnant then farmer need to
+mention Last Calving date and Last AI
+Done Date.
+11. Last Calving: Mention the last calving date.
+12. Last Date of AI: Mention when last AI done
+date.
+Current Lactation Number: Mention the
+current Lactation Number.
+Current Milking Stage: Select the Milking
+Stage of animal, Milking or Dry.
+After filling details press the NEXT button
+to proceed for next page of Register
+Animal.
+
+Table 8:
+Note: If animal is Pregnant then farmer
+need to mention Last Calving date, Last AI
+Done Date and Last PD date.
+
+Table 9:
+In Breeding information if animal is
+NonPregnant then farmer need to
+mention Last Calving date and Last AI
+Done Date.
+
+Table 10:
+After filling the Life Stage, Breeding
+Information and Milk info in second page
+farmer need to mention Parental Data of the
+animal in the third page.
+13. Mother Name: Mention the animal’s mother
+name here.
+14. Mother ID Number: Mention the mother’s ID
+number here.
+15. Father Name: Mention the animal’s father
+name here.
+16. Father ID Number: Mention the father’s ID
+number here.
+17. Father’s Mother Name: Mention the name of
+father’s mother here.
+18. Father’s Mother ID Number: Mention the ID
+number of Father’s Mother here.
+Now click on SUBMIT button to register the
+farmer.
+ After completing the registration process of Animal this page will open, it is
+showing Register Animal details.
+ In the same page Farmer will also see Heat Detection Activity Graph.
+
+Table 11:
+After completing the registration process of
+Animal farmer need to mention Breeding
+event information for each registered
+animals.
+For that click on the breeding tab available
+at the bottom of dashboard.
+In the breeding page Farmer can add
+following Breeding event information.
+ Heat
+ AI/NI
+ PD
+ Drying
+ BCS
+ Calving
+
+Table 12:
+If animal health is good then select from 3
+to 5 and if animal health is bad then select
+from 1 or 2.
+
+Table 13:
+In Farm365 Application farmer can record the milking data for each registered animal
+from Milk Production tab in Dashboard.
+In Milk Production page farmer can add data of Milk for each animal for both Morning
+& Evening shift wise as well as Total Milk data date wise for each registered Animal.
+In the Milk Recording page farmer can add Milk data for particular Animal for Morning,
+Evening and also for Total.
+In this page first farmer need to select Animal Company tag number in
+Authentication, then need to select Milking Date and Milking Shift, and Milk Quantity
+for that particular Animal.
+Now click on SAVE button to save the Milk Production information of animal.
+
+Table 14:
+	
+From the More menu available at the bottom of dashboard in Farm365 application
+farmer can update his own profile, and Also have the access for Animal list, income
+Expense function, Event Prediction Report, Facility to Sync data, Application
+Update facility and information of the Farm365.	
+In the More page from view option,
+Farmer can view or update his own
+profile.
+In this farmer profile page from edit
+button farmer can update his own
+profile information.	
+
+Table 15:
+
+In the income page list of income accounts will be fetch directly from server, farmer
+need to select the item type from dropdown list and mention the dates and press
+the NEXT button.
+In income entry page farmer need to mention the Quantity and Rate of particular
+item and press SUBMIT button.
+
+In the expense page list of expense accounts will be fetch directly from server,
+farmer need to select the item type from dropdown list and mention the dates and
+press the NEXT button.
+In expense entry page farmer need to mention the Quantity and Rate of particular
+item and press SUBMIT button.
+
+Table 16:
+From Report function farmer can see
+Event Prediction Report.
+In the Event Prediction Report farmer
+can see upcoming event in current
+Month calendar.
+If you want to see which animal event is
+coming then just click on the calendar
+date of particular event.
+When you click on the date of particular
+event then this page will open, here
+farmer can see the animal tag number.
+
+Table 17:
+In any case if farmer want to logout from
+the application then this function will
+use.
+At the time of logout if internet is not
+available then farmer cannot logout
+from the application and this page will
+show.
+At the time of logout, internet is available
+then farmer can logout and this page will
+show, here in the page press the logout
+button.

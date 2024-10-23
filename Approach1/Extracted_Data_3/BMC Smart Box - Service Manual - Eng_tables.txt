@@ -1,0 +1,222 @@
+
+Table 1:
+Product version:	Document version: 1.0	Date: 17/09/2020
+
+Table 2:
+	Controller			PIC32 based Controller	
+				Seven Segment LED Display, LEDs for indication of	
+				 Low Battery	
+				 External Supply	
+				 SIM Network	
+	Display				
+				 Mains Power	
+					
+				 Generator	
+				 Multiple Agitators ON/OFF	
+				 Multiple Compressors ON/OFF	
+	Storage/Media Type			Micro SD Card	
+				 8 GB (in-built)	
+	Capacity				
+				 Unlimited data storage(cid:13)(with cloud connectivity)	
+					
+	GSM Module			GSM/GPRS quad band module	
+	Keyboard			SIX Keys for User Entry	
+	USB Ports			1 USB Port to connect Pen-Drive	
+	Serial Ports			One RS232 Port for configuration	
+	Clock			Built-in Real Time Clock for Date and Time	
+	Quantity Measurement			Temperature Measurement and Level Measurement or Load	
+	Instrument			Cell base Weighing Measurement	
+				For Temperature Sensor: PT100	
+				 Accuracy: ± 1°C	
+				 Range: 0°C to 70°C	
+				For Level Measurement Pressure Sensor base system:	
+				 Accuracy of volume: ± 0.4% of BMC Capacity	
+				 IP67 electrical connection	
+	Sensor Modules			For Power Consumption of BMC:	
+				 Energy Meter (Optional)	
+				For Load Cell base Measurement: (Optional)	
+				 2 tone → 500gm	
+				 5 tone → 1Kg	
+				 10 tone → 2 Kg	
+				 20 tone → 5 Kg	
+				 Operative Temperature: 0°C to 65°C (32°F to 149°F)	
+	Environment				
+				 Relative Humidity: 5% to 85% RH non condensing	
+					
+	Power Supply			180-260 Volt, 50 Hz	
+	Power Consumption			3 Watt	
+	Battery Backup			5200mAh Li-Ion battery which provide 5 hours battery backup	
+
+Table 3:
+Agitator : 1 ο							ο LIT / KG
+Agitator : 2 ο	8	8	8	8	8	8	ο Level (mm)
+Compressor: 1 ο							ο Temp (℃)
+Compressor: 2 ο							
+Compressor: 3 ο							ο Charging
+Compressor: 4 ο	Esc /
+CIP DIS
+Men
+ENT
+u						ο Battery
+							ο Network
+AC Mains ο							ο CIP
+Generator ο							ο Dispatch
+
+Table 4:
+Power Cord	9 DBI Antenna with
+Wire	PT100 RTD with
+15 Meter Cable
+Pressure Sensor	Pressure Sensor
+Mounting Pipe	10 meter Pressure
+Sensor cable
+
+Table 5:
+F1.1	Lower Reference Temperature Point-1	F1.2	Enter Actual Temperature Point-1
+F1.3	Reference Temperature Point-2	F1.4	Enter Actual Temperature Point-2
+F1.5	Higher Reference Temperature Point-3	F1.6	Enter Actual Temperature Point-3
+F1.7	Clear Temperature Calibration		
+
+Table 6:
+	F2.1		Two Point Calibration
+	F2.1.1		Zero Count Display
+	F2.1.2		Zero calibration Count (Add the value in mm as per zero value of level chart)
+	F2.1.3		No Use
+	F2.2		Nine Point Calibration
+	F2.2.1 to		Odd menu options are Reference value. Even Menu options are Actual
+values.
+	F2.2.18		
+	F2.2.19		Clear Nine Point Calibration
+
+Table 7:
+↑
+ENT
+
+Table 8:
+ENT
+ESC
+ESC
+
+Table 9:
+	ENT
+↑	
+
+Table 10:
+ENT
+ESC
+
+Table 11:
+	F4.1		Media Type: Water or Milk
+	F4.2		Temperature Adjustment
+	F4.3		Level Adjustment in mm
+
+Table 12:
+↓
+ENT
+
+Table 13:
+Note: After setting parameters press back switch till you are in main
+menu. Then system will restart and all the settings are stored in SD
+card.
+
+Table 14:
+Sr.
+No										
+				Error List			Reason for Error			Remedies
+										
+				Date & Time Hold						Update requires for one of the
+following:
+1. BMC info.
+2. BMC System Setting
+3. BMC level Chart
+If the problem persists then ask
+service support at Factory for
+require update
+	1									
+				on the Screen						
+										
+							1. Memory card			
+				Version No. Hold on						
+	2						Corrupted			
+				the Screen						
+										
+										
+	3			No Cong.			2. Data Corrupted			
+										
+	4			No Level						
+										
+				System went to			1. Date & Time			1. Set Date & Time in
+configuration
+2. Change RTC Cell
+If the problem persists then ask
+service support at Factory
+	5									
+				password mode			misplaced			
+										
+				BMC Showing						
+	6			Password only on			2. Date & Time setting			
+				display			corrupted			
+										1. Check Mains Supply
+2. Check ON-Off Switch
+3. Check Adaptor Voltage
+If the problem persists then ask
+service support at Factory
+	7			BMC not Power ON						
+										
+										1. Check RTD connections
+2. Check RTD ohms if not proper
+then change the RTD
+If the problem persists then ask
+service support at Factory
+				Temperature not						
+	8						RTD Damage			
+				showing						
+										
+										
+										1. Check Sensor connections
+2. Check connector pin of
+pressure sensor for 24V DC.
+If the problem persists then ask
+service support at Factory
+							Pressure sensor			
+	9			Level not Showing						
+							Damage			
+										
+										
+										1. Check Field wiring
+2. Check internal panel wiring
+3. Check FRC cable if the
+damage then replaces.
+If the problem persists then ask
+service support at Factory
+							1. Field wiring damage			
+				Field feedback			2. Interface card			
+	10			indication not			problem			
+				available on LED			3. FRC cable loose or			
+							open.			
+										
+
+Table 15:
+										1. Check GSM module & its	
+										connections	
+										2. Check Antenna	
+							SIM network not				
+	11			BMC offline						3. Check SIM card working or	
+							available				
+										not.	
+											
+										If the problem persists then ask	
+										service support at Factory	
+				LED Stopped						Change the Main card of the	
+	12										
+				Working						Smart Box Device	
+											
+				Reading not shown						Check Earthing, Earthing was	
+	13										
+				on the display						not done properly	
+											
+										1. Check the battery.	
+										2. Also, check that if it is a dry	
+	14			Battery Issue			Battery damage				
+										battery and by mistake, water is	
+											
+										poured in the battery	

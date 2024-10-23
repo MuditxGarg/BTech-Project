@@ -1,0 +1,102 @@
+
+Table 1:
+BENEFITS OF TANKASSURE
+Transparency: Ease of Data Management:
+The system will show the quantity The system automatically and
+of milk transferred in the tanker digitally records the data which is
+and temperature of milk at the stored directly in the server.
+DCS location in real-time –
+bringing transparency between
+collection point and Dairy.
+Minimize manual Intervention: Reduction in Sampling Error:
+The data is automatically As sampling is done
+recorded, hence there is no automatically, the chances of
+need to enter data manually, sampling error are greatly
+thereby reducing the chances of reduced, and the accuracy of
+human error. samples is ensured.
+Farmer Assurance: Profitability of Dairy:
+Due to auto sampling, the With accuracy in sampling and
+accuracy of milk samples is high, quantity of milk, the overall
+so the farmer can feel assured effectiveness and profitability of
+about getting correct payment for Dairy shall increase.
+their milk poured.
+Prompt Equipments Pvt. Ltd.
+3-B, Vardan Exclusive, Nr. Stadium Petrol Pump, Navrangpura,
+Ahmedabad – 380014, Gujarat, India
++91 7926565981/2/3 | info@promptdairytech.com | www.promptdairytech.com
+Follow us on	A U T O M A T I C
+M I L K S A M P L E R
+S Y S T E M F O R
+M I L K T A N K E R S
+AUTO SAMPLER
+
+Table 2:
+
+
+
+
+Table 3:
+An Inefficient Current Practice
+Accurate recording of the milk quantity and Furthermore, there is no system to measure the
+quality collected at the milk collection temperature of the milk transferred to the milk
+points is an essential piece of information in tanker at the collection point. Dairies are also
+the milk value chain. The current practice of facing problem of milk pilferage, adulteration,
+manual dipstick reading is prone to human and sample tampering.
+error and calibration error.
+A C H A N G E F O R G O O D !
+P R E S E N T I N G ,
+AUTO SAMPLER
+An Automatic Milk Sampling System,
+with GPRS facility.
+TankAssure comes in the form of a box that meter with a temperature sensor. It is a
+is mounted on the tanker, and functions to closed, containerised and digitally
+automatically collect BMC milk samples, password-protected system that consists
+measure milk quantity and temperature of seven sampling pumps, and RFID tagged
+with the help of an in-built magnetic flow tamper-proof sample vials.
+Key Highlights Of The System
+• The electronically protected door can through a Tablet device. The data can be
+be opened only at the dairy plant by transferred to the central system at the dairy
+authorized persons only. for further analysis & evaluation.
+• The system can be configured to start/stop • Prompt Logistics App and/or Prompt AMCS
+operations at the targeted location only. App can be integrated into this system for
+route management.
+• The entire operation is controlled by a
+web-based application system operated	TANKASSURE - TECHNICAL SPECIFICATIONS
+6 for Society Samples
+No. Of Sampling Bottles
+1 for Composite Sample
+Peristaltic Pumps 7 No.
+Sampling Capacity 40 ml
+PLC, Electro Magnetic Flow Meter, GPS,
+Major Technology Parts
+RFID Tag & Reader, Peristaltic Pumps
+Data Transmission Through Wi-fi, 4G
+User Interface 8" 4G + Wi-Fi Tablet
+Central Data Controlling Through Central Web Base Application
+GPS, GLONASS or Galileo, 24VDC, Ethernet, IP68,
+GPS
+Internal Antenna, Temperature Range -40 °C +70 °C
+Electromagnetic Flowmeter
+Measure: Flow, Temperature and Quantity
+Flow Meter
+Output: 4-20mA, Pulse ,
+Accuracy Max. ±0.05 % o.f.s. or ±5 μA
+13.56MHz, LED Indication, IO-Link Interface,
+RFID Tag Reader
+M12 Connection, IP67
+13.56MHz, Readable and Writable,
+RFID Tag
+2kBit EEPROM, ISO15693, IP68
+Supply Voltage 24V DC (From Tanker Battery)
+Housing SS304
+Electronics Control Panel SS304, IP65
+Milk Line 1.5 Inch, MOC SS 304 Semi Simless
+Fitting Clamp 1.5 Inch, MOC SS 304
+NRV 1.5 Inch, MOC SS 304
+Filter 2mm Perforated 2mm Thickness
+1 Inch, MOC SS 304 Gasket-EPDM End
+Air vent
+Connection-1.5” TC end
+Weight of Auto Sampler < 250kg
+Dimension Of Auto Sampler (mm) 1575 X 777 X 500
+Door Lock Electro-mechanical, IP67 Protected

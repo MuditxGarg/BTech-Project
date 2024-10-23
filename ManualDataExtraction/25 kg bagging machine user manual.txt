@@ -1,1088 +1,0 @@
-
-
-
-F103A - 25 K
-Bagging machine
-
-User’s Manual
-
-                                                  
-
-
-
-
-
-
-
-
-
-
-Table
-Chapter 1       We mentioned	6
-1.1	Product parameters and features	6
-Chapter 2 Safety instructions	7
-2.1 How to do it right	7
-2.1.1 Basic safety instructions	7
-2.1.2 The operator	7
-2.1.3 Other safety protection instructions	8
-Chapter 3   The product installation	9
-3.1 The overall appearance	9
-3.2 The installation conditions	10
-3.2.1 Equipment installation foundation, installation conditions and installation technical requirements	10
-3.2.2 Installation steps and precautions	12
-3.3 Air supply connection	13
-3.4 Electrical connections	13
-Chapter 4  Product function and structure	16
-4.1 Structural features and working principles	16
-4.1.1 Structure	16
-4.1.2 The working principle of	17
-4.1.3 The working process	18
-4.1.4 Operation process	19
-Chapter 5    Product size	20
-Chapter 6   Menu description	22
-6.1 Account login and logout	22
-6.2 Controller interface description	23
-Chapter 7     Parameter Settings	25
-7.1 User management	25
-7.1.1 User access menu permissions	26
-7.2 Working parameters	26
-7.3 Formula parameters	28
-7.4 Calibration scale	29
-7.4.1 Farmar calibration scale	30
-7.4.2 Calibration of material balance	30
-7.5 Switch quantity	30
-7.5.1 Switching definition	31
-7.5.2 Switching test	33
-7.6 The motor parameters	35
-7.7 Communications & peripherals	35
-7.7.1 A serial port communication	36
-7.7.2 Folder bag institutions	37
-7.7.3 code	37
-7.7.4print	38
-7.7.5 Automatic printing	39
-7.7.6 Print the total accumulation report	39
-7.7.7 Print recipe cumulative report	40
-7.8 Data statistics	41
-7.9 relearning	42
-7.10 System information	42
-7.10.1 Software upgrade (the weighing controller in the electric cabinet instead of this HMI)	43
-7.10.2 USB data export (refers to the USB data export from the controller in the electric cabinet)	45
-7.10.3 USB data import (refers to the operation from the controller in the electric cabinet)	46
-Chapter 8    Boot operation	46
-8.1 Boot the login	46
-8.2 The weight of the calibration	47
-8.2.1 Farmar school scale	47
-8.3 Start the	48
-Chapter 9    Basic function description	49
-9.1 Basic operating process	49
-9.2 Adaptive function description	49
-9.3 Over and under detection function	50
-Chapter 10 Modbus communication protocol description	51
-10.1 Communication protocol description	51
-10.2 Register address list	51
-Chapter 11 Maintenance and warranty	72
-Chapter 12 Analysis and troubleshooting of common faults	73
-
-
-
-
-     Prompt Equipments Pvt. Ltd. All rights reserved.
-     
-     Without the permission of Prompt Equipments Pvt. Ltd., no unit or individual shall copy, disseminate, transcribe or translate into another language version in any form or by any means.
-     As our products have been continuously improved and updated, we reserve the right to modify this manual at any time without notice. For this purpose, please visit the company's website frequently in order to get timely information.
-   
-   Company website: http://www.promptscale.com
-
-
-Chapter 1       We mentioned
-
-    F301A-25K is a net weigh hopper for granular materials. The weighing range is 5 ~ 25kg and high-speed quantitative weighing can be carried out by controlling the feeding door and unloading door.
-    The stepper motor is used to control the multi-stage feeding, so as to realize the quantitative weighing process with high speed and accuracy. This equipment has the function of intelligent weighing control. It is a quantitative weighing component with high speed, high precision and large range developed by our company to meet the ever-changing technology update. Widely used in rice, soybean, corn, plastic, grain and other quantitative packaging machinery. The quantitative weighing unit has reached the leading level in the industry.
-    The full touch screen makes f301a-25k quantitative weighing easy to operate, intelligent control, accurate and efficient.External extended IO input and output port and external serial port communication realize multi-point control, monitoring and remote control of the product.
-  Product parameters and features
-        Product parameters; 
-The power supplyAC220V 10%, 50/60hz, approx. 200VA.Weighing scale5 ~ 25 kgThe weighing accuracyPlus or minus 10 gWeighing speed14 PCS/minSize of subjectLength: 800mm/700mm width: 560mmWorking temperatureIn 0 ~ 40 DHS CMaximum humidityNinety percent r.h. shall not be defiledAir supply0.4 ~ 0.6 MPa after 1.2 m/h    
-    
-    
-    
-    
-    
-
-
-
-   
-
-  Product features;
-
-Easy installation: standard external interface flange, quick installation.
-Easy networking: built-in network interface.
-Data export: with USB interface, data export is more convenient.
-Simple operation: 10 inch touch screen, full English display.
-Material: the contact material part adopts 201 stainless steel
-High-speed quantitative weighing: combined feeding method is adopted, which is both rapid and accurate.
-The system is characterized by rapid and accurate weighing, stable and reliable performance, convenient operation and complete functions.With; Automatic metering function, automatic adjustment function, automatic zero clearing function, counting function, automatic alarm function and other intelligent functions.
-
-Chapter 2 Safety instructions
-
-2.1 How to do it right
-2.1.1 Basic safety instructions
-The power supply used conforms to the requirements of this manual, and the grounding of the equipment conforms to the requirements;
-Shut off power and air supply before starting cleaning, maintenance and repair;
-Only use cleaners that are harmless to mechanical and electrical equipment;
-The mounting frame connected with the product shall be stable and reliable;
-Please cut off the power and air source when installing the metering hopper;
-Measuring bucket, sensor connected parts and sensors are not allowed to knock, overload and other damage to the sensor line
-For;
-No part of the body is allowed to extend into the equipment during the use of the device, and the body door is closed before use
-Secure installation;
-Machinery for the packing of hazardous materials to human health shall be specially used in accordance with the existing regulations of the country where the machinery is operated
-Clean the machine after protective tools.For details, please contact the local supplier.
-2.1.2 The operator
-
- Machines can only be operated by properly trained personnel.
- The operator (or whoever is responsible for operating the machine) must read user manual.
-  Understand operating instructions, especially safety instructions and safety regulations.
- Before the operation of the machine, the operator must check whether the bagging scale is in a good condition.
- 
- In case of danger, please immediately click the "emergency stop" button on the main interface or immediately disconnect the main power supply.
-
-2.1.3 Other safety protection instructions
-
-For electrical and electronic systems, it is not allowed to privately transform, replace or carry out any other non-standard operation; Even if it is to be updated or reinvented, it must be the responsibility of germaine tech.
-
-When maintaining the equipment, especially when entering the packaging area for maintenance, please pay attention to wearing safety helmet and other protective devices.
-
-Pay attention to the foot when maintaining the platform up and down.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Chapter 3   The product installation
-3.1 The overall appearance
-              
-
-Figure 3-1 overall appearance
-
-3.2 The installation conditions
-3.2.1 Equipment installation foundation, installation conditions and installation technical requirements
-1. Temperature: - 10 ~ 40 ?;
-2. Humidity: no more than 90%R.H;
-3. Power supply: AC110~260V, 50Hz/60Hz, about 200VA;
-4. Air source: 0.4~ 0.5mpa 1.2m /h;
-5. Mounting plane: horizontal solid steel support frame.
-6. Electrostatic: ensure reliable grounding of the machine;
-7 harmful radio waves: should be away from wireless equipment and other powerful harmful radio wave source.
-8. Electrical and gas technical parameters meet and are in place (see 3.3 main technical parameters for specific requirements)
-     Personnel conditions:
-1) The operator must accept the company's skill training and safety education, and hold a post certificate. 
-2) The personnel responsible for operating the machine must read and fully understand the operation manual, especially the safety rules and regulations 
-      provisions
-3) Operators must keep short hair or roll up long hair. Clothing, shoes and hats should be convenient for work. Testing or maintenance in progress
-      Wear safety helmet and insulated shoes.
-4) Operators must strictly abide by the operating procedures and steps specified in the user manual. 
-5) Before lubrication, mechanical adjustment, maintenance and other work of the equipment, the power supply shall be cut off and the air source shall be shut down 
-      Discharge the residual pressure in the pneumatic pipeline, and put up the warning sign in the electric control cabinet, power switch and air source valve.
-6) The maintenance and repair of the pneumatic system must be carried out when the power supply is cut off and the pressure is completely relieved. 
-7) Do not operate the production line before all safety protection facilities are in place. 
-8) Do not touch the moving parts of the equipment after the equipment is powered on. 
-9) When the production line is running, do not enter the dangerous area or cross the production line. 
-10) Irrelevant personnel are forbidden to modify the setting parameters of wiring, mainboard program and frequency converter in the control cabinet. 
-11) The installation tool is reliable and safe, and the operator understands and understands all the safety requirements of the tool.
-   Unpacking and inspection:
-
-1. Pay attention to the words and warning signs on the case before opening.
-2. Before unpacking, please check whether the box body is seriously squeezed and deformed during transportation, such as heavy damage.
-    Consider whether the equipment is damaged.
-3. Read the packing list before unpacking, and proofread after unpacking to avoid omission.
-4. Check whether the connecting screws of the equipment are loose after unpacking.
-5. Before unpacking the whole machine for assembly, check whether the metal hose is intact.
-6. After the whole machine is assembled, check whether the scales and moving parts are normal.
-7. Pay attention to whether the sealing of materials passing under predetermined pressure is reliable when unpacking the whole machine is assembled and debugged before starting the machine
-   This check must be made.
-  Spare parts for the system
-? 1. Spare parts must supplied by General measure? 
-? 2. General measure will not responsible for any outcome if the system using parts that not supplied by General Measure. 
-
-3.2.2 Installation steps and precautions
-
-
-        
-
-
-
-
-Installation steps are as follows:
-     1. In general, the packing scale shall be shipped as a whole.When the installation is in place, just lift the whole weighing body into place.
-     2, adjust the scale body level.
-     3. In order to protect the sensor and unloading door, the sensor has been transported for protection before delivery or long-distance transportation.After installation in place,
-           It is necessary to remove the installation board for connection and transportation of the sensor. See the following section 3.3.4 for specific operations.
-     4. Adjust the suspension mode of the weighing frame to the normal working state.
-Installation precautions:
-     1, in order to make the weighing process can be normal, accurate, the whole scale should be installed in the horizontal, solid, stable condition.
-     2. The weighing frame is not allowed to make rigid contact with other equipment. 
-     3. The air pipe and circuit are flexibly connected with the weighing frame, and no tightening is allowed. 
-     4. Do not install the equipment in any place with inflammable and explosive materials.
-     5. The equipment installation site must be clean and non-humid, and there must be enough space around the installation location of the equipment to facilitate the installation.
-     6. During installation, do not knock or knock against the device to avoid affecting the accuracy.
-     7. The power supply must be connected to the ground wire
-     8. When connecting the I/O line, make sure to connect according to the circuit diagram;
-     9. Check whether the installation of the circuit is correct with a megohm meter and multimeter, and check whether the wiring is correct before power on.
-     10. Only technicians with formal training are allowed to adjust the weighing system.
-
-3.3 Air supply connection
-
-(air source standard: 0.4 ~ 0.5mpa 1.2m /h)
-This air source interface has been a phi 10 quick plug joint, so the user needs to access a PV tube with a phi 10
-3.4 Electrical connections
-Communication interface and switching quantity interface of external connection are shown in the figure below:
-1: serial port 1 (GND, B1, A1) : fixed as RS485 communication interface, and the connection mode is shown in the figure below.
-
-
-    2: serial port 2 (GND, A2RXD, B2TXD) : RS485/RS232 optional serial port, can be set through the two dial code switches on the motherboard.
-
-Serial port 2 wiring mode:
-
-
-3: (OUT6A, OUT6B) -- (OUT12A, OUT12B) : 7 sets of customizable external output relay interfaces. For specific Settings, please refer to the debugging section (switch quantity definition). The following is the schematic diagram of controller output interface.OUT1~OUT5 is factory configured, no need to connect and modify definitions.
-
-The output diagram of the control unit is shown in figure 1
-4: IN1 -- IN10:10 customizable switch quantity input interfaces are available at low level. For specific Settings, please refer to the debugging section (switch quantity definition). The following is the schematic diagram of controller input interface.
-
-Internal control system
-5:24v +, GND: IO control board provides external 24V dc power supply driving capacity, respectively 24V+ and GND.
-
-
-
-Chapter 4  Product function and structure
-4.1 Structural features and working principles
-4.1.1 Structure 
-                 
-  F301A - 25 k structure 
-
-
-
-Figure 3-1 overall appearance
-The serial numberDescription Introduction1Feed stepping motorPrecise control of feeding door opening2Electric cabinetControl the quantitative process and connect external devices3Weighing hopperWeighing and unloading materials.4Electric cabinetControl the inspection process and connect external devices5The discharging cylinderControl the discharge door switch6Clip bag cylinderUsed for Holding the bag7Discharge hopperCarrying material discharged from the metering hopper8Clip bag switchUsed for bagging and loosening9supporterSupport metering unit, discharge unit10Material gateMaterial entry
-
-    This product is mainly used for quantitative weighing of granular materials, which enters from the inlet and passes through the metering hopper automatically
-        Quick and slow feeding to complete the measurement, and then through the discharge port unloading, finally through the unloading hopper bag-clip device to unload the bag
-         In the bag.
-4.1.2 The working principle of
-        When the quantitative packaging scale enters into the automatic operation state, the weighing control system opens the feeding door to start feeding. The feeding device adopts two feeding modes of fast feeding and slow feeding, in which the fast feeding adopts the combination of large feeding and small feeding to increase the feeding speed.When the weight of the material reaches the set value of fast feeding, stop fast feeding and keep slow feeding. At this time, only small feed is put in to ensure the accuracy.When the material weight reaches the target value -- drop difference value, close the feeding door, wait for the air part to fall, and complete the dynamic weighing process;At this time, the system detects whether the bag-clamping device is in a predetermined state. When the packaging bag is clamped, the system sends out a control signal to open the unloading door of the weighing hopper and the material enters the packaging bag. After the material is put, the unloading door of the weighing hopper will be closed automatically.After unloading the empty materials, loosen the bag clamping device and the packaging bag will automatically fall down; After the bag falls down, it will be stitched and sent to the next station, and the cycle will run automatically.
-4.1.3 The working process 
-Set the formula parameters, start the controller to enter the running state;
-The material enters into the metering hopper of the automatic quantitative unit from the inlet at the double speed of fast and slow;
-When the feeding stops, the material just reaches the set target value;
-The system detects whether there is a pocket signal. If yes, signal to open discharge door. If not, the packaging bag shall be covered and the signal of bag clamping shall be input. At this time, the packaging bag shall be clamped fixedly.
-Discharge at the discharge port;
-Loose the bag to complete a packaging after unloading;
-Feed again to start the next packaging process.
-4.1.4 Operation process
-
-
-F103A-25K operation flow chart
-
-
-Chapter 5    Product size
-Product size unit: mm
-
-
-
-
-Chapter 6   Menu description
-6.1 Account login and logout
-Log-in
-    Each time the device is powered on, the user needs to log in the account to use it. The "log in" button appears in the middle of the main interface, and click to log in. The user id defaults to system administrator.The initial default password is 0. When using f103a-25k for the first time, please modify the password and register users of other grades as required. See 6.4.1 "user access menu permissions" for details of each user's permissions.
-    The login screen displays the manufacturer name, product model and technical support phone number. These parameters can be modified in the "system parameters" screen.
-
-Taken the cancellation
-    After logging in, if you want to log out or switch users, you can click setup user management to log out and return to login
-    To switch users, log out of the user  management interface (as shown below) and enter the corresponding user id and password in the login interface to enter the corresponding user.
-Change password
-Path: parameter setting, user management, password modification, follow the prompts.
-
-6.2 Controller interface description
-
-Interface description:
-    Log in information: display the level of the logged-in user.
-    System date and time: the current system date and time.
-    (3) Weight display area: sign position, indicating communication status, zero point, stability, operation and weight unit respectively.
-    (4) Material door opening: indicates the size of the feeding door open, the greater the value, the greater the material door open.
-    (5) Current weight: indicates the current real-time weight. When "measurement overflow" and other abnormal conditions, the corresponding prompt will pop up instead of displaying the value.
-    6 feed state and unloading state indication: the corresponding output is valid when green, invalid when red.
-    Click "Fast", it will execute "manual quick loading", click "Slow" to execute "manual Slow loading", "Result" cannot be clicked, click "Disc" to perform manual discharge.
-    7 rapid setting formula parameters: respectively placed fast add value, drop value, target value, unloading time, fast add open degree, slow add open degree, continuous feed times, for fast setting.
-    8) The result is just the same: the actual weight, the speed, the speed and the value of all the time, as well as the time of the whole package.
-    Pet-name ruby button: click on the button corresponding to the "reset", enter the "Settings", enter "statistical", "charge", a single "loose bag", "start/stop".
-    Cumulative data: display the "formula accumulative" and total accumulative respectively, click the arrow on the edge of the formula area to enter the relevant function menu.
-    ?11Formula number: click to modify the formula.
-
-
-Chapter 7     Parameter Settings
-       In the parameter setting page, the following parameters can be set; Working parameters, formula parameters, motor parameters, switching quantity, calibration scale, communication peripheral, user management, data statistics, system information and so on.
-
-
-7.1 User management
-    Click "user management" in the parameter interface to register and manage users of other levels. Please refer to 6.4.1 user access menu for the description of rights limitation of various users.
-
-
-    The user level of the system is divided into 4 levels, from high to low respectively: system administrator, administrator, technician, and operator.
-
-7.1.1 User access menu permissions
-    The menu accessible by level 4 users is restricted by permissions. Administrators can set users with different permissions according to different needs. The specific permissions are described as follows:
-      The user
- The menuSystem administrator
-(cannot be deleted)The administrator
-(delete)The technician
-(delete)The operator
-(delete)Parameter SettingsSquare rootSquare rootSquare rootSquare rootThe school scaleSquare rootSquare rootSquare rootSquare roothelpSquare rootSquare rootSquare rootSquare rootUser managementSquare rootSquare rootSquare rootSquare rootData statisticsSquare rootSquare rootSquare rootxSwitch quantitySquare rootSquare rootSquare rootxperipheralsSquare rootSquare rootSquare rootxSystem functionSquare rootSquare rootxx7.2 Working parameters
-Working parameters
-
-The serial numberThe parameter nameparametersThe initial valueinstructions1Reset the scope1% ~ 99%10%Reset range (1%~99% of full range).2
-Automatic reset
-interval0 ~ 99999980How many times the quantitative process is completed after a clear zero. If set to 0, it is always unclear.
-Note: no matter how high the interval is, the first scale will not clear when it is in operation.3The electric automatic
-Reset switchOn/offguanWhen the instrument is powered on, whether to automatically perform zero clearing operation.4Zero tracking
-The scope of0 ~ 930 ~ 9 d is optional.
-When is 0, zero tracking is not carried out.5Zero tracking time0.001 ~ 9.9992 seconds,6Sentenced to stabilizing range0 ~ 9950 ~ 99 d are optional.
-The stable state remains valid after set to 0.7Sentenced to stabilizing time0.001 ~ 9.9990.3 secondsThe variation of weight in the stability time is stable if it does not exceed the stability range, otherwise it is unstable.8Filter level (operation)0 ~ 92The larger the filtering level used in the operation, the better the filtering effect, but the larger the lag.9Filter level (stop)0 ~ 99The level of filtering used in the stop state.The larger the filter, the better, but the greater the lag.10Loose bag modelAutomatic/manualautomatic11The scale body modelSingle scale, double scale A.BSingle scaleScale structure model.(only single scale is available in this scale)12Accumulative manual unloadingOn/offguanManual unloading, whether the packaging weight into the cumulative switch.13Constant value to keepOn/offguan14Automatic adjustment of feed door openingOn/offguan15Advance volume adaptiveOn/offguanWhether to enable the automatic adjustment function of fast and slow switch.16Adaptive rating0 ~ 10217Positive error functionOn/offguanOpen: during the feeding process, the error band of the feeding result will be biased.During the feeding process, the error band of the feeding result is around 0.That is, the feeding result has the same deviation above and below the target value.
-
-
-
-7.3 Formula parameters
-
-
-
-User parameters are formula parameters, supporting 20 groups of formula parameters, formula number range: 1~20, user parameters are listed as follows:
-
-The serial numberparameterThe initial valueinstructions11 ~ 201The formula,2XXXXXX0The target3XXXXXX0Let's go ahead and do that.In the quantitative process, if the weighing value is the target value -- quick loading, close the quick loading.(if "adaptive" is on, this parameter cannot be set)4XXXXXX0Slow down.In the quantitative process, if the weighing value is the target value -- slow loading advance quantity, the slow loading will be closed.(if "adaptive" is on, this parameter cannot be set)50 ~ 99.999 seconds0.3 secondsDischarge time.
-Output the effective time of discharge signal output.6On/offguanOut of tolerance switch.
-Switch enabled for overshoot and undershoot detection.7XXXXXX0Ultra difference.
-In the quantitative process, the weighing value - target value = excess value.8XXXXXX0Owe difference.
-In the quantitative process, weighing value - target value = underweight value.90 ~ 99.999 seconds2 seconds,Over and under alarm time:
-After detection of over and under error, the duration of over and under error alarm output, after this time, the automatic output of over and under error alarm is invalid.10On/offguanOut of tolerance pause switch:
-Open: in case of out-of-tolerance, the meter will be suspended and wait for the user to deal with it. At this time, it can continue to operate after "clear alarm";You can also return to the stop state after "emergency stop".
-Off: out of tolerance, the meter only output alarm signal for a period of time.The automatic quantification process does not stop.110 ~ 990Continuous discharge times.
-That is: several discharge once loose bag. If it is 0, the meter will discharge the material directly after feeding without judging whether the bag is effective or not.120 ~ 99.999 seconds0 secondsDelay time before feeding.
-At the beginning of the quantitative process, the feeding process starts after the time delay of t1.130 ~ 99.999 seconds0.9 secondsFixed time.
-After the feeding, the discharge signal will be output after the time delay140gSuper owe difference
-What's the difference in g? What's the difference in g
-7.4 Calibration scale
-       When F103A-25K is used for the first time, or any part of the weighing system is changed, or there is an error in the current equipment weight display, the weight of the instrument should be calibrated. The specific instructions are as follows:
-In the stop state, the main interface -- parameter setting -- calibration scale enters the "calibration scale" page.
-
-
-Calibration instructions are as follows:
-
-1. The calibration page can set the unit, decimal point, maximum range and dividing value.
-
-7.4.1 Farmar calibration scale
-
-1. Zero point calibration: empty the hopper and click "zero point calibration" when the weight is stable. During the calibration process, the weight display area above will display the calibration results.
-2. Gain calibration: add weights to the weighing mechanism. After the weight is stable, click the weight input box of the weight and input the weight of the weight for gain calibration.After successful calibration, the weight shown in the weight display area is the weight of the input weight.If the gain calibration fails, try again.
-
-7.4.2 Calibration of material balance
-
-In addition to using "weight calibration scale", you can also use materials for calibration. In the calibration interface, click "Material Cal" to enter.
-The principle is: first use this scale to weigh out a package, record the weight.
-
-
-
-
-7.5 Switch quantity
-Switch quantity can be tested and defined by clicking "switch quantity" in parameter setting.
-
-
-
-
-
-7.5.1 Switching definition
-
-A total of 12 input ports and 7 output ports are definable.Custom ports can use default Settings or define I/O functions according to their own requirements. The detailed definitions are shown in the following table:
-In the stop state, click the "horizontal line" to the right of the toggle volume to enter the input side definition interface.
-
-
-
-
-
-
-
-
-
-Input definition:
-The port numberThe default definitionsCustom listIN11 start0: undefined
-1: start
-2: stop
-3: stop
-4: reset
-5: clear the alarm
-6: choose the recipe
-7: clip/loose bag
-8: manual unloading
-9: manual slow add
-10: manual quick add
-11: total print accumulations
-12: feeding level
-13: blanking level
-14: start/stop (level)
-15: start/emergency stop (level)
-16: manual unloading (level)
-17: manual slow add (level)
-18: manual quick add (level)
-19: double scale interlock input
-20: putt open 21: putt close
-22: power off in place 23: motor on maximumIN22 stopIN33 stopIN44 resetIN55 clear alarmIN66 selected formulaIN77 clips/loose bagIN8Manual unloadingIN99 manual slow addIN1010 manual quick addIN110 no definitionIN120 no definition
-The next page is the output definition.In the stop state, click the "horizontal line" on the right side of the toggle volume to enter the output end definition interface.
-Output end definition:
-The port numberThe default definitionsCustom listOUT1 (fixed)The door is wide0: undefined
-1: run
-2: stop
-3: quick add
-4: slow
-5: discharge
-6: fixed value
-7: over and under tolerance
-8: alarm
-9: clip bag
-10: code
-11: feed
-12: the lack of material
-13: completion of presetting   
-14: once packaging is completed
-15: double scale interlock output
-16: motor direction DROUT2 (fixed)15. Small opening of material doorOUT3 (fixed)3 quick addOUT4 (fixed)Slowly add 4OUT5 (fixed)5 dischargeOUT66 fixed valueOUT77 overbreak is poorOUT88 alarmOUT99 clip bagOUT1010 dozen yardsOUT1111 feedOUT1212 lack of material
-For example: define output-6 as "bagging" :
-
-Click the right horizontal line of "OUT06" in the interface of "toggle quantity" -- "output definition" to find the word "pocket" in the pop-up menu and select it. The definition of "OUT06" is completed.When "OUT06" is defined as "bagging", when the bagging signal is valid, the external output port 6 (i.e. O6) is valid.Input defines the same operation.
-
-
-
-    Note: switching quantities of the same meaning can correspond to multiple outputs.For example, both output-1 and output-2 can be defined as "run" outputs.
-7.5.2 Switching test
-In the stop state, after entering the interface of on-off measurement, the background software enters the mode of on-off measurement.The test interface cannot be entered during the run.
-In the stop state, click "switch quantity" in the parameter setting interface to enter the input/output test interface.
-
-
-
-
-
-
-
-
-
-The input test
-
-
-
-Description of method and status: the input test interface has 10 indicator lights (consistent with the input definition in I/O definition) corresponding to 10 input ports.When the controller input port is connected to the external input correctly and the external input information is valid, the corresponding input signal indicator light will be on (green); When the input signal is invalid, the corresponding indicator light is dark (red).If the external input is valid, no change in the indicator light on the interface indicates that the input terminal is not connected normally.
-In the stop state, click "next page" on the switch quantity interface to enter the output test interface.
-
-Output test
-
-
-
-The switch quantity output test is shown in the interface above. The switch quantity in this interface corresponds to the function defined by the switch quantity.
-Method and state description: the output quantity test interface has 12 key displays corresponding to 12 output ports.After the controller switch port is connected with the external device, if the interface button is clicked to make it light up (blue), the current output is effective, and the external connection mechanism has corresponding actions;Click the button again to turn off the light (grey), the current output is invalid, the external connection mechanism has the corresponding action reset, that the output is connected normally.Otherwise, check if the connection is abnormal.
-
-7.6 The motor parameters
-By clicking "motor parameters" in the parameter setting interface, the motor parameters interface contains the current state of the equipment, pulse frequency, direction logic, feed gate opening, section calibration of opening, and s-curve.
-
-
-Motor parameters interface, the user can view or edit motor parameters.F103a-25k has the function of automatically adjusting the opening size of feeding door according to the formulation target.The following is related to the function of material door opening:
-Current status: the current position of the feed gate.
-Pulse frequency: the starting frequency and the highest frequency of the motor can be set.
-Direction logic: can be set to close the output and open the door output.
-Material door opening: used for material door opening calibration, respectively have self-adjusting switch, the maximum opening, fast open, slow open
-                    You can set it.
-Section calibration of opening: used for the calibration of the material door opening of each formula.
-S curve: curve of motor frequency.   Motor sline-tab can be written like this, regardless of the specific meaning. -jxh
-? when the "feeding door automatic adjustment switch" in the motor parameter is closed, the current position, current opening and other parameters are not updated.
-7.7 Communications & peripherals
-Special note: the factory default COM1 is used to connect the touch screen. Do not modify its parameters. Otherwise it may cause communication interruption.
-By clicking "communication & peripheral" in the parameter setting interface, the interface of communication & peripheral includes the parameter setting of peripheral equipment, including communication port, communication protocol, bag-holding mechanism, coding and printing.
-
-
-
-
-
-7.7.1 A serial port communication
-
-    Parameters of serial port 1 and 2 are listed as follows:
-    
-The serial numberparameterThe initial valueinstructions11-991From the number.That is the ID number of the serial communication2Modbus-rtu, modbus-ascii, serial printer Modbus RTU -Communication protocol, the protocol for selecting serial communication.39600, 19200, 38400, 57600, 115200, 25600038400Baud rate.(the serial port for communication with this HMI must be set to 57600)418 n2,
-18 e1,
-18 o1,
-18 n118 e1Data format.(starting bit, data bit, check bit, stop bit, E:EVEN, EVEN check;O:ODD;N:NONE5The ABCD, CDABThe ABCDModbus two-word order.When Modbus protocol is used, the high-low word order of double-register data, the order of high-high word is ABCD, and the order of low-low word is CDAB.This parameter is invalid for other protocols.
-Ethernet port parameter list:
-
-The serial numberparameterThe initial valueinstructions1Modbus TCP -Modbus TCP -Communication protocol, the protocol for selecting the network interface application layer communication.2High characters first, low characters firstIn the former high wordsModbus two-word order.When Modbus protocol is used, the high-low word order of double-register data, the order of high-high word is ABCD, and the order of low-low word is CDAB.30 ~ 65535502The port number.4XXX, XXX, XXX, XXX0.0.0.0IP address.
-
-7.7.2 Folder bag institutions
-
-The serial numberparameterThe initial valueinstructions10.000 ~ 99.999 seconds0.5 secondsBagging delay.
-After the instrument outputs the signal of bagging, after this time, the bagging is considered to be completed and subsequent actions are carried out.20.000 ~ 99.999 seconds0.5 secondsLoose bag before delay.
-After unloading is completed, the bagging signal will be output after this time.
-
-
-
-
-
-
-7.7.3 code
-1. When the output signal of the instrument clip bag is effective, start coding at the same time and start delay. When the delay time is over, the instrument will be output
-    The output code signal is effective, drive the code printer to carry out code operation, code signal output for a certain time (code
-    Output duration) becomes invalid.
-2. The coding function is effective in both running and stopping states.
-3. Do not respond to bagging operation when the code signal output is valid.
-     4. When the emergency stop signal is input, the current coding process shall be immediately ended.
-
-The serial numberparameterThe initial valueinstructions1On/offguanCode switch.
-Enable switch for coding function.20.000 ~ 9.999 seconds0 secondsCode start delay.
-Delay time before starting coding.30.000 ~ 9.999 seconds2.0 secondsCode output valid time.
-The duration of code output.4On/offguanDischarge switch is allowed while coding.
-7.7.4print
-
-   When the communication protocol of serial port 1 or 2 is selected as "serial printer", the corresponding serial port can be connected to the serial printer to achieve the printing of related accumulative contents.Please set the communication parameters in the interface of serial port 1 or serial port 2. For example, the baud rate and communication format should be consistent with the printer Settings used for connection.
-    Note: when Chinese is selected as the printing language, 7-bit format cannot be used, otherwise there will be an error in printing.
-    
-The serial numberparameterThe initial valueinstructions1Column 16 / column 32 /32 columnsPrint column format.
-You can set the print format to either 16-column or 32-column format.2Chinese/EnglishChinesePrint language.30 ~ 93Print lines.
-The number of lines of paper run after a set of data is printed.4On/offguanAutomatic print switch.
-7.7.5 Automatic printing
-
-   In serial printer mode, the automatic print switch is set to on.Then the weighing result will be automatically printed after the completion of each meter weighing.
-   The format of the 32-column Chinese and English printing is as follows:
-                                          Packing list
-                              Balance no. : 1
-                              Startup time :2000/01/01 8:00 PM
-                              Unit: kg
-                              Total cumulative number of times the target value of the formula results
-                              --------------------------------
-                                       June 1, 1.000 1.015 
-                                       July 1, 1.000 0.996 
-                                       8 1, 1.000 1.022 
-                                        Packing Detail 
-                              ID: 1. 
-                              The Run Time: 2000/01/01 80:00
-                              Unit: kg
-                              Total Times Rec Target Result 
-                              --------------------------------
-                                       2 1, 1.000 0.995 
-                                       3 1, 1.000 1.016 
-                                       4 1, 1.000 1.093 
-                                       May 1, 1.000 1.009 
-7.7.6 Print the total accumulation report
-   In the stop state, click the "print total accumulation" button on the first page of the printing interface to print the total accumulation data.
-   The format of the 32-column Chinese and English printing is as follows:
-            Aggregate statement
-Balance no. : 1
-Time: 2000/01/01 8:00 p.m
---------------------------------
-Total cumulative number: 0
-Total cumulative weight: 0.000kg
---------------------------------
-           The Total Report 
-ID: 1. 
-Time: 2000/01/01 80:00 
---------------------------------
-The Total Times: 0
-Total Value: 0.000 kg
---------------------------------
-
-
-
-
-
-
-
-7.7.7 Print recipe cumulative report
-
-   In the stop state, on page 2 of the communication & peripheral interface, the bottom right foot is the printing of the formula cumulative report, which can be printed as required.To print the cumulative report of a recipe number, click the other recipe button, select the recipe number to be printed in the selected recipe table, and then click the "print recipe cumulative" button to print.
-   The format of the 32-column Chinese and English printing is as follows:
-           Formula cumulative report
-Balance no. : 1
-Time: 2000/01/01 8:00 p.m
---------------------------------
-Recipe: 5
-Target value: 0.000
-Cumulative number of recipes: 0
-Cumulative weight of formula: 0.000kg
---------------------------------
-
-           Rec. Report 
-ID: 1. 
-Time: 2000/01/01 80:00 
---------------------------------
-Rec. : 5
-Target: 0.000
-Rec. Times: 0
-Rec. Value: 0.000 kg
---------------------------------
-7.8 Data statistics
-
-   After weighing or in the process of weighing, if you want to view or analyze the heavy data, you can click the button "data statistics" in the main parameter setting interface to enter the data statistics interface
-   The data statistics interface includes the following functions:
-Real-time/manual refresh - real-time automatic or manual refresh of accumulated data.
-Location-used to locate the cumulative number of recipes and page Numbers, convenient to view the statistics data.
-Statistical set	-- used to set statistics in the specified time, date, range of cumulative data.
-Usb flash drive export -- data used to export device packaging result information, which can store up to 50,000 packaging records.
-Form control:
-Or you could just say Home,Previous or whatever to switch the display?
-HOME - to the first page
-Last - to Last page
-Clear - clears the data. A confirmation screen appears as shown in the figure below.
-Setup - table Settings
-
-
-
-7.9 relearning
-The process self-learning state is carried out after the self-learning switch is turned on again
-
-7.10 System information
-The system information page has two interfaces. Interface 1 is used to set the device name, device model, view the software version and set the manufacturer.
-
-
-
-   In the stop state, click "system information" on the parameter setting interface to enter the system function interface. The system function interface includes device name, model, software version, manufacturer and other information, including the reset of all parameters and the device's factory Settings.
-   Restore factory Settings - resets all system parameters to the default configuration.
-   Reset recipe parameters - reset system recipe parameters to the default configuration.
-   Reset toggle custom parameter -- reset system toggle custom parameter to default configuration.
-   Reset peripheral parameters -- reset system peripheral parameters to the default configuration.
-            Reset working parameters -- reset system working parameters to the default configuration.
-   Calibration parameter reset - reset system calibration parameters to the default configuration.
-   Initialize communication parameters -- reset the system communication parameters to the default configuration.
-   Initialize adaptive parameters -- reset the system adaptive parameters to the default configuration.
-
-7.10.1 Software upgrade (the weighing controller in the electric cabinet instead of this HMI)
-    In the "software upgrade" interface, the user can view the version number, compilation date and compilation time of the foreground and background software, and prompt the user for the upgrade method of the product.Specific upgrade method is as follows.
-7.10.1.1 Upgrade tools and instructions
-Tools: usb flash drive.
-Access to upgrade files: upgrade files can be obtained through the official website or by calling the manufacturer.
-File path requirement: the up_gm folder must be in the root of the U disk.
-File name requirement: background control program name must be ctrlup.gm
-		      The name of the foreground upgrader must be dispup.gm				
-Upgrade requirements: please ensure that during the upgrade process, the equipment is continuously energized.
-7.10.1.2 The upgrade process
-Will CtrlUp. Gm or DispUp. Gm	Copy it to the up_gm folder on your usb drive. Be careful not to change the file name.
-Long press the front screen and power the instrument until entering the system menu interface, as shown in the following figure:
-
-3. Click "Firmware Update" to enter the upgrade interface, insert the USB flash disk with touchscreen upgrade file, check whether there is a USB flash disk in the upper right corner of the interface (USB as shown below), and whether the upgrade version number displays the correct version to be upgraded.Incorrect or connectionless please reinsert the usb flash drive or replace the usb flash drive and try again.
-
-4. The left half of the interface is the software upgrade of the front touch screen, and the right half is the software upgrade of the background control board, which can be operated as required.
-Take upgrading the foreground touch screen software as an example: as shown in the figure above, click "Update", and the device will start to upgrade the foreground software. The green part in the figure above is the upgrade progress bar, and the upgrade result will be displayed in the progress bar after the upgrade (successful touch screen upgrade, failure of touch screen upgrade).After the upgrade is completed, you can also check whether the current version is consistent with the version to be upgraded to determine whether the upgrade is successful.
-Note: it takes a long time to upgrade the touch screen software (about 10 minutes). Please make sure that the power will not be cut during the upgrade.
-After the upgrade, you can power up again or "exit" the interface shown above. In the "system menu" interface, click "enter the system" to enter the main interface of the system.
-7.10.2 USB data export (refers to the USB data export from the controller in the electric cabinet)
-    You can export the controller's internal parameter Settings and statistics to the usb drive.After inserting the usb flash disk, the controller normally recognizes that the upper right corner of the usb flash disk will display the usb flash disk logo.
-    The path to the exported data is in the data_gm folder at the root of the usb stick. If the folder is not present on the usb stick, the controller will automatically create the folder and export the files to the folder.The export file is in CSV format, which can be opened and modified by excel software.
-    The export file is named as follows:
-    ParameterCalib. CSV calibration parameters
-    Parameterbasic. CSV basic parameters
-    Parameteruser.csv user parameters
-    Parameteriodef.csv IO custom
-    Parametercomm.csv communication parameters
-    Parameterperi. CSV peripheral parameter
-    ParameterAdapt. CSV	Adaptive parameter
-    ParameterPushrod. CSV push rod parameters
-    ParameterPro. CSV advanced parameters
-7.10.3 USB data import (refers to the operation from the controller in the electric cabinet)
-    Can U disk parameter data file, import into the meter. After inserting the usb flash disk, the controller normally recognizes that the upper right corner of the usb flash disk will display the usb flash disk logo.
-    The file path of the imported data is placed in the data_gm folder at the root of the U disk, select the parameter file to import, and import the parameter values into the meter.See section 6.10.3 of the previous chapter for the file name.
-    
-Chapter 8    Boot operation
-    This chapter will introduce in detail some knowledge that needs to be mastered in the process of field operation equipment, as well as the operation process of machine operation. Before operation, please read the "instructions" section of chapter 1 and confirm that the equipment is in normal condition before performing the following steps.
-8.1 Boot the login
-    Each time the device is powered on, you need to log in the account to use it. The "log in" button appears in the center of the main interface and click to log in. The default user number is system administrator.The default password is 0. When using f103a-25k for the first time, please modify the password and register users of other grades as required. See 6.4.1 "user access menu permissions" for details of each user's permissions.
- 
-8.2 The weight of the calibration
-    When f103a-25k is used for the first time, or any part of the weighing system is changed, or there is an error in the current equipment weight display, the weight of the instrument should be calibrated. The specific instructions are as follows:
-    In the stop state, the main interface -- parameter setting -- calibration scale enters the page of "weight calibration".The e calibration scale page can be used to set the unit, decimal point, the maximum range, the dividing value.
-    
-    Modify the parameters in the parameter interface, which is not detailed here, see the parameter description in the previous section for details.
-    Calibration instructions are as follows:
-    1. The equipment is equipped with standard weights, which can be used to calibrate the weight.
-8.2.1 Farmar school scale
-    1. Zero point calibration: empty the hopper and click "zero point calibration" when the weight is stable. During the calibration process, the weight display area above will display the calibration results.
-    2. Gain calibration: add weights into the measuring hopper. After the weight is stable, click the weight input box of the weight and input the weight of the weight for gain calibration.After successful calibration, the weight shown in the weight display area is the weight of the input weight.If the gain calibration fails, try again.
-Note: due to the good tightness of the device, the side plate on the upper side of the device should be opened before the weight is put into the measuring hopper.
-
-
-
-8.3 Start the
-After weight calibration, directly return to the main interface (as shown below) and set the target value according to the actual demand.
- 
-
-
-Due to the high degree of intelligence and automation of the equipment, only the target value and other parameters such as the drop value of quick addition need to be set in the actual operation. The equipment will acquire by itself through self-learning. In the process of operation, the equipment will also adjust the drop value of quick addition according to the deviation of each actual weight.Therefore, in the main interface, you only need to input the actual target value in the target value input box, and click start to weigh.
-
-Chapter 9    Basic function description
-
-9.1 Basic operating process
-After the external input operation signal is effective, the meter will enter the operation state and start the automatic packaging process.
-The basic automatic packaging process is as follows:
-    1. Judge whether the target value is set reasonably and whether the size of feeding door needs to be adjusted before starting.
-    2. Delay time before starting feeding (user parameter 12)
-    3. If the adaptive function is on, judge whether the self-learning needs to be restarted (for example, the self-learning needs to be restarted if the current formula does not have the parameters of fast advance and drop value); otherwise, feed directly according to the current formula parameters.Here's what happens when the adaptive feature is turned on
-    4. If the adaptive function is turned on, the first scale will learn about the fast increase and drop.
-    5. Start feeding normally from the second scale, and according to the feeding result of each scale, the controller will conduct automatic calculation to determine whether the quick addition value and the drop value are appropriate and make automatic correction.
-    6. Start fixed value holding time after feeding (user parameter 13)
-    7. Record the current weight value as the result of this scale after the end of fixed value holding time.
-    8. If the over and under tolerance switch is on, the over and under tolerance function will be processed.
-    9. Judge that the output signal of the bag clamping is effective, then output unloading.
-    10. After unloading time (formula parameter 5), close the unloading output and start bagging delay for bagging.
-    11. After the completion of a basic packaging process, proceed to the next packaging process and start the delay time before feeding.
-9.2 Adaptive function description
-    When the adaptive switch is turned on, the controller will start the adaptive function. At the same time, it will be unable to manually set the advance value (formula parameter 3) and the drop value (user parameter 4), and the controller will automatically find the appropriate values of these two parameters.
-    Adaptation is divided into two processes: self-learning and self-correction.
-    Self-learning refers to: a new formula only has the target value setting, and does not have the parameter setting of quick loading and drop value. At this point, the controller will first carry out the self-learning function after starting the first balance, and discontinuously open the quick loading door and the slow loading door to learn the fast loading value and drop value, so as to find a general parameter.
-    Since the correction process is to point to: controller has access to fast with nc and divide values, collect each charging process, analyze recently for a period of time the charging status, current fast gap and accelerate the value whether appropriate, such as the process of automatic correction would be inappropriate, the purpose of correction is on the premise of guarantee the accuracy, try to improve the packaging speed.
-9.3 Over and under detection function
-    After the over-and-under-error detection function is turned on (formula parameter 6), the current feeding result will be judged after the fixed value holding time of feeding is completed during the operation:
-Target value - less than or equal to the difference between less than or equal to the difference between less than or equal to the difference between less than or equal to the difference between less than or equal to the difference between less than or equal to the difference between less than or equal to the difference between less than or equal to the difference between.
-The > target value + out-of-tolerance value of the feeding result will be judged as out-of-tolerance, and the output alarm signal will be out-of-tolerance.
-If the feeding result is less than the target value and the underbalance value, it will be judged as the underbalance and the overbalance alarm signal will be output.
-    When the situation of over and under difference occurs, if the over and under difference pause switch (formula parameter 10) is opened, the controller will temporarily determine the packaging process and prompt the user to suspend the over and under difference and wait for the user's processing. The user can input the clear alarm signal to continue the packaging process or the emergency stop signal to enter the stop state and stop the packaging.
-
-Chapter 10 Modbus communication protocol description
-
-10.1 Communication protocol description
-    When the communication parameters are modbus-rtu or modbus-ascii, the instrument is the standard Modbus protocol, and the relevant parameters are set in chapter 7.7.1.
-    There are the following special restrictions:
-    For double-word registers, writes must be written in double-word that is, 4 bytes.
-    Unlisted register readout data may not be zero, nonsensical.
-    Registers not listed, no writes allowed.
-         For specific Modbus register definitions, please refer to the following section.
-
-10.2 Register address list
-    * the yellow background color represents a read-only register that cannot be written.
-    * the gray background color represents runtime writable.
-The ModBus addresscontentnoteparametersThe initial valueInstrument status section0The current weight   
-A four - byte signed integer   1   2Instrument status 10: AD acquisition module is abnormal
-.1: ferroelectric memory failure
-2: abnormal putter feedback signal
-3. Abnormal sensor signals
-4: weight overflow
-.5: stable weight
-. 6: zero
-7: minus sign
-.8: stable at millivolts
-9: lock machine status
-
-...  3Instrument status 2. 0: run
-.1: before feeding
-2: fast
-3: slow
-. 4: fixed value
-. 5: the poor
-6: owe is bad
-7: report to the police
-. 8: clip bag
-. 9: discharge
-. 10: feed
-11: lack of material
-12: feeding level
-13: blanking level
-. 14: code
-.15: the preset number of packets is completed  4Instrument status 30: the door size is being adjusted
-1: in the process of acquiring self-learning parameters
-2. Complete the packaging in one time
-. 3:
-...  5The alarm information0: no alarm
-1: batch completion
-2: reset beyond the range (2s)
-3: unstable when zeroing (2s)
-4: unable to start (2s) if the target value is 0
-5: over and under pause
-6: unable to print, no serial port set to print function (2s)
-7: zero clearing operation is prohibited during operation (2s)
-8: over and under alarm
-9: learning from failure
-10: putt adjustment fails
-11: unloading failure (too short unloading time or failure of unloading mechanism)  6The default package number 0 ~ 999999 78Number of remaining preset packets 0 ~ 999999 910years 2000 ~ 2099 11month 1 ~ 12 12day 1 to 31 13weekAutomatic calculation of the week without writing1 ~ 7 14when 0 ~ 23 15points 0 ~ 59 16seconds 0 ~ 59      50Weight of upper package   51 52Packaging time
-(quick start to end of unloading)Unit of ms  53 54Quickly add timeUnit of ms  55 56Slowly add timeUnit of ms  57 58Constant value time
-(from the end of slow loading to the start of unloading)Unit of ms  59 60Discharging timeUnit of ms  61      Calibration of100The zero calibration Write 1 to mark the zero
-Read returns 0 101 102Calibration with weight gain (input weight)Input current weight weight calibration gain
-Read returns the current calibration weight0 ~ 999999 103 104Material gain calibration (record current AD code) Write 1 record gain AD code
-Read returns 0 105 106Material gain calibration (input weight)Input gain weight
-Read returns the current calibration weight0 ~ 999999 107 108Absolute millivoltsDefaults to 3 decimal places
-A value of 12345 represents 12.345mV  109 110Gain millivoltsDefaults to 3 decimal places
-A value of 12345 represents 12.345mV  111 112Calibration result information 0: no information
-1: successful calibration
-2: the current sensor voltage is unstable
-3: the input weight is unreasonable
-4: the current sensor voltage is too high
-5: the current sensor voltage is too small
-6. High calibration resolution
-(alarm message will be automatically eliminated after 2 seconds)      The basic parameters200unitZero: g; 1 kg; 2: t; 3: lb0 ~ 31201The decimal point 0 ~ 43202Dividing the value 1, 2, 5, 10, 20, 501203Maximum range 1-999999100000204205The scale body model0: single scale;0 ~ 20206Automatic reset interval 0 ~ 999980207Reset the scope 1 ~ 99%10208Sentenced to stabilizing range 0 ~ 99 d5209Sentenced to stabilizing time 100 ~ 9999 ms300210Zero tracking range 0 ~ 9 d3211Zero tracking time 0 ~ 9999 ms2000212Run AD filter series 0 ~ 92213Stop the AD filter series 0 ~ 99214Power on automatic reset switch 0 ~ 10215Manual discharge accumulator switch 0 ~ 10216Set weight hold switch 0 ~ 11     User preferences300The formula, 1 ~ 201301The targetThe target value is modified to relearn itself.
-These parameters can be modified at runtime.
-After the modification of the target value, fast lifting and slow lifting, the next scale will come into effect. Other parameters will come into effect immediately.0 ~ 9999990302303Let's go ahead and do that0 ~ 9999990304305Slow down0 ~ 9999990306307Discharging time0 ~ 99999 ms300308309Delay before feeding0 ~ 99999 ms0310311Fixed holding time0 ~ 99999 ms900312313Out of tolerance switch0 ~ 10314Ultra difference0 ~ 9999990315316Owing to difference0 ~ 9999990317318Over and under alarm time0 ~ 99999 ms2000319320Out of tolerance pause switch0 ~ 10321Number of single scale combinations 0 ~ 991322Size of feeding port 0 ~ 5
-Zero: ~ 4.950
-1:4. 950 ~ 9.950
-5. 950 ~ 14.950
-3:14. 950 ~ 19.950
-Now. 950 ~ 24.950
-He ~ 950 323Feeding signal output mode0: combined output (fast plus output size)
-1: single output (fast plus only large output)0 ~ 10     Switch quantity400Start/end switch quantity testWrite 1 to start switch quantity test; Write 0 to end the switch test0 ~ 1 401Input switch quantity testEach bit from low to high represents an input state0 ~ 0 x0fff 402Output switch quantity testEach bit from low to high represents an output state0 ~ 0 x0fff 403IN1Switch quantity customEnter the definition list:
-I0: undefined
-I1: start
-I2: stop
- I3: stop   
-I2: reset
-I5: clear alarm
-I6: select the recipe
-I7: clip/loose bag
-I8: manual unloading
-I9: manual slow add
-I10: manual quick add
-I11: total print accumulations
-I12: feeding level
-I13: blanking level
-I14: start/stop (level)
-I15: start/emergency stop (level)
-I16: manual discharge (level)
-I17: manual slow add (level)
-I18: manual quick add (level)
-I19: push to open the door
-I20: putt closing1404IN22405IN33406IN44407IN55408IN66409IN77410IN88411IN99412IN1010413IN110414IN120415The OUT1Output definition list:
-O0: undefined
-O1: run
-O2: stop
-O3: quick to add
-M1: and slow
-O5: discharge
-O6: fixed value/feeding completion/arrival
-O7: over and under tolerance
-O8: alarm
-O9: clip bag
-O10: code
-11: feed
-O12: lack of material
-O13: preset number of packets completed
-O14: push to open the door
- O15: putt closing    
-O16: once packaging is completed (2s output after unloading)3416OUT24417OUT35418OUT414419OUT515420OUT69421OUT71422OUT88423OUT910424OUT1013425OUT117426OUT1216427Start the Writing: 1.
-Read: 1: running state. 0: stop state. 428scram Writing: 1.
-Read: 1: stop state. 0: running state. 429stop Writing: 1.
-Read: 1: stop signal has been input (it will stop after this packaging process)
-      0: stop signal not input  430reset Writing: 1.
-Read: 1: weight is 0.   0: non-zero weight. 431Remove alarm Writing: 1.
-Read: 1: no alarm. 0: there is an alarm. 432Choose the formula Writing: 1.
-Read: 0. 433Loose bag Writing: 1.
-Read: 1: bagged. 0: no pockets. 434Manual unloading Writing: 1.
-Read: 1: effective discharge. 0: invalid unloading. 435Slowly add manually Writing: 1.
-Read: 1: slow plus works. 0: slow add is invalid. 436Quickly add manually Writing: 1.
-Read: 1: quick and effective. 0: fast add is invalid. 437Restart self learning Writing: 1.
- Read: 1: learning by yourself. 0: self-study complete.  438Automatic feeding once
-(stop after the fixed value) Writing: 1.
-Read: 1: automatic feeding in progress. 0: no automatic feeding.      Communication part500Serial 1 slave numberA serial port 11-991501Serial port 1 communication protocolZero: the Modbus RTU
-1: the Modbus - ASCII
-2: serial printer0502Serial port 1 baud rate0:9 600
-"200
-400 instant
-3:57 600
-"5200
-Finally, 60002503Serial 1 data format0:18 N2
-1:18 E1
-When O1
-3:18 N11504Serial port 1Modbus highland word order0: height comes first
-1: the lower word comes first0505Serial 2 slave numberA serial port 21-991506Serial port 2 communication protocolZero: the Modbus RTU
-1: the Modbus - ASCII
-2: serial printer0507Serial port 2 baud rate0:9 600
-"200
-400 instant
-3:57 600
-"5200
-Finally, 60002508Serial 2 data format0:18 N2
-1:18 E1
-When O1
-3:18 N11509Serial port 2Modbus highland word order0: height comes first
-1: the lower word comes first0510RJ45 port IP address group 1so0 ~ 2550511RJ45 port IP address group 20 ~ 2550512RJ45 port IP address group 30 ~ 2550513RJ45 port IP address group 40 ~ 2550514RJ45 port number0 ~ 65535502515RJ45 network port communication protocolZero: the Modbus TCP/IP0516RJ45 network Modbus highland word order0: height comes first
-1: the lower word comes first0     A peripheral part of the600Clip bag delay 0 ~ 9999 ms500601Loose bag before delay 0 ~ 9999 ms500602Code switch 0 ~ 10603Code start delay 0 ~ 9999 ms0604Code output valid time 0 ~ 9999 ms2000605Discharge is not allowed while marking 0 ~ 10606Print paper format0:16 columns;
-1:32 column0 ~ 11607Print languageZero: Chinese
-1: English0 ~ 10608Number of lines to print 0 ~ 93609Automatic printing switch for packaging results 0 ~ 10610Total cumulative data printingRead: 0
-Write: 1 print total cumulative data  611Formula cumulative table printRead: 0
-Write: 0: print the current formula cumulative report.
-1~20 print the cumulative report of corresponding recipe number 1~20.
-Print all recipe cumulative reports (do not print recipes with a target value of 0).       System related700Equipment modelASCII characters F3701 01702 A -703 25704 K.705  706  707  708  709  710The version number6 digits, such as 123456 version number 12.34.560 ~ 999999 711 712Compilation date: yearThe compilation date of the current software2000 ~ 2099 713Compile date: month1 ~ 12 714Compile date: day1 to 31 715Compile date: when0 ~ 99 716Compile date: minute1 ~ 12 717Compile date: seconds1 to 31 718Parameters of the resetResets the corresponding parameter based on the written valueWrite:
-0 reset all (for production use, including all the following)
-Reset all (customers) including the following
-2. Reset basic parameters
-Reset calibration
-Reset user parameters
-Reset the peripheral
-6. Reset adaptive parameters
-7. Reset communication parameters
-Reset switch quantity custom
-9. Reset adaptive statistics
-
-Read: 0      720Turn on/off USB 1: turn on USB
-0: close USB 721The USB device is connected 0: USB device is connected
-1: USB device is not connected 722USB bulk storage device is connected 0: USB large capacity storage device has been connected
-1: USB large capacity storage device is not connected 723Export dataWrite the corresponding value and export the corresponding data to USB
-The path to the exported data is the U disk root directory /data_gm folder
-The file name is:
-
-Calibration parameter: parametercalib. CSV
-Basic parameters: parameterbasic.csv
-User parameters: parameteruser.csv
-IO customization: parameteriodef.csv
-Communication parameters: parametercomm.csv
-Peripheral parameters: parameterperi. CSV
-Adaptive parameter: parameteradapt.csv
-Parameters: ParameterPushrod. CSV
-Advanced hidden parameters: ParameterHide. CSV
-Statistics: statisticacc. CSV
-Statistics of packing records (super user) : StatisticPacking. CSV
-Packing record statistics (super user) : StatisticPackingSuper. CSV
-Statistics of parameter modification: statisticpara.csvWrite:
-10: all parameters
-11: calibration parameters
-12: basic parameters
-13: user parameters
-14: IO customization
-15: communication parameters
-16: peripheral parameters
-17: adaptive parameters
-18: putt parameters
-19: advanced hidden parameters
-50: all stats (power users)
-51: all stats (non-power users)
-52: cumulative statistics
-53: packaging record statistics (super user)
-54: packaging record statistics (non-power users)
-55: parameter modification statistics
-Read: 0 724Data export result information 0: no information
-1: export successful
-2: export failed
-(information will be automatically erased after 2 seconds) 725Data importWrite the corresponding value to import the corresponding data from USB
-The path to import data is the U disk root /data_gm folder
-The file name is:
-
-Calibration parameter: parametercalib. CSV
-Basic parameters: parameterbasic.csv
-User parameters: parameteruser.csv
-IO customization: parameteriodef.csv
-Communication parameters: parametercomm.csv
-Peripheral parameters: parameterperi. CSV
-Adaptive parameter: parameteradapt.csv
-Parameters: ParameterPushrod. CSV
-Advanced hidden parameters: ParameterHide. CSVWrite:
-10: all parameters
-11: calibration parameters
-12: basic parameters
-13: user parameters
-14: IO customization
-15: communication parameters
-16: peripheral parameters
-17: adaptive parameters
-18: putt parameters
-19: advanced hidden parameters
-Read: 0 726Data import result information 0: no information
-1: successful import
-2: import failed
-3: the import file does not exist
-(information will be automatically erased after 2 seconds)      Target value data 1100Target value (formula 1) 0 ~ 999999 1101 1102Target value (formula 2)  1103 1104Target value (formula 3)  1105 1106Target value (formula 4)  1107 1108Target value (formula 5)  1109 1110Target value (formula 6)  1111 1112Target value (formula 7)  1113 1114Target value (formula 8)  1115 1116Target value (formula 9)  1117 1118Target value (formula 10)  1119 1120Target value (formula 11)  1121 1122Target value (recipe 12)  1123 1124Target value (recipe 13)  1125 1126Target value (recipe 14)  1127 1128Target value (recipe 15)  1129 1130Target value (recipe 16)  1131 1132Target value (recipe 17)  1133 1134Target value (recipe 18)  1135 1136Target value (recipe 19)  1137 1138Target value (recipe 20)  1139      The accumulated data  1200Clear the total cumulative dataWrite 1 to clear the total cumulative data and all recipe cumulative data
-Write 2 only clear the total cumulative data does not clear the formula cumulative data  1201Clear recipe cumulative dataWrite person 0 to clear all recipe accumulations
-Write 1~20 to clear the accumulated data of the corresponding formula 1~20  1202Total cumulative numberMaximum 9 decimal digits  1203  1204Total cumulative weight (4 places higher)Maximum 13 decimal digits  1205  1206Total cumulative weight (9 places lower)  1207  1208Total ultra differenceMaximum 9 decimal digits  1209  1210Total owed differenceMaximum 9 decimal digits  1211  1212The total number of qualifiedMaximum 9 decimal digits  1213  1214The total qualified rate of0~10000 defaults to 2 decimal points  1215Cumulative times (formula 1)   1216   1217Cumulative weight (formula 1)   1218   1219Cumulative weight (formula 1)   1220   1221Overdifference (formula 1)   1222   1223Underbalance (formula 1)   1224   1225Qualified number (formula 1)   1226   1227Qualification rate (formula 1)   1228Cumulative times (formula 2)   1229   1230Cumulative weight (formula 2)   1231   1232Cumulative weight (formula 2)   1233   1234Overdifference (formula 2)   1235   1236Underbalance (formula 2)   1237   1238Qualified number (formula 2)   1239   1240Qualification rate (formula 2)   1241Cumulative times (formula 3)   1242   1243Cumulative weight (formula 3)   1244   1245Cumulative weight (formula 3)   1246   1247Overdifference (formula 3)   1248   1249Underbalance (formula 3)   1250   1251Qualified number (formula 3)   1252   1253Qualification rate (formula 3)   1254Cumulative times (formula 4)   1255   1256Cumulative weight (formula 4)   1257   1258Cumulative weight (formula 4)   1259   1260Overdifference (formula 4)   1261   1262Underbalance (formula 4)   1263   1264Qualified number (formula 4)   1265   1266Qualification rate (formula 4)   1267Cumulative times (formula 5)   1268   1269Cumulative weight (formula 5)   1270   1271Cumulative weight (formula 5)   1272   1273Overdifference (formula 5)   1274   1275Underbalance (formula 5)   1276   1277Qualified number (formula 5)   1278   1279Qualification rate (formula 5)   1280Cumulative times (formula 6)   1281   1282Cumulative weight (formula 6)   1283   1284Cumulative weight (formula 6)   1285   1286Overdifference (formula 6)   1287   1288Underbalance (formula 6)   1289   1290Qualified number (formula 6)   1291   1292Qualification rate (formula 6)   1293Cumulative times (formula 7)   1294   1295Cumulative weight (formula 7)   1296   1297Cumulative weight (formula 7)   1298   1299Overdifference (formula 7)   1300   1301Underbalance (formula 7)   1302   1303Qualified number (formula 7)   1304   1305Qualification rate (formula 7)   1306Cumulative times (formula 8)   1307   1308Accumulated weight (formula 8)   1309   1310Accumulated weight (formula 8)   1311   1312Overdifference (formula 8)   1313   1314Underbalance (formula 8)   1315   1316Qualified number (formula 8)   1317   1318Qualification rate (formula 8)   1319Cumulative times (formula 9)   1320   1321Cumulative weight (formula 9)   1322   1323Cumulative weight (formula 9)   1324   1325Overdifference (formula 9)   1326   1327Underbalance (formula 9)   1328   1329Qualified number (formula 9)   1330   1331Qualification rate (formula 9)   1332Cumulative times (formula 10)   1333   1334Total weight (formula 10)   1335   1336Cumulative weight (formula 10)   1337   1338Overdifference (formula 10)   1339   1340Underbalance (formula 10)   1341   1342Qualified number (formula 10)   1343   1344Qualification rate (formula 10)   1345Cumulative times (formula 11)   1346   1347Total weight (formula 11)   1348   1349Cumulative weight (formula 11)   1350   1351Overdifference (formula 11)   1352   1353Underbalance (formula 11)   1354   1355Qualified number (formula 11)   1356   1357Qualification rate (formula 11)   1358Cumulative times (formula 12)   1359   1360Cumulative weight (formula 12)   1361   1362Cumulative weight (formula 12)   1363   1364Overdifference (formula 12)   1365   1366Underbalance (formula 12)   1367   1368Qualified number (formula 12)   1369   1370Qualification rate (formula 12)   1371Cumulative times (formula 13)   1372   1373Total weight (formula 13)   1374   1375Cumulative weight (formula 13)   1376   1377Overdifference (formula 13)   1378   1379Underbalance (formula 13)   1380   1381Qualified number (formula 13)   1382   1383Qualification rate (formula 13)   1384Cumulative times (formula 14)   1385   1386Total weight (formula 14)   1387   1388Cumulative weight (formula 14)   1389   1390Overdifference (formula 14)   1391   1392Underbalance (formula 14)   1393   1394Qualified number (formula 14)   1395   1396Qualification rate (formula 14)   1397Cumulative times (formula 15)   1398   1399Accumulated weight (formula 15)   1400   1401Accumulated weight (formula 15)   1402   1403Overdifference (formula 15)   1404   1405Underbalance (formula 15)   1406   1407Qualified number (formula 15)   1408   1409Qualification rate (formula 15)   1410Cumulative times (formula 16)   1411   1412Cumulative weight (formula 16)   1413   1414Cumulative weight (formula 16)   1415   1416Overdifference (formula 16)   1417   1418Under tolerance (formula 16)   1419   1420Qualified number (formula 16)   1421   1422Qualification rate (formula 16)   1423Cumulative times (formula 17)   1424   1425Cumulative weight (formula 17)   1426   1427Cumulative weight (formula 17)   1428   1429Overdifference (formula 17)   1430   1431Underbalance (formula 17)   1432   1433Qualified number (formula 17)   1434   1435Qualification rate (formula 17)   1436Cumulative times (formula 18)   1437   1438Cumulative weight (formula 18)   1439   1440Cumulative weight (formula 18)   1441   1442Overdifference (formula 18)   1443   1444Under tolerance (formula 18)   1445   1446Qualified number (formula 18)   1447   1448Qualification rate (formula 18)   1449Cumulative times (formula 19)   1450   1451Total weight (formula 19)   1452   1453Accumulated weight (formula 19)   1454   1455Overdifference (formula 19)   1456   1457Underbalance (formula 19)   1458   1459Qualified number (formula 19)   1460   1461Qualification rate (formula 19)   1462Cumulative times (formula 20)   1463   1464Accumulated weight (formula 20)   1465   1466Accumulated weight (formula 20)   1467   1468Overdifference (formula 20)   1469   1470Under tolerance (formula 20)   1471   1472Qualified number (formula 20)   1473   1474Qualification rate (formula 20)             Packaging records 1500Total number of recordsWrite 0 to clear the record0 ~ 50000 1501View the start number 1-50000 1502Serial number (1)64 registers, 128Byte
-One sector size of 4KB allows 32 entries
-A total of 1562.5 sectors are required for 50000 pieces of data
-In addition, 1 sector required for storage and packaging records: 1564 sectors1-50000 1503Total cumulative times (1)0 ~ 999999999 1504 1505Date (1)Decimal 8-digit year/month/day: 20160111 (2016/01/11) 1506 1507Time (1)Decimal 6 bit time: 160552 (16:05:52) 1508 1509Recipe no. (1)1 ~ 20 1510Resulting weight (1)The weight of the 1511 1512Target value (1)The weight of the 1513 1514Quick increase (1)The weight of the 1515 1516Drop value (1)The weight of the 1517 1518Package time (1)ms 1519 1520System to keep  1521 1522  1523 1524  1525 1526  1527 1528  1529 1530  1531 1532  1533 1534  1535 1536  1537 1538  1539 1540  1541 1542  1543 1544  1545 1546  1547  1548  1549Don't use  1550  1551  1552  1553  1554  1555  1556  1557  1558  1559  1560  1561  1562  1563  1564  1565  1566Serial number (2), reference serial number (1)...16291630Serial number (3), reference serial number (1) 16931694Serial number (4), reference serial number (1) 17571758Serial number (5), reference serial number (1) 1821  Parameter modification record 1900Total number of recordsWrite 0 to clear the record0 ~ 50000 1901View the start number 1-50000 1902Serial number (1)There are 16 registers
-Reserve 32Byte for each byte
-One sector size (4KB) for 128 files
-A total of 390.625 sectors are required for 50000 pieces of data
-In addition, 2 sectors are required for storing records. A total of 392 sectors are required1-50000 1903Date of modification (1)Decimal 8-digit year/month/day: 20160111 (2016/01/11)19041905Modification time (1)Decimal 6 bit time: 160552 (16:05:52)19061907Modify source (1)0: UART0(serial port 1)
-1: UART1(with display screen)
- 2: UART2(serial port 2)   
-3: UART3(standby)
-4: TCP1908Parameter address (1)The Modbus address1909Modified value (1) 1910 1911Original value (1) 1912 1913  1914  1915  1916  1917  1918Serial number (2), reference serial number (1)...19331934Serial number (3), reference serial number (1)...19491950Serial number (4), reference serial number (1)...19651966Serial number (5), reference serial number (1)...1981Chapter 11 Maintenance and warranty
-The F103A-25K automatic quantitative packing scale equipment provided by germain technology co., ltd. has been designed and manufactured with the convenience of users in operation in mind to the greatest extent. Meanwhile, the maintenance time of the equipment provided by germain technology co., ltd. has also been reduced to improve the efficiency of the equipment.However, in order to ensure the good normal operation of the equipment and minimize the number of failures, we still require users to carry out necessary periodic maintenance and maintenance of the equipment in the production process, which can reduce unnecessary abnormal downtime and always make the equipment in the best working state.
-· use and maintenance
-All parts have been tested and qualified before leaving the factory, and shipped as a whole after assembly.
-Before use, carefully check the fasteners of each part, the initial position of each moving part and the movement of the actuator. If there is any abnormality, please eliminate it in time.
-After the end of each shift, the materials should be cleaned in time. In principle, long-term storage of materials is not allowed in each part, so as to avoid agglomeration of materials and affect the normal use of equipment.
-The first maintenance of each part should be carried out within the first week of work, check whether the fasteners are loose, and clean the rotating parts such as bearings and bushing. No lubricating oil needs to be added to the rotating part. And then once a month.
-If the parts are not used for a long time, they must be cleaned and stored in a dry place. All cylinders should be in a contracting state. Grease fasteners and galvanized parts to prevent rust.
-According to the different materials, if necessary to carry out multiple cleaning.
-In the cleaning process should pay attention to protect the equipment from collision, scratch.
-· clean display
-If you need to clean the monitor, wipe it with a soft cloth dipped in a soft detergent.
-Warranty principles
-    In principle, the first installation and debugging should be carried out by our professional technicians or the company entrusted by our company.
-Equipment failure caused by the following circumstances is not covered by the company's warranty:
-Failure to follow instructions
-Installation without professional guidance
-Make structural changes to the equipment
-Unauthorized damage to equipment
-Programming and manipulation errors
-Natural damage of equipment
-Chapter 12 Analysis and troubleshooting of common faults
-Common failures and solutions;
-The serial numberThe fault phenomenonwhyThe solution1Equipment startup does not fall1. There is no material in the storage bin
-2. The bin closing door is not open
-3. Air source leakage connection
-4. The air pressure is too low or low1. Feed the storage bin
-Open the door
-3. Connect the air source
-Increase the pressure or turn on the pressure switch2Do not unload after weighingThe device can not receive the signal of the bag
-The combination number of single scale is not set to 0Check and exclude
-Set the corresponding combination times according to specific needs3The actual weighing has been out of toleranceEquipment not calibrated
-Fast gag is too large for time setting
-The air pressure of the air source is too low, which causes the feeding door to be closed for too longTo a scale
-Fast add forbidden time than appropriate to reduce
-Increase the pressure
-4Display values are unstableStrong wind or vibration in the surrounding environment
-Weight sensor faultCheck and exclude
-
-Check the sensor and replace it if necessary5The weighing weight is not up to standardWeight sensor fault
-Not reset before use
-Equipment not calibrated
-Incomplete dischargeCheck the sensor and replace it if necessary
-Stop reset
-recalibrate
-Increase discharge time appropriately6Data cannot be exportedU disk is damaged
-The usb interface of the electric control box is damagedReplace the U disk
-Check the interface7Incorrect weight shownThe packing scale is not calibrated correctly
-Air pipe connection is too tight
-Sensor damage 
-Sensor mounting bolts loose 
-Mechanical structure wear, location uncertainty or discharge door leakage
-The instrument operation amplification part is damagedTo calibrate
-Readjustment of trachea
-Replace the sensor
-Tighten the retaining bolt
-Replace worn parts and reset to proper condition
-Replace the instrument PCB motherboard8The actuator does not move or the action is not in placeThe 24V dc power supply is not supplied
-Solenoid valve fault
-Air pressure is insufficient
-The actuator is jammed
-Damage to the cylinder 
-Relay corresponding contact faultCheck the dc power supply
-Replace the solenoid valve
-Adjust the pressure
-Find the stuck part and adjust it
-Replace the cylinder
-Replacement relay9Inaccuracy of physical measurement (high and low, high dispersion)Pressure fluctuation of compressed air
-Material flow rate is too high
-The size throws movement is too slow
-Material overshootStop packing until the air pressure is stable
-Reduce slow feeding speed
-Adjust the cylinder speed
-Increase the forbidden compare time
-
-	
-
