@@ -1,8 +1,0 @@
-
-Table 1:
-Milk receiving tank	60 Litre
-Vacuum pump	750 LPM
-Motor single/three phase	3 HP
-Milk pump	9000 lit/hr., 220 V
-Electronic/pneumatic pulsator	Compatible to all 12V - 24V DC systems
-Imported milk meter with high accuracy and easy sampling	30 kg with accuracy of +/- 3%
